@@ -1,0 +1,108 @@
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>github人物关系图</title>
+	</head>
+	<body>
+		<script src="d3.v3.min.js" charset="utf-8"></script>
+		<script>
+			d3.json("http://localhost:8080/info.json",function(error,data){
+				var nodes = data.nodes;
+				var edges = data.edges;	
+				
+				var width = 40000;
+				var height = 20000;
+				
+				edges.forEach(function(edge){
+					edge.source = (nodes[edge.source]) || (nodes[edge.source] = {name: edge.source, size:3});
+					edge.target = (nodes[edge.target]) || (nodes[edge.target] = {name: edge.target, size:3});
+				});
+				console.log(edges);
+				
+				var svg = d3.select("body")
+							.append("svg")
+							.attr("width",width)
+							.attr("height",height);
+				
+				var force = d3.layout.force()
+						.nodes(d3.values(nodes))		//指定节点数组
+						.links(edges)		//指定连线数组
+						.size([width,height])	//指定范围
+						.linkDistance(function(d){
+							return 400 - d.weight*5;
+						})	//指定连线长度
+						.charge([-400]);	//相互之间的作用力
+		
+				console.log(nodes);
+				force.start();	//开始作用
+		
+				console.log(nodes);
+				
+				//添加连线		
+				var svg_edges = svg.selectAll("line")
+									.data(edges)
+									.enter()
+									.append("line")
+									.style("stroke","red")
+									.style("stroke-width",function(d,i){
+										return d.weight/2;
+										});  
+				
+				var color = d3.scale.category20();
+					
+					
+				function  radius (d){ 
+					if(!d.size){//节点weight属性没有值初始化为1（一般就是叶子了）
+						d.size=1;
+					}                            
+					return (Math.log(d.size)+5) * 4;                     
+				}	
+				//添加节点			
+				var svg_nodes = svg.selectAll("circle")
+									.data(force.nodes())
+									.enter()
+									.append("circle")
+									.attr("r",function(d){
+										console.log(radius(d));
+										return radius (d);
+									})
+									.style("fill",function(d,i){
+										return color(i);
+									})
+									.call(force.drag);	//使得节点能够拖动
+		
+				//添加描述节点的文字
+				var svg_texts = svg.selectAll("text")
+									.data(force.nodes())
+									.enter()
+									.append("text")
+									.style("fill", "black")
+									.attr("dx", 20)
+									.attr("dy", 8)
+									.text(function(d){
+										return d.name;
+									});
+							
+		
+				force.on("tick", function(){	//对于每一个时间间隔
+				
+					 //更新连线坐标
+					 svg_edges.attr("x1",function(d){ return d.source.x; })
+					 		.attr("y1",function(d){ return d.source.y; })
+					 		.attr("x2",function(d){ return d.target.x; })
+					 		.attr("y2",function(d){ return d.target.y; });
+					 
+					 //更新节点坐标
+					 svg_nodes.attr("cx",function(d){ return d.x; })
+					 		.attr("cy",function(d){ return d.y; });
+		
+					 //更新文字坐标
+					 svg_texts.attr("x", function(d){ return d.x; })
+					 	.attr("y", function(d){ return d.y; });
+				});		
+				
+			});
+		</script>
+	</body>
+
+</html>
