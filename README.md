@@ -2,6 +2,19 @@
 the relational network of github
 这是用来获取github上，关系网络的python程序。他使用python来进行爬取和分析，使用d3.js进行可视化展示。
 
+
+## 仅仅是为了好玩
+
+如果，你现在不想运行，而只是想看看效果，可以直接启动`start.sh`或`start.bat`脚本，然后打开浏览器"localhost:8888/show.html"查看，期间仅仅需要一个`python`的运行环境。
+
+如果你连`python`的环境都没有，那也没关系，你可以打开`show.html`，将其中`json`的路径替换为"https://raw.githubusercontent.com/InnerAc/githubRelational/master/info.json"
+然后直接使用浏览器打开该文件即可。
+
+打开浏览器后建议缩放到最小，然后将屏幕拖到中间。
+
+展示图片如下:
+![展示](http://pfile.cn/ddjdw1-l)
+
 ## 部署
 在部署之前，你首先应该拥有一下环境:
 ```sh

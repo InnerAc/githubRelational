@@ -6,12 +6,14 @@
 	<body>
 		<script src="d3.v3.min.js" charset="utf-8"></script>
 		<script>
-			d3.json("http://localhost:8080/info.json",function(error,data){
+			// jsonPath = "localhost:8888//info.json"
+			jsonPath = "https://raw.githubusercontent.com/InnerAc/githubRelational/master/info.json"
+			d3.json(jsonPath,function(error,data){
 				var nodes = data.nodes;
 				var edges = data.edges;	
 				
-				var width = 10000;
-				var height = 5000;
+				var width = 7500;
+				var height = 3750;
 				
 				edges.forEach(function(edge){
 					edge.source = (nodes[edge.source]) || (nodes[edge.source] = {name: edge.source, size:3});
