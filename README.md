@@ -13,7 +13,7 @@ the relational network of github
 打开浏览器后建议缩放到最小，然后将屏幕拖到中间。
 
 展示图片如下:
-![展示]("http://pfile.cn/ddjdw1-l")
+![展示](http://i12.tietuku.com/60edf1417e7b97b1.png)
 
 ## 部署
 在部署之前，你首先应该拥有一下环境:
