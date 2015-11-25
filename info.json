@@ -1,0 +1,11847 @@
+{
+	"nodes": {
+		"redhjkl": {
+			"name": "RedHjkl",
+			"size": 6
+		},
+		"winkidney": {
+			"name": "Ji Qu",
+			"size": 11
+		},
+		"arition": {
+			"name": "arition",
+			"size": 8
+		},
+		"niklaus520": {
+			"name": "Marvin",
+			"size": 11
+		},
+		"windy": {
+			"name": "yafei Lee",
+			"size": 13
+		},
+		"numb3r3": {
+			"name": "Feng Wang",
+			"size": 11
+		},
+		"sunnycase": {
+			"name": "sunnycase",
+			"size": 7
+		},
+		"jiaoew1991": {
+			"name": "Enwei Jiao",
+			"size": 8
+		},
+		"zhangbaoliang": {
+			"name": "zhangbaoliang",
+			"size": 2
+		},
+		"m13253": {
+			"name": "Star Brilliant",
+			"size": 12
+		},
+		"swordfeng": {
+			"name": "Jianfeng Zhang",
+			"size": 8
+		},
+		"seavantuuz": {
+			"name": "AprocySanae",
+			"size": 10
+		},
+		"anyofyou": {
+			"name": "Dary",
+			"size": 11
+		},
+		"albusmath": {
+			"name": "Albus",
+			"size": 8
+		},
+		"zhangboyang": {
+			"name": "Zhang Boyang",
+			"size": 5
+		},
+		"zhiyue": {
+			"name": "zhiyue",
+			"size": 10
+		},
+		"t-inamura": {
+			"name": "Tetsunari Inamura",
+			"size": 5
+		},
+		"yukaidong": {
+			"name": "Taro",
+			"size": 4
+		},
+		"gaohongyuan": {
+			"name": "Gao Hongyuan",
+			"size": 7
+		},
+		"taineleau": {
+			"name": "taineleau",
+			"size": 8
+		},
+		"amazg": {
+			"name": "Lixing Xie",
+			"size": 7
+		},
+		"sniperhw": {
+			"name": "sniperHW",
+			"size": 12
+		},
+		"ekristen": {
+			"name": "Erik Kristensen",
+			"size": 10
+		},
+		"viilaismonster": {
+			"name": "Viila",
+			"size": 9
+		},
+		"zhangscript": {
+			"name": "Kevin Zhang",
+			"size": 3
+		},
+		"fateyan": {
+			"name": "Bo Syuan Fu",
+			"size": 8
+		},
+		"mssjtxwd": {
+			"name": "mssjtxwd",
+			"size": 5
+		},
+		"marsrocky": {
+			"name": "Jianfei Yang",
+			"size": 4
+		},
+		"gardongao": {
+			"name": "gardongao",
+			"size": 3
+		},
+		"jermic": {
+			"name": "Jermic-Yaung",
+			"size": 9
+		},
+		"bignews": {
+			"name": "BigNews",
+			"size": 3
+		},
+		"icymorn": {
+			"name": "icymorn",
+			"size": 8
+		},
+		"zcatao": {
+			"name": "zcatao",
+			"size": 3
+		},
+		"yzyzsun": {
+			"name": "Sun Yaozhu",
+			"size": 8
+		},
+		"jttoday": {
+			"name": "jttoday",
+			"size": 6
+		},
+		"yshui": {
+			"name": "yshui",
+			"size": 10
+		},
+		"akagi201": {
+			"name": "Bob Liu",
+			"size": 13
+		},
+		"chchgb": {
+			"name": "cheng",
+			"size": 9
+		},
+		"kemege": {
+			"name": "kemege",
+			"size": 5
+		},
+		"marcograss": {
+			"name": "Marco Grassi",
+			"size": 9
+		},
+		"ericahe": {
+			"name": "EricaHe",
+			"size": 4
+		},
+		"feelvoice": {
+			"name": "feelvoice",
+			"size": 3
+		},
+		"astronomicalphenomena": {
+			"name": "astronomicalphenomena",
+			"size": 5
+		},
+		"xbalien": {
+			"name": "Xbalien",
+			"size": 9
+		},
+		"gnoxia": {
+			"name": "gnoxia",
+			"size": 5
+		},
+		"subho007": {
+			"name": "Subho Halder",
+			"size": 9
+		},
+		"zhangruichang": {
+			"name": "ZhangRuichang",
+			"size": 7
+		},
+		"acgtyrant": {
+			"name": "Isaac Ge",
+			"size": 10
+		},
+		"qwertylevel3": {
+			"name": "qwertylevel3",
+			"size": 3
+		},
+		"superbazinga": {
+			"name": "superBazinga",
+			"size": 5
+		},
+		"ethan-chan": {
+			"name": "ethan-chan",
+			"size": 5
+		},
+		"jeffchen-": {
+			"name": "JeffChen",
+			"size": 7
+		},
+		"joshoy": {
+			"name": "Josh Ouyang",
+			"size": 11
+		},
+		"indigofeather": {
+			"name": "Lance He",
+			"size": 12
+		},
+		"mengskysama": {
+			"name": "mengskysama",
+			"size": 11
+		},
+		"he0119": {
+			"name": "he0119",
+			"size": 4
+		},
+		"kylie77": {
+			"name": "Kylie77",
+			"size": 6
+		},
+		"wakkytabbaky": {
+			"name": "wakkytabbaky",
+			"size": 3
+		},
+		"gzdaijie": {
+			"name": "gzdaijie",
+			"size": 3
+		},
+		"imwildcat": {
+			"name": "Michael Chong",
+			"size": 11
+		},
+		"biergaizi": {
+			"name": "Tom Li",
+			"size": 12
+		},
+		"cnphil": {
+			"name": "Phil Xiaojun Hu",
+			"size": 10
+		},
+		"metazion": {
+			"name": "Metazion",
+			"size": 8
+		},
+		"ipfans": {
+			"name": "ipfans",
+			"size": 12
+		},
+		"kingsamchen": {
+			"name": "Kingsley Chen",
+			"size": 10
+		},
+		"mrmign": {
+			"name": "mrmign",
+			"size": 12
+		},
+		"joyneop": {
+			"name": "Joy Neop",
+			"size": 11
+		},
+		"lkunxyz": {
+			"name": "lkunxyz",
+			"size": 7
+		},
+		"dreamacro": {
+			"name": "Dreamacro",
+			"size": 5
+		},
+		"shouya": {
+			"name": "Shou Ya",
+			"size": 12
+		},
+		"szxie": {
+			"name": "Jinyi",
+			"size": 6
+		},
+		"ettoolong": {
+			"name": "ettoolong",
+			"size": 5
+		},
+		"qwe7002": {
+			"name": "jianghua huang",
+			"size": 5
+		},
+		"opcodesec": {
+			"name": "toby",
+			"size": 10
+		},
+		"neutronest": {
+			"name": "neutronism",
+			"size": 11
+		},
+		"jackbdu": {
+			"name": "Jack B. Du",
+			"size": 5
+		},
+		"blackbbc": {
+			"name": "Sweet",
+			"size": 11
+		},
+		"pandazheng": {
+			"name": "pandazheng",
+			"size": 10
+		},
+		"zaoerck": {
+			"name": "zaoerck",
+			"size": 3
+		},
+		"xinzhengzhang": {
+			"name": "Xinzheng Zhang",
+			"size": 8
+		},
+		"unkeltao": {
+			"name": "UnkelTao",
+			"size": 5
+		},
+		"shumen": {
+			"name": "Won",
+			"size": 8
+		},
+		"classicoldsong": {
+			"name": "Song",
+			"size": 5
+		},
+		"gmpj": {
+			"name": "GMpj",
+			"size": 4
+		},
+		"juliapig": {
+			"name": "Julia Zhu",
+			"size": 5
+		},
+		"alantian": {
+			"name": "Alan Tian",
+			"size": 7
+		},
+		"zjgood": {
+			"name": "Zheng , Jie",
+			"size": 8
+		},
+		"mingo-x": {
+			"name": "mingo-x",
+			"size": 5
+		},
+		"c19": {
+			"name": "C19",
+			"size": 8
+		},
+		"kennysong": {
+			"name": "Kenny Song",
+			"size": 8
+		},
+		"neveraway": {
+			"name": "Daryl Yu",
+			"size": 7
+		},
+		"binotaliu": {
+			"name": "BinotaLiu",
+			"size": 10
+		},
+		"mycspring": {
+			"name": "Yichun Ma",
+			"size": 3
+		},
+		"longluo": {
+			"name": "LongLuo",
+			"size": 11
+		},
+		"ioriiod0": {
+			"name": "ioriiod0",
+			"size": 11
+		},
+		"adodo1": {
+			"name": "adodo1",
+			"size": 5
+		},
+		"dozer47528": {
+			"name": "Dozer",
+			"size": 9
+		},
+		"ctiao": {
+			"name": "ctiao",
+			"size": 13
+		},
+		"faceair": {
+			"name": "faceair",
+			"size": 12
+		},
+		"ma233": {
+			"name": "magine",
+			"size": 8
+		},
+		"afushuo": {
+			"name": "afushuo",
+			"size": 6
+		},
+		"yuro": {
+			"name": "yuro",
+			"size": 3
+		},
+		"haoqixu": {
+			"name": "haoqixu",
+			"size": 9
+		},
+		"msxcms": {
+			"name": "msxcms",
+			"size": 6
+		},
+		"littledream": {
+			"name": "LittleDream",
+			"size": 2
+		},
+		"liwenhaosuper": {
+			"name": "LiWenhao",
+			"size": 8
+		},
+		"mjc0608": {
+			"name": "mjc0608",
+			"size": 4
+		},
+		"foresea": {
+			"name": "foresea",
+			"size": 8
+		},
+		"nullsh0ck": {
+			"name": "NullSh0ck",
+			"size": 6
+		},
+		"antimoron": {
+			"name": "Anti_Moron",
+			"size": 9
+		},
+		"azard": {
+			"name": "Weilun Xiong",
+			"size": 9
+		},
+		"gssxgss": {
+			"name": "GSSxGSS",
+			"size": 9
+		},
+		"cryrivers": {
+			"name": "Zhongliang Wang",
+			"size": 10
+		},
+		"galaris": {
+			"name": "Dominik Antal",
+			"size": 14
+		},
+		"y6yuan": {
+			"name": "Ye Yuan",
+			"size": 4
+		},
+		"cdroad": {
+			"name": "imugicha",
+			"size": 8
+		},
+		"zhouzhenghui": {
+			"name": "zhouzhenghui",
+			"size": 7
+		},
+		"tabjy": {
+			"name": "Tab/jy",
+			"size": 8
+		},
+		"starlightme": {
+			"name": "Jimmy66",
+			"size": 11
+		},
+		"llluiop": {
+			"name": "Yu Liu",
+			"size": 9
+		},
+		"hacklinshell": {
+			"name": "hacklinshell",
+			"size": 3
+		},
+		"fhoshino": {
+			"name": "fhoshino",
+			"size": 6
+		},
+		"a19990200130067": {
+			"name": "Kaiyuan Zhang",
+			"size": 5
+		},
+		"jerryxjtu": {
+			"name": "jerryxjtu",
+			"size": 3
+		},
+		"kirisetsz": {
+			"name": "kirisetsz",
+			"size": 12
+		},
+		"miaoxw": {
+			"name": "Miau Shiauwe",
+			"size": 8
+		},
+		"jehoffmann": {
+			"name": "Jens Hoffmann",
+			"size": 7
+		},
+		"minilight": {
+			"name": "MiniLight",
+			"size": 7
+		},
+		"jqs7": {
+			"name": "Jqs7",
+			"size": 9
+		},
+		"jeticg": {
+			"name": "Jetic Gu",
+			"size": 5
+		},
+		"summerwish": {
+			"name": "Wish",
+			"size": 14
+		},
+		"syhlion": {
+			"name": "Scott",
+			"size": 8
+		},
+		"slapaper": {
+			"name": "SLAPaper Pang",
+			"size": 8
+		},
+		"gaocegege": {
+			"name": "Ce Gao",
+			"size": 11
+		},
+		"misaka030": {
+			"name": "Misaka030",
+			"size": 6
+		},
+		"moontide": {
+			"name": "moontide",
+			"size": 6
+		},
+		"pranavlathigara": {
+			"name": "Pranav Lathigara",
+			"size": 16
+		},
+		"indeedplusplus": {
+			"name": "Jared Feng",
+			"size": 9
+		},
+		"sxkdz": {
+			"name": "SXKDZ",
+			"size": 5
+		},
+		"netarmy": {
+			"name": "Sz Netarmy",
+			"size": 5
+		},
+		"decatofdestruction": {
+			"name": "DeCatOfDestruction",
+			"size": 9
+		},
+		"shunix": {
+			"name": "Ray WANG",
+			"size": 11
+		},
+		"nolenfelten": {
+			"name": "Nolen Felten",
+			"size": 10
+		},
+		"starriv": {
+			"name": "starriv",
+			"size": 9
+		},
+		"chicolee1": {
+			"name": "chicolee1",
+			"size": 5
+		},
+		"sorz": {
+			"name": "Shell Chen",
+			"size": 9
+		},
+		"chenchun": {
+			"name": "Chun Chen",
+			"size": 10
+		},
+		"dicato": {
+			"name": "Stephen DiCato",
+			"size": 11
+		},
+		"oguzhantopgul": {
+			"name": "Oguzhan Topgul",
+			"size": 9
+		},
+		"lordfriend": {
+			"name": "Bob",
+			"size": 11
+		},
+		"thed00d": {
+			"name": "Phil Weber",
+			"size": 6
+		},
+		"dilutedream": {
+			"name": "Zhijian Liu",
+			"size": 4
+		},
+		"secmobi": {
+			"name": "Claud Xiao",
+			"size": 13
+		},
+		"jokerqyou": {
+			"name": "Joker Qyou",
+			"size": 12
+		},
+		"quant67": {
+			"name": "liaotonglang",
+			"size": 6
+		},
+		"winterxmq": {
+			"name": "WinterXMQ",
+			"size": 7
+		},
+		"cthbleachbit": {
+			"name": "James Chai",
+			"size": 9
+		},
+		"hneohis": {
+			"name": "hneohis",
+			"size": 3
+		},
+		"frimin": {
+			"name": "depick",
+			"size": 8
+		},
+		"thecjw": {
+			"name": "thecjw",
+			"size": 11
+		},
+		"gucheen": {
+			"name": "Cheng Gu",
+			"size": 10
+		},
+		"chopinwong01": {
+			"name": "Chopin",
+			"size": 5
+		},
+		"happyjimmy1993": {
+			"name": "Jimmy Wang",
+			"size": 3
+		},
+		"irmowan": {
+			"name": "irmo",
+			"size": 8
+		},
+		"hczhcz": {
+			"name": "hcz",
+			"size": 12
+		},
+		"maxtan": {
+			"name": "Max Tan",
+			"size": 8
+		},
+		"breezen": {
+			"name": "Xiao Wang",
+			"size": 6
+		},
+		"karminski": {
+			"name": "Zhang Xuhong",
+			"size": 11
+		},
+		"quietcoolwu": {
+			"name": "Kai Wu",
+			"size": 8
+		},
+		"kevin2600": {
+			"name": "Kevin2600",
+			"size": 4
+		},
+		"messyidea": {
+			"name": "Messyidea",
+			"size": 10
+		},
+		"jcpwfloi": {
+			"name": "David Chen",
+			"size": 5
+		},
+		"quininer": {
+			"name": "quininer kel",
+			"size": 10
+		},
+		"cswleocsw": {
+			"name": "Leo",
+			"size": 5
+		},
+		"jcarlos7121": {
+			"name": "Juan Carlos",
+			"size": 7
+		},
+		"wdxzs1985": {
+			"name": "wangjue",
+			"size": 7
+		},
+		"fxzjshm": {
+			"name": "fxzjshm",
+			"size": 5
+		},
+		"gzc": {
+			"name": "Louis1992",
+			"size": 9
+		},
+		"ncnxj5": {
+			"name": "ncnxj5",
+			"size": 2
+		},
+		"ysya": {
+			"name": "ysya",
+			"size": 4
+		},
+		"bxshi": {
+			"name": "Baoxu \"Dash\" Shi",
+			"size": 9
+		},
+		"razrlele": {
+			"name": "Yue Yu",
+			"size": 8
+		},
+		"xmxjq": {
+			"name": "Jiaqi Xiang",
+			"size": 6
+		},
+		"futursolo": {
+			"name": "Futur Solo",
+			"size": 10
+		},
+		"malusama": {
+			"name": "malusama",
+			"size": 2
+		},
+		"syntuner": {
+			"name": "SynTuner",
+			"size": 7
+		},
+		"billgateshxk": {
+			"name": "bi119aTe5hXk",
+			"size": 8
+		},
+		"hitomi": {
+			"name": "hitomi",
+			"size": 7
+		},
+		"vf-ukumar": {
+			"name": "Udayan Kumar",
+			"size": 4
+		},
+		"4lph4": {
+			"name": "Erfan",
+			"size": 6
+		},
+		"sapjax": {
+			"name": "sapjax",
+			"size": 11
+		},
+		"mike2718": {
+			"name": "Mike Akiba",
+			"size": 10
+		},
+		"tonnie17": {
+			"name": "WenTao",
+			"size": 9
+		},
+		"sundae": {
+			"name": "Zhuoran Li",
+			"size": 8
+		},
+		"slfmessi": {
+			"name": "Sun Lifei",
+			"size": 9
+		},
+		"bludge0n": {
+			"name": "Bludge0n",
+			"size": 7
+		},
+		"wangranche": {
+			"name": "Jackie",
+			"size": 8
+		},
+		"garzon": {
+			"name": "Jiajun Ou",
+			"size": 8
+		},
+		"nitrop": {
+			"name": "NitroP",
+			"size": 2
+		},
+		"popsiclesarecool": {
+			"name": "popsiclesarecool",
+			"size": 10
+		},
+		"jasonzhong": {
+			"name": "jasonzhong",
+			"size": 3
+		},
+		"oubeichen": {
+			"name": "oubeichen",
+			"size": 6
+		},
+		"zer0mem": {
+			"name": "Peter Hlavaty",
+			"size": 9
+		},
+		"cmpxchg8": {
+			"name": "cmpxchg8",
+			"size": 8
+		},
+		"ruthy0930": {
+			"name": "ruthy0930",
+			"size": 2
+		},
+		"zhy0216": {
+			"name": "Yang Zhang",
+			"size": 11
+		},
+		"lervard": {
+			"name": "Lervard",
+			"size": 6
+		},
+		"infinnie": {
+			"name": "joan xie",
+			"size": 10
+		},
+		"kwenpong": {
+			"name": "kwenpong",
+			"size": 4
+		},
+		"nicball": {
+			"name": "Nick Ballard",
+			"size": 7
+		},
+		"lushl9301": {
+			"name": "Lu Shengliang",
+			"size": 11
+		},
+		"q513902026": {
+			"name": "HopeAsd",
+			"size": 4
+		},
+		"darkyoooooo": {
+			"name": "Darkyoooooo",
+			"size": 7
+		},
+		"hehead": {
+			"name": "hehead",
+			"size": 8
+		},
+		"linnaea": {
+			"name": "Linnaea Von Lavia",
+			"size": 5
+		},
+		"0xr0ot": {
+			"name": "0xr0ot",
+			"size": 8
+		},
+		"wingerted": {
+			"name": "Winger",
+			"size": 8
+		},
+		"sunzhongwei": {
+			"name": "Zhongwei Sun",
+			"size": 10
+		},
+		"sanniu": {
+			"name": "sanniu",
+			"size": 3
+		},
+		"olingcat": {
+			"name": "Oling Cat",
+			"size": 11
+		},
+		"verashira": {
+			"name": "Chenchen Xu",
+			"size": 6
+		},
+		"rlwhuang": {
+			"name": "rlwhuang",
+			"size": 5
+		},
+		"cofrost": {
+			"name": "Cofrost",
+			"size": 5
+		},
+		"zrz1996": {
+			"name": "zrz1996",
+			"size": 3
+		},
+		"tencrance": {
+			"name": "Yang",
+			"size": 9
+		},
+		"rainbownight": {
+			"name": "rainbownight",
+			"size": 8
+		},
+		"lizimeow": {
+			"name": "lizimeow",
+			"size": 4
+		},
+		"allenzhao": {
+			"name": "Zehan Zhao",
+			"size": 9
+		},
+		"unluckyninja": {
+			"name": "UnluckyNinja",
+			"size": 8
+		},
+		"xh2006": {
+			"name": "xh2006",
+			"size": 3
+		},
+		"atrino": {
+			"name": "atrino",
+			"size": 8
+		},
+		"xqq": {
+			"name": "xqq",
+			"size": 12
+		},
+		"rickycodes": {
+			"name": "Ricky Miller",
+			"size": 11
+		},
+		"sunqinzheng": {
+			"name": "Qinzheng Sun",
+			"size": 5
+		},
+		"sg4dylan": {
+			"name": "Sg4Dylan",
+			"size": 6
+		},
+		"jsuisen": {
+			"name": "jsuisen",
+			"size": 4
+		},
+		"xm45": {
+			"name": "Meepo",
+			"size": 3
+		},
+		"viennadd": {
+			"name": "viennadd",
+			"size": 8
+		},
+		"bruce55": {
+			"name": "Bruce Luo",
+			"size": 7
+		},
+		"marguerite": {
+			"name": "Marguerite Su",
+			"size": 10
+		},
+		"simpsonpt": {
+			"name": "Renato Rodrigues",
+			"size": 12
+		},
+		"leonlai": {
+			"name": "leonlai",
+			"size": 10
+		},
+		"gclsoft": {
+			"name": "Ganko",
+			"size": 11
+		},
+		"dewott": {
+			"name": "Dewott",
+			"size": 6
+		},
+		"lvyaojia": {
+			"name": "Lvyaojia",
+			"size": 11
+		},
+		"owen8877": {
+			"name": "owen8877",
+			"size": 4
+		},
+		"rokiyer": {
+			"name": "Qi Tang",
+			"size": 6
+		},
+		"wishstudio": {
+			"name": "Xiangyan Sun",
+			"size": 12
+		},
+		"dutor": {
+			"name": "dutor",
+			"size": 8
+		},
+		"chooperchang": {
+			"name": "ChAnG",
+			"size": 5
+		},
+		"zhangn1985": {
+			"name": "zhangn1985",
+			"size": 5
+		},
+		"acerest": {
+			"name": "Acerest",
+			"size": 6
+		},
+		"jasonleaster": {
+			"name": "jasonleaster",
+			"size": 8
+		},
+		"pirlck": {
+			"name": "CL.Kuang",
+			"size": 10
+		},
+		"zzy7896321": {
+			"name": "Zhao Zhuoyue",
+			"size": 5
+		},
+		"minejo": {
+			"name": "Chao Li",
+			"size": 7
+		},
+		"huangqundl": {
+			"name": "HUANG Qun",
+			"size": 5
+		},
+		"laosb": {
+			"name": "Wexpo Lyu",
+			"size": 8
+		},
+		"wangxiaoying": {
+			"name": "Xiaoying Wang",
+			"size": 9
+		},
+		"riontenwait": {
+			"name": "RionTenwait",
+			"size": 3
+		},
+		"cee": {
+			"name": "Cee Cirno",
+			"size": 13
+		},
+		"dnc1994": {
+			"name": "Linghao Zhang",
+			"size": 11
+		},
+		"pa001024": {
+			"name": "pa001024",
+			"size": 8
+		},
+		"z-shang": {
+			"name": "Z-Shang",
+			"size": 10
+		},
+		"mortal123": {
+			"name": "Wenhao Li",
+			"size": 3
+		},
+		"chubbymaggie": {
+			"name": "chubbymaggie",
+			"size": 10
+		},
+		"elnx": {
+			"name": "hdt",
+			"size": 7
+		},
+		"tonghuix": {
+			"name": "Tong Hui",
+			"size": 10
+		},
+		"johnnylai": {
+			"name": "Johnny Lai",
+			"size": 10
+		},
+		"kochiya-sanae": {
+			"name": "Kochiya-Sanae",
+			"size": 3
+		},
+		"kilnyy": {
+			"name": "Xu Mingzhao",
+			"size": 8
+		},
+		"tsfreddie": {
+			"name": "Freddie Wang",
+			"size": 6
+		},
+		"tinylic": {
+			"name": "tinylic",
+			"size": 5
+		},
+		"tenstep": {
+			"name": "Xingyi Zhou",
+			"size": 5
+		},
+		"bmaca-viaforensics": {
+			"name": "Bill Maca",
+			"size": 3
+		},
+		"scarletsky": {
+			"name": "scarletsky",
+			"size": 12
+		},
+		"cqffffff": {
+			"name": "cqffffff",
+			"size": 2
+		},
+		"stuarch": {
+			"name": "Cheng-Hong Wu",
+			"size": 8
+		},
+		"focusaurus": {
+			"name": "Peter Lyons",
+			"size": 11
+		},
+		"spacemeowx2": {
+			"name": "imspace",
+			"size": 7
+		},
+		"yifanjiang": {
+			"name": "Yifan",
+			"size": 5
+		},
+		"hxuhack": {
+			"name": "XU, Hui",
+			"size": 3
+		},
+		"anthrax1": {
+			"name": "AnthraX1",
+			"size": 7
+		},
+		"kirbykirby": {
+			"name": "kirbykirby",
+			"size": 3
+		},
+		"soulkun": {
+			"name": "soul",
+			"size": 4
+		},
+		"gogozs": {
+			"name": "Song Zhou",
+			"size": 11
+		},
+		"msg7086": {
+			"name": "Xinyue Lu",
+			"size": 9
+		},
+		"ywzhaiqi": {
+			"name": "ywzhaiqi",
+			"size": 12
+		},
+		"lichenbo": {
+			"name": "Chenbo Li",
+			"size": 7
+		},
+		"accelerator00": {
+			"name": "Accelerator00",
+			"size": 2
+		},
+		"zhangtaopy": {
+			"name": "kevin.zhang",
+			"size": 4
+		},
+		"axure": {
+			"name": "Hu Zheng",
+			"size": 12
+		},
+		"piaoasd123": {
+			"name": "Frank Park",
+			"size": 7
+		},
+		"mingcongbai": {
+			"name": "Mingcong Bai ",
+			"size": 7
+		},
+		"optimuske": {
+			"name": "OptimusKe",
+			"size": 10
+		},
+		"crazyboycjr": {
+			"name": "crazyboycjr",
+			"size": 2
+		},
+		"bigfool": {
+			"name": "Zhenfang Qi",
+			"size": 7
+		},
+		"sunzequn": {
+			"name": "Sloriac",
+			"size": 5
+		},
+		"okiilemon": {
+			"name": "Okiilemon",
+			"size": 8
+		},
+		"mariovilas": {
+			"name": "Mario Vilas",
+			"size": 14
+		},
+		"pivotlogix": {
+			"name": "Allie Gentry",
+			"size": 12
+		},
+		"changlan": {
+			"name": "Chang Lan",
+			"size": 8
+		},
+		"kuludu": {
+			"name": "Kuludu",
+			"size": 5
+		},
+		"water-drop": {
+			"name": "Water",
+			"size": 4
+		},
+		"xuelianghan": {
+			"name": "Xueliang Han (Albert)",
+			"size": 8
+		},
+		"akirayu101": {
+			"name": "Akira Yu",
+			"size": 11
+		},
+		"septs": {
+			"name": "Sept",
+			"size": 13
+		},
+		"whtsky": {
+			"name": "whtsky",
+			"size": 12
+		},
+		"arrowrowe": {
+			"name": "arrowrowe",
+			"size": 9
+		},
+		"mount-fish": {
+			"name": "Sun Jian",
+			"size": 4
+		},
+		"arkfang": {
+			"name": "arkfang",
+			"size": 3
+		},
+		"lightory": {
+			"name": "LIGHT",
+			"size": 11
+		},
+		"atupal": {
+			"name": "kangle yu",
+			"size": 13
+		},
+		"forblackking": {
+			"name": "Hieda no Chiaki",
+			"size": 9
+		},
+		"sparkmorry": {
+			"name": "Mengli Xia",
+			"size": 9
+		},
+		"stone-sjh": {
+			"name": "Stone Shi",
+			"size": 5
+		},
+		"hamzaelgarrab": {
+			"name": "EL GARRAB Hamza",
+			"size": 9
+		},
+		"illusate": {
+			"name": "illusate",
+			"size": 10
+		},
+		"dochang": {
+			"name": "Desmond O. Chang",
+			"size": 12
+		},
+		"ecsark": {
+			"name": "Edward Cheng",
+			"size": 4
+		},
+		"viztor": {
+			"name": "Victor Yin",
+			"size": 11
+		},
+		"richorw": {
+			"name": "Richor",
+			"size": 7
+		},
+		"ijk123": {
+			"name": "ijk123",
+			"size": 9
+		},
+		"felixonmars": {
+			"name": "Felix Yan",
+			"size": 13
+		},
+		"sunny00123": {
+			"name": "sunny00123",
+			"size": 3
+		},
+		"kdplus": {
+			"name": "Yusn",
+			"size": 7
+		},
+		"manageryzy": {
+			"name": "manageryzy",
+			"size": 8
+		},
+		"mawen1250": {
+			"name": "mawen1250",
+			"size": 7
+		},
+		"sceext2": {
+			"name": "sceext2",
+			"size": 9
+		},
+		"lams2135": {
+			"name": "Lams",
+			"size": 8
+		},
+		"moyicat": {
+			"name": "Samantha Zhang",
+			"size": 7
+		},
+		"ironsdu": {
+			"name": "IronsDu",
+			"size": 9
+		},
+		"zhouyiran2": {
+			"name": "KBlackcn",
+			"size": 6
+		},
+		"terry-mao": {
+			"name": "Terry.Mao",
+			"size": 12
+		},
+		"supermrji": {
+			"name": "Kingsley Zheng",
+			"size": 5
+		},
+		"kunr": {
+			"name": "Rakume Hayashi",
+			"size": 10
+		},
+		"whitefirer": {
+			"name": "whitefirer",
+			"size": 6
+		},
+		"steelcode": {
+			"name": "sid",
+			"size": 9
+		},
+		"midasfree": {
+			"name": "Sky Lark",
+			"size": 4
+		},
+		"amxku": {
+			"name": "amxku",
+			"size": 11
+		},
+		"creamidea": {
+			"name": "Junjia Ni",
+			"size": 11
+		},
+		"pyq881120": {
+			"name": "pyq881120",
+			"size": 6
+		},
+		"kasuganosora": {
+			"name": "KasuganoSora",
+			"size": 10
+		},
+		"orpine": {
+			"name": "Yuwen Xiong",
+			"size": 7
+		},
+		"slrxxx": {
+			"name": "Sun Liren",
+			"size": 9
+		},
+		"netsuileo": {
+			"name": "Artem Zyryanov",
+			"size": 5
+		},
+		"66ccff": {
+			"name": "66CCFF",
+			"size": 8
+		},
+		"istobran": {
+			"name": "BangZ",
+			"size": 7
+		},
+		"morriswmz": {
+			"name": "morriswmz",
+			"size": 8
+		},
+		"louyiwen": {
+			"name": "Ln Lou",
+			"size": 7
+		},
+		"condy0919": {
+			"name": "Youmu",
+			"size": 9
+		},
+		"godspeed1989": {
+			"name": "godspeed1989",
+			"size": 11
+		},
+		"ralphjzhang": {
+			"name": "Ralph Zhang",
+			"size": 6
+		},
+		"lazychild": {
+			"name": "Renyu Liu",
+			"size": 8
+		},
+		"ykelvis": {
+			"name": "Yk",
+			"size": 9
+		},
+		"musicman-ji": {
+			"name": "Ji Zhou",
+			"size": 5
+		},
+		"maylava": {
+			"name": "Siyuan Wang",
+			"size": 7
+		},
+		"wagey": {
+			"name": "Wage",
+			"size": 6
+		},
+		"lizaifang": {
+			"name": "lizifang",
+			"size": 12
+		},
+		"functionghw": {
+			"name": "FunctionGHW",
+			"size": 4
+		},
+		"910jqk": {
+			"name": "910JQK",
+			"size": 10
+		},
+		"foreverbell": {
+			"name": "foreverbell",
+			"size": 10
+		},
+		"starkwang": {
+			"name": "Weijia Wang",
+			"size": 10
+		},
+		"passengerxlt": {
+			"name": "passengerxlt",
+			"size": 3
+		},
+		"unixdj": {
+			"name": "Vadim Vygonets",
+			"size": 7
+		},
+		"onlyswan": {
+			"name": "OnlySwan",
+			"size": 6
+		},
+		"qiaohang": {
+			"name": "qiaohang",
+			"size": 8
+		},
+		"xhmflydutchman": {
+			"name": "xhmFlydutchman",
+			"size": 4
+		},
+		"tengattack": {
+			"name": "tengattack",
+			"size": 9
+		},
+		"xdtianyu": {
+			"name": "tianyu",
+			"size": 11
+		},
+		"sofronio": {
+			"name": "Sofronio",
+			"size": 4
+		},
+		"creatorlanslot": {
+			"name": "Phantrax",
+			"size": 8
+		},
+		"theloverz": {
+			"name": "Liam Z",
+			"size": 10
+		},
+		"zeling": {
+			"name": "zeling",
+			"size": 8
+		},
+		"jannson": {
+			"name": "janson",
+			"size": 12
+		},
+		"miyakawa-hikage": {
+			"name": "miyakawa-hikage",
+			"size": 4
+		},
+		"molikto": {
+			"name": "Minghao Liu",
+			"size": 9
+		},
+		"taring": {
+			"name": "Taring",
+			"size": 4
+		},
+		"yexiaorain": {
+			"name": "Ryan_is_eating",
+			"size": 9
+		},
+		"ccloli": {
+			"name": "864907600cc",
+			"size": 8
+		},
+		"xiaohanyu": {
+			"name": "Xiao Hanyu",
+			"size": 13
+		},
+		"yukixz": {
+			"name": "Dazzy Ding",
+			"size": 10
+		},
+		"rapidhere": {
+			"name": "RapiD iS DeaD",
+			"size": 10
+		},
+		"mzeri": {
+			"name": "Mzeri",
+			"size": 3
+		},
+		"sergiochan": {
+			"name": "Sergio Chan",
+			"size": 13
+		},
+		"myd7349": {
+			"name": "myd7349",
+			"size": 10
+		},
+		"allen3": {
+			"name": "Allen_3",
+			"size": 8
+		},
+		"xingrz": {
+			"name": "XiNGRZ",
+			"size": 13
+		},
+		"madhugb": {
+			"name": "Madhu GB",
+			"size": 8
+		},
+		"sym233": {
+			"name": "sym",
+			"size": 2
+		},
+		"ichenq": {
+			"name": "Johnnie Chen",
+			"size": 10
+		},
+		"mtunique": {
+			"name": "Tao Meng",
+			"size": 11
+		},
+		"killbug2004": {
+			"name": "killbug2004",
+			"size": 5
+		},
+		"kjkszpj": {
+			"name": "kjkszpj",
+			"size": 8
+		},
+		"weilan55": {
+			"name": "weilan55",
+			"size": 6
+		},
+		"mrmiywj": {
+			"name": "Ivan.Yang",
+			"size": 10
+		},
+		"h0g3rian": {
+			"name": "h0g3rian",
+			"size": 5
+		},
+		"pwwpche": {
+			"name": "pwwpche",
+			"size": 4
+		},
+		"marionette-curtain": {
+			"name": "Co An",
+			"size": 4
+		},
+		"foxbai": {
+			"name": "FoxBai",
+			"size": 6
+		},
+		"linmx0130": {
+			"name": "Mengxiao Lin",
+			"size": 9
+		},
+		"liyilonggithub": {
+			"name": "Yilong Li",
+			"size": 8
+		},
+		"tsunderechen": {
+			"name": "Tsundere Chen",
+			"size": 7
+		},
+		"were": {
+			"name": "were",
+			"size": 4
+		},
+		"samwanng": {
+			"name": "Sam",
+			"size": 9
+		},
+		"forprevious": {
+			"name": "xiaobuding",
+			"size": 7
+		},
+		"aixile": {
+			"name": "Aixile",
+			"size": 7
+		},
+		"dilaroga": {
+			"name": "Sebastien Zwickert",
+			"size": 6
+		},
+		"frantic1048": {
+			"name": "Microtaku",
+			"size": 11
+		},
+		"yujiabao": {
+			"name": "Yujia Bao",
+			"size": 4
+		},
+		"ca72": {
+			"name": "Kazami",
+			"size": 6
+		},
+		"lqymgt": {
+			"name": "Quanyang Liu",
+			"size": 8
+		},
+		"herlincoder": {
+			"name": "Helin Guo",
+			"size": 3
+		},
+		"courage17340": {
+			"name": "courage17340",
+			"size": 4
+		},
+		"zsrkmyn": {
+			"name": "Stephen",
+			"size": 8
+		},
+		"icenowy": {
+			"name": "Icenowy Zheng",
+			"size": 8
+		},
+		"h1994st": {
+			"name": "Tom Hu",
+			"size": 13
+		},
+		"ispeller": {
+			"name": "HTT",
+			"size": 6
+		},
+		"jackielin": {
+			"name": "linbin",
+			"size": 10
+		},
+		"caihuan": {
+			"name": "cai_huan",
+			"size": 4
+		},
+		"jixunmoe": {
+			"name": "Yellow Yoshi",
+			"size": 9
+		},
+		"dgsrz": {
+			"name": "Chen Kang",
+			"size": 9
+		},
+		"linus-young": {
+			"name": "whyisyoung",
+			"size": 9
+		},
+		"hanyunxu": {
+			"name": "HanyunXu",
+			"size": 5
+		},
+		"blacklutos": {
+			"name": "BlackLutos",
+			"size": 2
+		},
+		"sathishxcode": {
+			"name": "Sathish Kumar N",
+			"size": 7
+		},
+		"jovisayhehe": {
+			"name": "empty",
+			"size": 12
+		},
+		"ignasi": {
+			"name": "Ignasi Busquets",
+			"size": 11
+		},
+		"jununfly": {
+			"name": "Jun Zhang",
+			"size": 4
+		},
+		"hjc4869": {
+			"name": "David Huang",
+			"size": 8
+		},
+		"wxt2005": {
+			"name": "Botao Wang",
+			"size": 10
+		},
+		"fanrangjun": {
+			"name": "fanrangjun",
+			"size": 6
+		},
+		"beta": {
+			"name": "Beta Kuang",
+			"size": 9
+		},
+		"angrypowman": {
+			"name": "AngryPowman",
+			"size": 9
+		},
+		"a3616001": {
+			"name": "Zexuan Zhong",
+			"size": 4
+		},
+		"galagie": {
+			"name": "galagie",
+			"size": 6
+		},
+		"calvinneo": {
+			"name": "Calvin Neo",
+			"size": 6
+		},
+		"blackgear": {
+			"name": "Daniel.Zeng",
+			"size": 8
+		},
+		"technommy": {
+			"name": "Tommy",
+			"size": 13
+		},
+		"maxiee": {
+			"name": "Maxiee",
+			"size": 11
+		},
+		"emifixthis": {
+			"name": "krshort",
+			"size": 11
+		},
+		"cropzhuang": {
+			"name": "crop",
+			"size": 6
+		},
+		"bbcallen": {
+			"name": "bbcallen",
+			"size": 12
+		},
+		"n30d0n3": {
+			"name": "Neo The One",
+			"size": 10
+		},
+		"dphdjy": {
+			"name": "dphdjy",
+			"size": 8
+		},
+		"renchusong": {
+			"name": "Renchu Song",
+			"size": 7
+		},
+		"idaifish": {
+			"name": "idaifish",
+			"size": 8
+		},
+		"zxybazh": {
+			"name": "Xiyou Zhou",
+			"size": 9
+		},
+		"arr2036": {
+			"name": "Arran Cudbard-Bell",
+			"size": 7
+		},
+		"yyypasserby": {
+			"name": "Yao Yiyun",
+			"size": 11
+		},
+		"yinyanfr": {
+			"name": "yinyanfr",
+			"size": 6
+		},
+		"binjo": {
+			"name": "binjo",
+			"size": 10
+		},
+		"endle": {
+			"name": "Zhenbo Li",
+			"size": 9
+		},
+		"sevck": {
+			"name": "sevck",
+			"size": 2
+		},
+		"geeeeeeeeek": {
+			"name": "Zhongyi Tong",
+			"size": 10
+		},
+		"jonitrythall": {
+			"name": "Joni Trythall ",
+			"size": 10
+		},
+		"wiseclock": {
+			"name": "WiseClock",
+			"size": 6
+		},
+		"akatsukikaede": {
+			"name": "Hawx Won",
+			"size": 2
+		},
+		"fxuz": {
+			"name": "Zhen Xu",
+			"size": 8
+		},
+		"vacancy": {
+			"name": "Jiayuan MAO",
+			"size": 5
+		},
+		"dorajdj": {
+			"name": "DoraJDJ",
+			"size": 6
+		},
+		"xwang1024": {
+			"name": "XWang1024",
+			"size": 8
+		},
+		"myzwillmake": {
+			"name": "Yunze",
+			"size": 8
+		},
+		"gynix": {
+			"name": "gynix",
+			"size": 9
+		},
+		"hoshizora": {
+			"name": "Azure",
+			"size": 5
+		},
+		"siviltaram": {
+			"name": "SivilTaram",
+			"size": 8
+		},
+		"alphashawn": {
+			"name": "AlphaShawn",
+			"size": 6
+		},
+		"molinxx": {
+			"name": "Marquis Lin",
+			"size": 3
+		},
+		"jaye14651": {
+			"name": "jaye14651",
+			"size": 2
+		},
+		"erichuang1994": {
+			"name": "erichuang1994",
+			"size": 8
+		},
+		"jasonslyvia": {
+			"name": "Sen Yang",
+			"size": 11
+		},
+		"acgmohu": {
+			"name": "LAI",
+			"size": 9
+		},
+		"4679": {
+			"name": "Jiawei Zhou",
+			"size": 7
+		},
+		"icefish": {
+			"name": "Icefish",
+			"size": 6
+		},
+		"wzr": {
+			"name": "wzr",
+			"size": 9
+		},
+		"nerddan": {
+			"name": "Daniel Chau",
+			"size": 7
+		},
+		"jasonzzz": {
+			"name": "jasonz",
+			"size": 8
+		},
+		"s3c0nd": {
+			"name": "qwlhappy",
+			"size": 5
+		},
+		"weimingtom": {
+			"name": "weimingtom",
+			"size": 12
+		},
+		"wanbiguizhao": {
+			"name": "wanbiguizhao",
+			"size": 6
+		},
+		"ilovedesert001": {
+			"name": "ilovedesert001",
+			"size": 3
+		},
+		"hpcslag": {
+			"name": "MacTaylor",
+			"size": 11
+		},
+		"crazym": {
+			"name": "MintyMinty",
+			"size": 6
+		},
+		"aprileelcich": {
+			"name": "Aprile Elcich",
+			"size": 5
+		},
+		"niconiconi": {
+			"name": "niconiconi",
+			"size": 5
+		},
+		"proudlily": {
+			"name": "lily",
+			"size": 7
+		},
+		"fanfuqiang": {
+			"name": "zet",
+			"size": 9
+		},
+		"1u4nx": {
+			"name": "lx",
+			"size": 10
+		},
+		"tingleshao": {
+			"name": "Chong Shao",
+			"size": 10
+		},
+		"layumi": {
+			"name": "Zhedong",
+			"size": 6
+		},
+		"hmgle": {
+			"name": "mingang.he",
+			"size": 10
+		},
+		"codeworm96": {
+			"name": "codeworm96",
+			"size": 7
+		},
+		"lizeqiangd": {
+			"name": "Lizeqiangd",
+			"size": 6
+		},
+		"jackyyf": {
+			"name": "Yifu Yu",
+			"size": 10
+		},
+		"songyingxinok": {
+			"name": "songyingxinok",
+			"size": 8
+		},
+		"allenshieh": {
+			"name": "Allen Shieh",
+			"size": 6
+		},
+		"chrisallenlane": {
+			"name": "Chris Lane",
+			"size": 11
+		},
+		"bear9509": {
+			"name": "bear9509",
+			"size": 2
+		},
+		"rysle": {
+			"name": "Rysle",
+			"size": 6
+		},
+		"dongdongcpk": {
+			"name": "dongdonggun",
+			"size": 3
+		},
+		"silverwei": {
+			"name": "Silver Wei",
+			"size": 7
+		},
+		"jetmuffin": {
+			"name": "Jeff Chen",
+			"size": 6
+		},
+		"lxdyran": {
+			"name": "Lisandro",
+			"size": 6
+		},
+		"jyuan": {
+			"name": "Jie Yuan",
+			"size": 7
+		},
+		"liuking": {
+			"name": "liuking",
+			"size": 2
+		},
+		"xen0n": {
+			"name": "Wang Xuerui",
+			"size": 14
+		},
+		"qiaohaijun": {
+			"name": "qiaohaijun",
+			"size": 11
+		},
+		"pushpan": {
+			"name": "pan",
+			"size": 7
+		},
+		"jacktony": {
+			"name": "Maple Warriors",
+			"size": 10
+		},
+		"linchuming": {
+			"name": "cmlin",
+			"size": 3
+		},
+		"innerac": {
+			"name": "InnerAc",
+			"size": 7
+		},
+		"cloud-han": {
+			"name": "Cloud Han",
+			"size": 6
+		},
+		"mountainstorm": {
+			"name": "@Lord_Coops",
+			"size": 8
+		},
+		"fatea": {
+			"name": "fatea",
+			"size": 8
+		},
+		"fuzzing": {
+			"name": "fuzzing",
+			"size": 7
+		},
+		"suprgyabhushan": {
+			"name": "Suprgya Bhushan",
+			"size": 11
+		},
+		"mondaylei": {
+			"name": "Yilei Zhou",
+			"size": 6
+		},
+		"nrzipher": {
+			"name": "Niurou",
+			"size": 5
+		},
+		"sanddudu": {
+			"name": "Klion Xu",
+			"size": 9
+		},
+		"naeioi": {
+			"name": "nae.ikari",
+			"size": 7
+		},
+		"lsdefine": {
+			"name": "Lsdefine",
+			"size": 2
+		},
+		"strazzere": {
+			"name": "Tim Strazzere",
+			"size": 12
+		},
+		"antinomyra": {
+			"name": "antinomyra",
+			"size": 5
+		},
+		"wutou": {
+			"name": "wutou",
+			"size": 9
+		},
+		"luoqeng": {
+			"name": "luoqeng",
+			"size": 10
+		},
+		"tjordan73": {
+			"name": "Terrall Jordan",
+			"size": 3
+		},
+		"timfeirg": {
+			"name": "timfeirg",
+			"size": 8
+		},
+		"liyingwei": {
+			"name": "Li Yingwei",
+			"size": 4
+		},
+		"himemeizhi": {
+			"name": "himemeizhi",
+			"size": 6
+		},
+		"revskills": {
+			"name": "Francisco Alonso",
+			"size": 6
+		},
+		"aicitel": {
+			"name": "Aicitel",
+			"size": 6
+		},
+		"ws23": {
+			"name": "Yu-Tzu, Lin",
+			"size": 3
+		},
+		"ziliangpeng": {
+			"name": "Victor Ziliang Peng",
+			"size": 8
+		},
+		"slixurd": {
+			"name": "slixurd",
+			"size": 9
+		},
+		"zry656565": {
+			"name": "Jerry Zou",
+			"size": 12
+		},
+		"solarhell": {
+			"name": "solarhell",
+			"size": 7
+		},
+		"tsuteto": {
+			"name": "Tsuteto",
+			"size": 8
+		},
+		"gatlas": {
+			"name": "Joe",
+			"size": 6
+		},
+		"chengyuhui": {
+			"name": "Harry Cheng",
+			"size": 10
+		},
+		"gugugupan": {
+			"name": "GuPan",
+			"size": 7
+		},
+		"whtqh": {
+			"name": "WarHeat",
+			"size": 4
+		},
+		"xiangtianyu": {
+			"name": "xiangtianyu",
+			"size": 3
+		},
+		"mynameisny": {
+			"name": "Tony Joseph",
+			"size": 8
+		},
+		"wishsummer": {
+			"name": "Summer",
+			"size": 7
+		},
+		"babysbreathjj": {
+			"name": "jingjing.li",
+			"size": 5
+		},
+		"notebookie": {
+			"name": "Jin Jianian",
+			"size": 6
+		},
+		"ainopara": {
+			"name": "ainopara",
+			"size": 9
+		},
+		"darkness-y": {
+			"name": "darkness-y",
+			"size": 2
+		},
+		"zqhxuyuan": {
+			"name": "zqh",
+			"size": 11
+		},
+		"quillblue": {
+			"name": "Quill Qian",
+			"size": 7
+		},
+		"perseawe": {
+			"name": "Xinyu Zhang",
+			"size": 9
+		},
+		"austinchou": {
+			"name": "Yifei Zhou",
+			"size": 11
+		},
+		"sola1989": {
+			"name": "SOLA1989",
+			"size": 2
+		},
+		"xukaiqiang": {
+			"name": "Andy Xu",
+			"size": 8
+		},
+		"rccoder": {
+			"name": "Shangbin Yang",
+			"size": 12
+		},
+		"anehta": {
+			"name": "Anehta",
+			"size": 5
+		},
+		"jahiy": {
+			"name": "Achilles Kars",
+			"size": 10
+		},
+		"orzfly": {
+			"name": "Yeechan Lu",
+			"size": 13
+		},
+		"wnereiz": {
+			"name": "wnereiz",
+			"size": 7
+		},
+		"limitw": {
+			"name": "Wang Bo",
+			"size": 3
+		},
+		"setekhid": {
+			"name": "Wizard Tai",
+			"size": 7
+		},
+		"miyamuramiyako": {
+			"name": "MiyamuraMiyako",
+			"size": 7
+		},
+		"adoo23": {
+			"name": "adoo23",
+			"size": 4
+		},
+		"cnbeining": {
+			"name": "David Zhuang",
+			"size": 11
+		},
+		"mbazaliy": {
+			"name": "Max Bazaliy",
+			"size": 11
+		},
+		"wangbolizhong": {
+			"name": "wangbolizhong",
+			"size": 5
+		},
+		"explorare": {
+			"name": "Explorare",
+			"size": 8
+		},
+		"rabbitcdn": {
+			"name": "mc1024",
+			"size": 8
+		},
+		"law-liet": {
+			"name": "Langxuan Su",
+			"size": 7
+		},
+		"kitkom": {
+			"name": "Incdir",
+			"size": 4
+		},
+		"everpcpc": {
+			"name": "everpcpc",
+			"size": 8
+		},
+		"wongsyrone": {
+			"name": "Syrone Wong",
+			"size": 10
+		},
+		"chyancheng": {
+			"name": "Wu Qiancheng",
+			"size": 6
+		},
+		"guangwong": {
+			"name": "guangwong",
+			"size": 9
+		},
+		"dyinnz": {
+			"name": "Yingzhong Guo",
+			"size": 8
+		},
+		"hysia": {
+			"name": "Hysia",
+			"size": 10
+		},
+		"paintdream": {
+			"name": "PaintDream",
+			"size": 3
+		},
+		"pwq1989": {
+			"name": "Pei WenQian",
+			"size": 10
+		},
+		"lixiaoyan": {
+			"name": "IntPtr",
+			"size": 12
+		},
+		"zodiacg": {
+			"name": "zodiacg",
+			"size": 7
+		},
+		"zcwwzdjn": {
+			"name": "zcwwzdjn",
+			"size": 4
+		},
+		"qoobee": {
+			"name": "LeoC",
+			"size": 9
+		},
+		"gestapolur": {
+			"name": "Gestalt LUR",
+			"size": 10
+		},
+		"harry-chen": {
+			"name": "Harry Chen",
+			"size": 8
+		},
+		"moefun": {
+			"name": "mido",
+			"size": 5
+		},
+		"chilledheart": {
+			"name": "Chilledheart",
+			"size": 12
+		},
+		"eairpeter": {
+			"name": "EAirPeter",
+			"size": 7
+		},
+		"kingwl": {
+			"name": "kingwl",
+			"size": 8
+		},
+		"edgarwang": {
+			"name": "Edgar Wang",
+			"size": 11
+		},
+		"hobozhang": {
+			"name": "Hongbo Zhang",
+			"size": 6
+		},
+		"raphaelsoul": {
+			"name": "Dechen Zhuang",
+			"size": 7
+		},
+		"fffonion": {
+			"name": "Alliumcepa Triplef",
+			"size": 12
+		},
+		"voidrank": {
+			"name": "lancy",
+			"size": 10
+		},
+		"at15": {
+			"name": "At15",
+			"size": 11
+		},
+		"droidsec-cn": {
+			"name": "DroidSec.cn",
+			"size": 7
+		},
+		"herefjr": {
+			"name": "Junru Feng",
+			"size": 3
+		},
+		"zhujiaye": {
+			"name": "Jiaye Zhu",
+			"size": 6
+		},
+		"hanwenfang": {
+			"name": "HanWenfang",
+			"size": 9
+		},
+		"gateswong": {
+			"name": "Gates_ice",
+			"size": 9
+		},
+		"monkeyhou": {
+			"name": "monkeyhou",
+			"size": 4
+		},
+		"sharuru": {
+			"name": "Sharuru",
+			"size": 6
+		},
+		"swaylq": {
+			"name": "Sway Liu",
+			"size": 9
+		},
+		"xperblueray": {
+			"name": "xperblueray",
+			"size": 7
+		},
+		"kinosang": {
+			"name": "Chino Chang",
+			"size": 9
+		},
+		"nicai1900": {
+			"name": "zhengjie",
+			"size": 9
+		},
+		"dsh0416": {
+			"name": "Delton Ding",
+			"size": 8
+		},
+		"determinant": {
+			"name": "Ted Yin",
+			"size": 9
+		},
+		"milanaryal": {
+			"name": "Milan Aryal",
+			"size": 9
+		},
+		"leefreud": {
+			"name": "Hanasaki Nonoka",
+			"size": 3
+		},
+		"flyer103": {
+			"name": "zhang fei",
+			"size": 12
+		},
+		"lukeyyang": {
+			"name": "Luke Yang",
+			"size": 7
+		},
+		"kelwin": {
+			"name": "Kun Yang",
+			"size": 11
+		},
+		"dozono": {
+			"name": "dozono",
+			"size": 2
+		},
+		"zapline": {
+			"name": "zapline",
+			"size": 12
+		},
+		"yuxiangq": {
+			"name": "Yuxiang",
+			"size": 8
+		},
+		"spacewander": {
+			"name": "spacewander",
+			"size": 10
+		},
+		"wuborush": {
+			"name": "wubo",
+			"size": 4
+		},
+		"cyberhermit": {
+			"name": "Castor Liu",
+			"size": 2
+		},
+		"supgeek-rod": {
+			"name": "Rod",
+			"size": 9
+		},
+		"littlekey": {
+			"name": "LittleKey",
+			"size": 10
+		},
+		"liji322": {
+			"name": "liji322",
+			"size": 2
+		},
+		"hanjun-dai": {
+			"name": "Hanjun Dai",
+			"size": 7
+		},
+		"tsuki": {
+			"name": "SukiTsuki",
+			"size": 6
+		},
+		"zuohaocheng": {
+			"name": "Zuo Haocheng",
+			"size": 7
+		},
+		"wfjsw": {
+			"name": "Jabasukuriputo Wang",
+			"size": 9
+		},
+		"codingyue": {
+			"name": "YangYue",
+			"size": 5
+		},
+		"kskun": {
+			"name": "KS",
+			"size": 6
+		},
+		"thonatos": {
+			"name": "Thonatos.Yang",
+			"size": 11
+		},
+		"wjcsharp": {
+			"name": "wjcsharp",
+			"size": 11
+		},
+		"chiyahoho": {
+			"name": "chiya",
+			"size": 7
+		},
+		"sigma-random": {
+			"name": "random",
+			"size": 10
+		},
+		"lychees": {
+			"name": "xiaodao",
+			"size": 10
+		},
+		"menooker": {
+			"name": "Menooker",
+			"size": 5
+		},
+		"kxxoling": {
+			"name": "Kane Blueriver",
+			"size": 11
+		},
+		"sdpower": {
+			"name": "SDpower",
+			"size": 10
+		},
+		"timtadh": {
+			"name": "Tim Henderson",
+			"size": 11
+		},
+		"o0lazybear0o": {
+			"name": "Iris Chen",
+			"size": 4
+		},
+		"doskey": {
+			"name": "Doskey Lee",
+			"size": 8
+		},
+		"quantumbear": {
+			"name": "Scott",
+			"size": 7
+		},
+		"amyxie96": {
+			"name": "AmyXie96",
+			"size": 2
+		},
+		"asuna": {
+			"name": "asuna",
+			"size": 10
+		},
+		"mizuchi": {
+			"name": "Tianjiao Yin",
+			"size": 7
+		},
+		"zhouxinan": {
+			"name": "Zhou Xinan",
+			"size": 7
+		},
+		"cccssw": {
+			"name": "Yu (Alex) Zhao",
+			"size": 9
+		},
+		"zxdvd": {
+			"name": "Xudong Zhang",
+			"size": 7
+		},
+		"bin-y": {
+			"name": "bin-y",
+			"size": 8
+		},
+		"sasako": {
+			"name": "sasako",
+			"size": 3
+		},
+		"zzgambol": {
+			"name": "zzgambol",
+			"size": 6
+		},
+		"ustc-zzzz": {
+			"name": "Yanbing Zhao",
+			"size": 5
+		},
+		"ym": {
+			"name": "Aveline Swan",
+			"size": 12
+		},
+		"retme7": {
+			"name": "Di Shen",
+			"size": 11
+		},
+		"liujunyi-sjtu": {
+			"name": "liujunyi-sjtu",
+			"size": 4
+		},
+		"fxmy": {
+			"name": "fxmy",
+			"size": 6
+		},
+		"dwayneten": {
+			"name": "DwayneTen",
+			"size": 7
+		},
+		"whuthj": {
+			"name": "whuthj",
+			"size": 6
+		},
+		"suhang1994": {
+			"name": "suhang1994",
+			"size": 4
+		},
+		"wukamm": {
+			"name": "wukaMM",
+			"size": 8
+		},
+		"trojancyborg": {
+			"name": "trojancyborg",
+			"size": 8
+		},
+		"sceext": {
+			"name": "sceext",
+			"size": 5
+		},
+		"kaiqiangsong": {
+			"name": "KaiQiangSong",
+			"size": 5
+		},
+		"peachwang": {
+			"name": "Peach Wang",
+			"size": 7
+		},
+		"huhaku": {
+			"name": "huhaku",
+			"size": 5
+		},
+		"orthocenter": {
+			"name": "Yuxin Chen",
+			"size": 10
+		},
+		"dragonly": {
+			"name": "dragonly",
+			"size": 10
+		},
+		"leosongwei": {
+			"name": "Salad Tea",
+			"size": 8
+		},
+		"siuto": {
+			"name": "Xiaotao Liang",
+			"size": 7
+		},
+		"wssccc": {
+			"name": "wssccc",
+			"size": 8
+		},
+		"mooooooon": {
+			"name": "Moon",
+			"size": 8
+		},
+		"dingjibang": {
+			"name": "ding jibang",
+			"size": 7
+		},
+		"dennyx": {
+			"name": "dennyx",
+			"size": 5
+		},
+		"t-k-": {
+			"name": "Wei",
+			"size": 10
+		},
+		"wangrunji0408": {
+			"name": "wangrunji0408",
+			"size": 3
+		},
+		"mssun": {
+			"name": "Mingshen Sun",
+			"size": 11
+		},
+		"constaline": {
+			"name": "Constance",
+			"size": 7
+		},
+		"felix021": {
+			"name": "Felix021",
+			"size": 9
+		},
+		"nxf17": {
+			"name": "nxf17",
+			"size": 3
+		},
+		"sfordj": {
+			"name": "Zeyu Ni",
+			"size": 3
+		},
+		"huzecong": {
+			"name": "Hu Zecong",
+			"size": 8
+		},
+		"farseerfc": {
+			"name": "Jiachen Yang",
+			"size": 11
+		},
+		"tzzcl": {
+			"name": "tzzcl",
+			"size": 4
+		},
+		"15cm": {
+			"name": "15",
+			"size": 8
+		},
+		"innocentim": {
+			"name": "Tim Shen",
+			"size": 7
+		},
+		"evergreentree": {
+			"name": "EvergreenTree",
+			"size": 4
+		},
+		"legendtang": {
+			"name": "Wensheng Tang",
+			"size": 10
+		},
+		"magicae": {
+			"name": "Magica",
+			"size": 10
+		},
+		"yunlingzi": {
+			"name": "yunlingzi",
+			"size": 6
+		},
+		"entersteve": {
+			"name": "eNTeRsteve",
+			"size": 2
+		},
+		"ccxuy": {
+			"name": "Yihang XU @Railgun ",
+			"size": 10
+		},
+		"taiyangc": {
+			"name": "Eric Chen",
+			"size": 10
+		},
+		"infiniteze": {
+			"name": "InfiniteZe",
+			"size": 2
+		},
+		"rexarski": {
+			"name": "rexarski",
+			"size": 8
+		},
+		"txmszlou": {
+			"name": "TxmszLou",
+			"size": 7
+		},
+		"htc550605125": {
+			"name": "NullMDR",
+			"size": 8
+		},
+		"littletobby": {
+			"name": "littletobby",
+			"size": 3
+		},
+		"872517414": {
+			"name": "872517414",
+			"size": 2
+		},
+		"magicbear": {
+			"name": "magicbear",
+			"size": 7
+		},
+		"weehowe-z": {
+			"name": "Wenhao Zhu",
+			"size": 7
+		},
+		"penguinliong": {
+			"name": "Rendong Liang",
+			"size": 8
+		},
+		"nyogjtrc": {
+			"name": "nyo",
+			"size": 8
+		},
+		"airgetl1": {
+			"name": "GaoHao",
+			"size": 3
+		},
+		"cuihaoleo": {
+			"name": "CUI Hao",
+			"size": 10
+		},
+		"iroul": {
+			"name": "Iroul",
+			"size": 5
+		},
+		"jingliuvic": {
+			"name": "Jing Liu",
+			"size": 9
+		},
+		"seevil": {
+			"name": "intern",
+			"size": 8
+		},
+		"emenwin": {
+			"name": "emen",
+			"size": 9
+		},
+		"lishuaiqing": {
+			"name": "lishuaiqing",
+			"size": 3
+		},
+		"xuanyuanaosheng": {
+			"name": "xuanyuanaosheng",
+			"size": 9
+		},
+		"shoshindes": {
+			"name": "Jack Thompson",
+			"size": 13
+		},
+		"layzie": {
+			"name": "HIRAKI Satoru",
+			"size": 15
+		},
+		"letbewith": {
+			"name": "lake",
+			"size": 6
+		},
+		"syc728": {
+			"name": "syc728",
+			"size": 4
+		},
+		"pwwpcheng": {
+			"name": "Cheng Liu",
+			"size": 6
+		},
+		"abrahamhokuto": {
+			"name": "Ursa Maior",
+			"size": 5
+		},
+		"isawdx": {
+			"name": "IsaWdx",
+			"size": 4
+		},
+		"ikeraiza": {
+			"name": "RCPPK",
+			"size": 4
+		},
+		"snlia": {
+			"name": "snlia",
+			"size": 3
+		},
+		"gmx": {
+			"name": "Graham Max",
+			"size": 7
+		},
+		"jailecoeu": {
+			"name": "Jane Zhang",
+			"size": 10
+		},
+		"tioover": {
+			"name": "Tengfei Xu",
+			"size": 13
+		},
+		"pandada8": {
+			"name": "pandada8",
+			"size": 11
+		},
+		"daice": {
+			"name": "Daice",
+			"size": 5
+		},
+		"vizee": {
+			"name": "vizee",
+			"size": 8
+		},
+		"mindmac": {
+			"name": "MindMac",
+			"size": 12
+		},
+		"changlingliu": {
+			"name": "Changling Liu",
+			"size": 2
+		},
+		"tjwudi": {
+			"name": "John Wu",
+			"size": 14
+		},
+		"0dayzh": {
+			"name": "0dayZh",
+			"size": 12
+		},
+		"hanqing": {
+			"name": "Hanqing",
+			"size": 12
+		},
+		"ifighting": {
+			"name": "Lawrence",
+			"size": 9
+		},
+		"yuebone": {
+			"name": "yuebone",
+			"size": 5
+		},
+		"nwmonster": {
+			"name": "NWMonster",
+			"size": 10
+		},
+		"a-circle-zhang": {
+			"name": "A-Circle-Zhang",
+			"size": 3
+		},
+		"shyangs": {
+			"name": "shyangs",
+			"size": 10
+		},
+		"409915016": {
+			"name": "Mather",
+			"size": 5
+		},
+		"rivsen": {
+			"name": "Rivsen Tan",
+			"size": 12
+		},
+		"initbar": {
+			"name": "Nish, Brehret",
+			"size": 7
+		},
+		"stonemoe": {
+			"name": "Lake Chan",
+			"size": 7
+		},
+		"akaza-akari": {
+			"name": "TT",
+			"size": 6
+		},
+		"alexblanda": {
+			"name": "Alexandru Blanda",
+			"size": 4
+		},
+		"iobee": {
+			"name": "nick",
+			"size": 10
+		},
+		"sainxiii": {
+			"name": "Adrian Cui",
+			"size": 8
+		},
+		"markzhai": {
+			"name": "markzhai",
+			"size": 12
+		},
+		"meimisaki": {
+			"name": "SoraKasugano",
+			"size": 7
+		},
+		"zld": {
+			"name": "Zhu Lida",
+			"size": 10
+		},
+		"grzhan": {
+			"name": "grzhan",
+			"size": 11
+		},
+		"quietshu": {
+			"name": "Shu Ding",
+			"size": 14
+		},
+		"patwonder": {
+			"name": "Yifan Wu",
+			"size": 7
+		},
+		"kevinchengshellcode": {
+			"name": "kevinchengshellcode",
+			"size": 2
+		},
+		"yuealves": {
+			"name": "yuealves",
+			"size": 9
+		},
+		"qixingchen": {
+			"name": "qixingchen",
+			"size": 10
+		},
+		"mingzz": {
+			"name": "mingzz",
+			"size": 2
+		},
+		"flyr4nk": {
+			"name": "flyr4nk",
+			"size": 5
+		},
+		"lemonchar": {
+			"name": "lemonChar",
+			"size": 2
+		},
+		"shiehshieh": {
+			"name": "ShiehShieh",
+			"size": 9
+		},
+		"watry": {
+			"name": "watry",
+			"size": 3
+		},
+		"lucklove": {
+			"name": "SIGSEGV",
+			"size": 9
+		},
+		"szszss": {
+			"name": "szszss",
+			"size": 8
+		},
+		"larryxiao": {
+			"name": "Blie Arkansol",
+			"size": 11
+		},
+		"zackszhu": {
+			"name": "zackszhu",
+			"size": 8
+		},
+		"ihsoh": {
+			"name": "Ihsoh",
+			"size": 8
+		},
+		"caohongtao": {
+			"name": "caohongtao",
+			"size": 8
+		},
+		"giumo": {
+			"name": "Giumo",
+			"size": 8
+		},
+		"joyzh": {
+			"name": "joy zheng",
+			"size": 4
+		},
+		"viciousstar": {
+			"name": "ViciOs",
+			"size": 7
+		},
+		"lxxself": {
+			"name": "lxxself",
+			"size": 8
+		},
+		"wjsjwr": {
+			"name": "JJ Boomed",
+			"size": 7
+		},
+		"zszyellow": {
+			"name": "zsz",
+			"size": 6
+		},
+		"accreator": {
+			"name": "Kai Sun",
+			"size": 9
+		},
+		"haio": {
+			"name": "Zhong Yu",
+			"size": 12
+		},
+		"killvxk": {
+			"name": "killvxk",
+			"size": 13
+		},
+		"liuhanlcj": {
+			"name": "LiuHan",
+			"size": 3
+		},
+		"qaqmiao": {
+			"name": "QAQMiao",
+			"size": 6
+		},
+		"definiter": {
+			"name": "Hao Wang",
+			"size": 6
+		},
+		"sh3dow": {
+			"name": "sh3dow",
+			"size": 14
+		},
+		"twd2": {
+			"name": "Wende Tan",
+			"size": 9
+		},
+		"torta": {
+			"name": "torta",
+			"size": 6
+		},
+		"weathfold": {
+			"name": "WeAthFoLD",
+			"size": 9
+		},
+		"shenjiasi": {
+			"name": "shenjiasi",
+			"size": 6
+		},
+		"xiw9": {
+			"name": "Xi Wang",
+			"size": 8
+		},
+		"polarpython": {
+			"name": "Jordan Zhou",
+			"size": 10
+		},
+		"wontoncc": {
+			"name": "Jason Chen",
+			"size": 10
+		},
+		"brickgao": {
+			"name": "Xiongzhi Gao",
+			"size": 10
+		},
+		"rayslxu": {
+			"name": "rayslxu",
+			"size": 4
+		},
+		"lyqspace": {
+			"name": "Lyq",
+			"size": 7
+		},
+		"liuxuan30": {
+			"name": "Xuan",
+			"size": 7
+		},
+		"yetone": {
+			"name": "yetone",
+			"size": 13
+		},
+		"gnaggnoyil": {
+			"name": "gnaggnoyil",
+			"size": 9
+		},
+		"czy941030": {
+			"name": "czy941030",
+			"size": 5
+		},
+		"gdier": {
+			"name": "Gdier",
+			"size": 10
+		},
+		"notishell": {
+			"name": "notishell",
+			"size": 4
+		},
+		"i25ffz": {
+			"name": "Martin",
+			"size": 5
+		},
+		"echofv": {
+			"name": "EchofV",
+			"size": 5
+		},
+		"xosdy": {
+			"name": "Kingfai Tang",
+			"size": 9
+		},
+		"dweinstein": {
+			"name": "David Weinstein",
+			"size": 13
+		},
+		"nlfox": {
+			"name": "nlfox",
+			"size": 5
+		},
+		"kiritoalex": {
+			"name": "Alex Martin",
+			"size": 6
+		},
+		"tewilove": {
+			"name": "tewilove",
+			"size": 10
+		},
+		"commouse": {
+			"name": "Kevin Han",
+			"size": 9
+		},
+		"fallacy321": {
+			"name": "Heena Mahour",
+			"size": 5
+		},
+		"upsuper": {
+			"name": "Xidorn Quan",
+			"size": 11
+		},
+		"seiarotg": {
+			"name": "Archimedes Smith",
+			"size": 7
+		},
+		"silencious": {
+			"name": "silencious",
+			"size": 6
+		},
+		"xuziyan001": {
+			"name": "vic",
+			"size": 6
+		},
+		"serenaqinggg": {
+			"name": "Serena Kwok",
+			"size": 2
+		},
+		"niangaotuantuan": {
+			"name": "Yanran Li",
+			"size": 12
+		},
+		"zwindl": {
+			"name": "ZWindL",
+			"size": 5
+		},
+		"44670": {
+			"name": "44670",
+			"size": 10
+		},
+		"ir193": {
+			"name": "Ir193",
+			"size": 9
+		},
+		"fanhongwei": {
+			"name": "vicvan",
+			"size": 10
+		},
+		"xtxwy": {
+			"name": "xtxwy",
+			"size": 5
+		},
+		"findslowly": {
+			"name": "Xun Xu",
+			"size": 4
+		},
+		"yl790": {
+			"name": "Yitao Li",
+			"size": 8
+		},
+		"yukiexe": {
+			"name": "yukiexe",
+			"size": 5
+		},
+		"wicastchen": {
+			"name": "wicast",
+			"size": 10
+		},
+		"hheedat": {
+			"name": "Yuxiang Zhao",
+			"size": 7
+		},
+		"iflashlord": {
+			"name": "Behrouz Pooladrag",
+			"size": 12
+		},
+		"oakvale": {
+			"name": "oak",
+			"size": 4
+		},
+		"astroprofundis": {
+			"name": "Allen Zhong",
+			"size": 11
+		},
+		"gilbertheywood": {
+			"name": "GilbertHeywood",
+			"size": 3
+		},
+		"v1zze": {
+			"name": "v1zze",
+			"size": 7
+		},
+		"yll": {
+			"name": "YLL",
+			"size": 6
+		},
+		"mrahmiao": {
+			"name": "Ah.Miao",
+			"size": 9
+		},
+		"csimstu": {
+			"name": "Lingxiao Li",
+			"size": 5
+		},
+		"sherlockkenan": {
+			"name": "sherlockkenan",
+			"size": 3
+		},
+		"kingydw": {
+			"name": "kingydw",
+			"size": 5
+		},
+		"jungyhuk": {
+			"name": "Jungyhuk",
+			"size": 3
+		},
+		"chibaheit": {
+			"name": "Chiba",
+			"size": 7
+		},
+		"xzq2002": {
+			"name": "Vick Shieh",
+			"size": 5
+		},
+		"shadowglen": {
+			"name": "Shadowglen Elf",
+			"size": 8
+		},
+		"dantmnf": {
+			"name": "dantmnf",
+			"size": 9
+		},
+		"599316527": {
+			"name": "Kyle He",
+			"size": 10
+		},
+		"madimo": {
+			"name": "Madimo",
+			"size": 11
+		},
+		"blkstone": {
+			"name": "BLKStone",
+			"size": 6
+		},
+		"suyashsjadhav": {
+			"name": "Suyash Jadhav",
+			"size": 3
+		},
+		"ci010": {
+			"name": "CI010",
+			"size": 5
+		},
+		"ceclinux": {
+			"name": "ceclinux",
+			"size": 9
+		},
+		"el-hoshino": {
+			"name": "Elvis Shi",
+			"size": 5
+		},
+		"lastmayday": {
+			"name": "lastmayday",
+			"size": 11
+		},
+		"brainbush": {
+			"name": "brainbush",
+			"size": 7
+		},
+		"mzule": {
+			"name": "Jason Cao",
+			"size": 9
+		},
+		"brotherjing": {
+			"name": "Jing Yang",
+			"size": 6
+		},
+		"jiraiyame": {
+			"name": "Zhengzong Fu",
+			"size": 11
+		},
+		"billryan": {
+			"name": "billryan",
+			"size": 11
+		},
+		"kagami-c": {
+			"name": "kagami",
+			"size": 5
+		},
+		"zccicy": {
+			"name": "zccicy",
+			"size": 8
+		},
+		"freemanhsu": {
+			"name": "AndyHsu",
+			"size": 10
+		},
+		"woodcutknife": {
+			"name": "Di Wang",
+			"size": 6
+		},
+		"fatetestarossa": {
+			"name": "Fate.T.Harlaown",
+			"size": 2
+		},
+		"jsliang": {
+			"name": "Jui-Shan Liang (Jenny)",
+			"size": 12
+		},
+		"aquarhead": {
+			"name": "Lou Xun",
+			"size": 14
+		},
+		"codefalling": {
+			"name": "She Jinxin",
+			"size": 11
+		},
+		"lmy441900": {
+			"name": "Junde Yi",
+			"size": 9
+		},
+		"greendamtan": {
+			"name": "GreenDam",
+			"size": 4
+		},
+		"huizhangsama": {
+			"name": "HUIZHANGSAMA",
+			"size": 2
+		},
+		"78": {
+			"name": "Xiaoxia",
+			"size": 7
+		},
+		"icodesign": {
+			"name": "Lei Wang",
+			"size": 11
+		},
+		"wwwwodddd": {
+			"name": "wwwwodddd",
+			"size": 5
+		},
+		"xsfour": {
+			"name": "xsfour",
+			"size": 6
+		},
+		"neptune1225": {
+			"name": "neptune1225",
+			"size": 7
+		},
+		"secondwtq": {
+			"name": "Second Datke",
+			"size": 12
+		},
+		"ethe": {
+			"name": "go tzehsing",
+			"size": 6
+		},
+		"351768593": {
+			"name": "Firok",
+			"size": 4
+		},
+		"eahydra": {
+			"name": "Joseph",
+			"size": 10
+		},
+		"22earth": {
+			"name": "Alan Yang",
+			"size": 6
+		},
+		"eternityi": {
+			"name": "SwiftOz",
+			"size": 8
+		},
+		"pinkwayne": {
+			"name": "WAYNE GU",
+			"size": 4
+		},
+		"rwalle": {
+			"name": "rwalle",
+			"size": 5
+		},
+		"sapherise": {
+			"name": "sapherise",
+			"size": 5
+		},
+		"lewischeng-ms": {
+			"name": "Lewis Cheng",
+			"size": 9
+		},
+		"lsuper": {
+			"name": "lsuper",
+			"size": 9
+		},
+		"tcbbd": {
+			"name": "Zhuocheng Ding",
+			"size": 6
+		},
+		"awcrr": {
+			"name": "Billy Deng",
+			"size": 6
+		},
+		"hiprince": {
+			"name": "hiprince",
+			"size": 7
+		},
+		"inaaekim": {
+			"name": "Inaae Kim",
+			"size": 4
+		},
+		"alonegu": {
+			"name": "WeiGu",
+			"size": 3
+		},
+		"kuranyukie": {
+			"name": "kuranyukie",
+			"size": 3
+		},
+		"stevearzh": {
+			"name": "Steve Zhang",
+			"size": 10
+		},
+		"lukexuan": {
+			"name": "Luke Lazurite",
+			"size": 9
+		},
+		"taylor840326": {
+			"name": "Lei Tian",
+			"size": 8
+		},
+		"iceboy-sjtu": {
+			"name": "iceboy-sjtu",
+			"size": 8
+		},
+		"chinahackers": {
+			"name": "Mr Liu",
+			"size": 9
+		},
+		"fraina": {
+			"name": "Fraina Huang",
+			"size": 8
+		},
+		"xiaowan3": {
+			"name": "xiaowan3",
+			"size": 5
+		},
+		"xjingitty": {
+			"name": "jinxiao",
+			"size": 3
+		},
+		"bracken-dev": {
+			"name": "Bracken Spencer",
+			"size": 11
+		},
+		"raysmond": {
+			"name": "Jiankun LEI",
+			"size": 12
+		},
+		"ababook": {
+			"name": "ababook",
+			"size": 7
+		},
+		"fanhuirong": {
+			"name": "fanhuirong",
+			"size": 5
+		},
+		"seterplus": {
+			"name": "Seter Guo",
+			"size": 3
+		},
+		"nyankosama": {
+			"name": "LiangRui He",
+			"size": 11
+		},
+		"jimenbian": {
+			"name": "Garvin",
+			"size": 10
+		},
+		"cotaku": {
+			"name": "cotaku",
+			"size": 5
+		},
+		"zhouqt": {
+			"name": "Tom Zhou",
+			"size": 8
+		},
+		"jackyzy823": {
+			"name": "jackyzy823",
+			"size": 10
+		},
+		"ztuowen": {
+			"name": "Joe Zhao",
+			"size": 5
+		},
+		"albuszheng": {
+			"name": "Albus Zheng",
+			"size": 9
+		},
+		"mrain": {
+			"name": "MRain",
+			"size": 7
+		},
+		"popo233": {
+			"name": "popo233",
+			"size": 6
+		},
+		"djs66256": {
+			"name": "Daniel",
+			"size": 10
+		},
+		"gblym": {
+			"name": "gblym",
+			"size": 3
+		},
+		"wangyafei3": {
+			"name": "Ricky.wang",
+			"size": 4
+		},
+		"pink-fl0yd": {
+			"name": "Pink Floyd",
+			"size": 8
+		},
+		"itanch": {
+			"name": "Tian Chi",
+			"size": 7
+		},
+		"longcmu": {
+			"name": "Long He",
+			"size": 4
+		},
+		"kccai": {
+			"name": "Cake",
+			"size": 7
+		},
+		"luoxuemelody": {
+			"name": "luoxuemelody",
+			"size": 2
+		},
+		"dwsyoyo": {
+			"name": "dwsyoyo",
+			"size": 9
+		},
+		"lvning": {
+			"name": "Louis lue",
+			"size": 8
+		},
+		"arthur2e5": {
+			"name": "Mingye Wang",
+			"size": 10
+		},
+		"bung87": {
+			"name": "Bung",
+			"size": 10
+		},
+		"colin1124x": {
+			"name": "colin",
+			"size": 8
+		},
+		"instr3": {
+			"name": "instr3",
+			"size": 4
+		},
+		"lujiajing1126": {
+			"name": "Lujiajing",
+			"size": 12
+		},
+		"edwardchor": {
+			"name": "EchoR",
+			"size": 6
+		},
+		"boleynsu": {
+			"name": "Boleyn Su",
+			"size": 6
+		},
+		"scateu": {
+			"name": "Wang Kang",
+			"size": 12
+		},
+		"liruqi": {
+			"name": "Ruqi",
+			"size": 14
+		},
+		"professor-z": {
+			"name": "Ethan",
+			"size": 7
+		},
+		"zhuth": {
+			"name": "ZTH",
+			"size": 6
+		},
+		"jas0ncn": {
+			"name": "JasonChen",
+			"size": 3
+		},
+		"fuzion24": {
+			"name": "Ryan Welton",
+			"size": 13
+		},
+		"nihiue": {
+			"name": "WangLei",
+			"size": 6
+		},
+		"wyfsjtu": {
+			"name": "wyfsjtu",
+			"size": 4
+		},
+		"benpigchu": {
+			"name": "Ben Pig Chu",
+			"size": 5
+		},
+		"leonar": {
+			"name": "leonar",
+			"size": 4
+		},
+		"vilic": {
+			"name": "vilicvane",
+			"size": 11
+		},
+		"freefcw": {
+			"name": "freefcw",
+			"size": 11
+		},
+		"davidcai1993": {
+			"name": "DavidCai",
+			"size": 12
+		},
+		"x0day": {
+			"name": "DM_",
+			"size": 12
+		},
+		"ourren": {
+			"name": "ourren",
+			"size": 11
+		},
+		"volzkzg": {
+			"name": "Gao Bicheng",
+			"size": 5
+		},
+		"lynx-cpp": {
+			"name": "Lynx",
+			"size": 7
+		},
+		"nsdown": {
+			"name": "nsdown",
+			"size": 6
+		},
+		"yuvesy": {
+			"name": "Yuvesy",
+			"size": 4
+		},
+		"moinheart": {
+			"name": "Wu Junhao",
+			"size": 4
+		},
+		"xuda": {
+			"name": "xuda",
+			"size": 4
+		},
+		"runming": {
+			"name": "runming",
+			"size": 5
+		},
+		"imhugy": {
+			"name": "imhugy",
+			"size": 2
+		},
+		"magicnat": {
+			"name": "NAT",
+			"size": 6
+		},
+		"yzgysjr": {
+			"name": "Junru Shao",
+			"size": 10
+		},
+		"potaty": {
+			"name": "LL",
+			"size": 9
+		},
+		"myly10": {
+			"name": "Yang Liu",
+			"size": 6
+		},
+		"bincker": {
+			"name": "Bincker",
+			"size": 7
+		},
+		"haiyupeter": {
+			"name": "haiyupeter",
+			"size": 6
+		},
+		"billhhh": {
+			"name": "Bill Dufresne",
+			"size": 5
+		}
+	},
+	"edges": [
+		{
+			"source": "kingsamchen",
+			"target": "redhjkl",
+			"weight": 1
+		},
+		{
+			"source": "acerest",
+			"target": "winkidney",
+			"weight": 1
+		},
+		{
+			"source": "akatsukikaede",
+			"target": "winkidney",
+			"weight": 1
+		},
+		{
+			"source": "binotaliu",
+			"target": "winkidney",
+			"weight": 2
+		},
+		{
+			"source": "ispeller",
+			"target": "winkidney",
+			"weight": 1
+		},
+		{
+			"source": "jannson",
+			"target": "winkidney",
+			"weight": 1
+		},
+		{
+			"source": "littlekey",
+			"target": "winkidney",
+			"weight": 2
+		},
+		{
+			"source": "piaoasd123",
+			"target": "winkidney",
+			"weight": 1
+		},
+		{
+			"source": "windy",
+			"target": "winkidney",
+			"weight": 1
+		},
+		{
+			"source": "arition",
+			"target": "cnbeining",
+			"weight": 1
+		},
+		{
+			"source": "arition",
+			"target": "dantmnf",
+			"weight": 2
+		},
+		{
+			"source": "arition",
+			"target": "zhouyiran2",
+			"weight": 1
+		},
+		{
+			"source": "4lph4",
+			"target": "niklaus520",
+			"weight": 1
+		},
+		{
+			"source": "antimoron",
+			"target": "niklaus520",
+			"weight": 1
+		},
+		{
+			"source": "chengyuhui",
+			"target": "niklaus520",
+			"weight": 1
+		},
+		{
+			"source": "lixiaoyan",
+			"target": "sunnycase",
+			"weight": 1
+		},
+		{
+			"source": "hiprince",
+			"target": "jiaoew1991",
+			"weight": 1
+		},
+		{
+			"source": "gdier",
+			"target": "zhangbaoliang",
+			"weight": 1
+		},
+		{
+			"source": "m13253",
+			"target": "nicball",
+			"weight": 1
+		},
+		{
+			"source": "m13253",
+			"target": "orzfly",
+			"weight": 1
+		},
+		{
+			"source": "m13253",
+			"target": "viztor",
+			"weight": 1
+		},
+		{
+			"source": "910jqk",
+			"target": "m13253",
+			"weight": 1
+		},
+		{
+			"source": "acgtyrant",
+			"target": "m13253",
+			"weight": 1
+		},
+		{
+			"source": "akaza-akari",
+			"target": "m13253",
+			"weight": 1
+		},
+		{
+			"source": "arthur2e5",
+			"target": "m13253",
+			"weight": 1
+		},
+		{
+			"source": "dantmnf",
+			"target": "m13253",
+			"weight": 1
+		},
+		{
+			"source": "fhoshino",
+			"target": "m13253",
+			"weight": 1
+		},
+		{
+			"source": "hjc4869",
+			"target": "m13253",
+			"weight": 2
+		},
+		{
+			"source": "icenowy",
+			"target": "m13253",
+			"weight": 1
+		},
+		{
+			"source": "leosongwei",
+			"target": "m13253",
+			"weight": 1
+		},
+		{
+			"source": "swordfeng",
+			"target": "voidrank",
+			"weight": 6
+		},
+		{
+			"source": "aixile",
+			"target": "swordfeng",
+			"weight": 3
+		},
+		{
+			"source": "cnbeining",
+			"target": "swordfeng",
+			"weight": 1
+		},
+		{
+			"source": "dnc1994",
+			"target": "swordfeng",
+			"weight": 3
+		},
+		{
+			"source": "farseerfc",
+			"target": "swordfeng",
+			"weight": 2
+		},
+		{
+			"source": "frantic1048",
+			"target": "swordfeng",
+			"weight": 1
+		},
+		{
+			"source": "jackyyf",
+			"target": "swordfeng",
+			"weight": 2
+		},
+		{
+			"source": "lams2135",
+			"target": "swordfeng",
+			"weight": 2
+		},
+		{
+			"source": "law-liet",
+			"target": "swordfeng",
+			"weight": 1
+		},
+		{
+			"source": "quietshu",
+			"target": "swordfeng",
+			"weight": 1
+		},
+		{
+			"source": "starkwang",
+			"target": "swordfeng",
+			"weight": 3
+		},
+		{
+			"source": "seavantuuz",
+			"target": "slixurd",
+			"weight": 4
+		},
+		{
+			"source": "seavantuuz",
+			"target": "yukixz",
+			"weight": 4
+		},
+		{
+			"source": "acgtyrant",
+			"target": "seavantuuz",
+			"weight": 3
+		},
+		{
+			"source": "brickgao",
+			"target": "seavantuuz",
+			"weight": 4
+		},
+		{
+			"source": "ceclinux",
+			"target": "seavantuuz",
+			"weight": 3
+		},
+		{
+			"source": "cee",
+			"target": "seavantuuz",
+			"weight": 1
+		},
+		{
+			"source": "giumo",
+			"target": "seavantuuz",
+			"weight": 4
+		},
+		{
+			"source": "kxxoling",
+			"target": "seavantuuz",
+			"weight": 4
+		},
+		{
+			"source": "anyofyou",
+			"target": "jovisayhehe",
+			"weight": 1
+		},
+		{
+			"source": "albusmath",
+			"target": "bear9509",
+			"weight": 1
+		},
+		{
+			"source": "albusmath",
+			"target": "ca72",
+			"weight": 7
+		},
+		{
+			"source": "albusmath",
+			"target": "czy941030",
+			"weight": 3
+		},
+		{
+			"source": "albusmath",
+			"target": "dnc1994",
+			"weight": 8
+		},
+		{
+			"source": "albusmath",
+			"target": "evergreentree",
+			"weight": 1
+		},
+		{
+			"source": "albusmath",
+			"target": "foreverbell",
+			"weight": 9
+		},
+		{
+			"source": "albusmath",
+			"target": "indeedplusplus",
+			"weight": 4
+		},
+		{
+			"source": "albusmath",
+			"target": "jackyyf",
+			"weight": 2
+		},
+		{
+			"source": "albusmath",
+			"target": "liuking",
+			"weight": 1
+		},
+		{
+			"source": "albusmath",
+			"target": "orthocenter",
+			"weight": 8
+		},
+		{
+			"source": "albusmath",
+			"target": "perseawe",
+			"weight": 7
+		},
+		{
+			"source": "albusmath",
+			"target": "quietshu",
+			"weight": 2
+		},
+		{
+			"source": "albusmath",
+			"target": "sergiochan",
+			"weight": 1
+		},
+		{
+			"source": "albusmath",
+			"target": "tinylic",
+			"weight": 4
+		},
+		{
+			"source": "albusmath",
+			"target": "xhmflydutchman",
+			"weight": 1
+		},
+		{
+			"source": "albusmath",
+			"target": "zrz1996",
+			"weight": 2
+		},
+		{
+			"source": "albusmath",
+			"target": "zxybazh",
+			"weight": 5
+		},
+		{
+			"source": "jackyyf",
+			"target": "zhangboyang",
+			"weight": 2
+		},
+		{
+			"source": "liyingwei",
+			"target": "zhangboyang",
+			"weight": 2
+		},
+		{
+			"source": "voidrank",
+			"target": "zhangboyang",
+			"weight": 3
+		},
+		{
+			"source": "gaocegege",
+			"target": "zhiyue",
+			"weight": 1
+		},
+		{
+			"source": "courage17340",
+			"target": "t-inamura",
+			"weight": 1
+		},
+		{
+			"source": "meimisaki",
+			"target": "yukaidong",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "gaohongyuan",
+			"weight": 1
+		},
+		{
+			"source": "taineleau",
+			"target": "zhuth",
+			"weight": 1
+		},
+		{
+			"source": "breezen",
+			"target": "taineleau",
+			"weight": 2
+		},
+		{
+			"source": "erichuang1994",
+			"target": "taineleau",
+			"weight": 4
+		},
+		{
+			"source": "foreverbell",
+			"target": "taineleau",
+			"weight": 4
+		},
+		{
+			"source": "gatlas",
+			"target": "taineleau",
+			"weight": 1
+		},
+		{
+			"source": "irmowan",
+			"target": "taineleau",
+			"weight": 5
+		},
+		{
+			"source": "jackyyf",
+			"target": "taineleau",
+			"weight": 2
+		},
+		{
+			"source": "orthocenter",
+			"target": "taineleau",
+			"weight": 7
+		},
+		{
+			"source": "quietshu",
+			"target": "taineleau",
+			"weight": 2
+		},
+		{
+			"source": "rabbitcdn",
+			"target": "taineleau",
+			"weight": 1
+		},
+		{
+			"source": "siuto",
+			"target": "taineleau",
+			"weight": 4
+		},
+		{
+			"source": "amazg",
+			"target": "gaocegege",
+			"weight": 1
+		},
+		{
+			"source": "akirayu101",
+			"target": "sniperhw",
+			"weight": 1
+		},
+		{
+			"source": "ironsdu",
+			"target": "sniperhw",
+			"weight": 1
+		},
+		{
+			"source": "metazion",
+			"target": "sniperhw",
+			"weight": 1
+		},
+		{
+			"source": "dweinstein",
+			"target": "ekristen",
+			"weight": 1
+		},
+		{
+			"source": "viilaismonster",
+			"target": "wssccc",
+			"weight": 2
+		},
+		{
+			"source": "cccssw",
+			"target": "viilaismonster",
+			"weight": 2
+		},
+		{
+			"source": "gaocegege",
+			"target": "zhangscript",
+			"weight": 1
+		},
+		{
+			"source": "hczhcz",
+			"target": "zhangscript",
+			"weight": 1
+		},
+		{
+			"source": "fateyan",
+			"target": "tsunderechen",
+			"weight": 1
+		},
+		{
+			"source": "fateyan",
+			"target": "ws23",
+			"weight": 2
+		},
+		{
+			"source": "fateyan",
+			"target": "ysya",
+			"weight": 1
+		},
+		{
+			"source": "binotaliu",
+			"target": "fateyan",
+			"weight": 2
+		},
+		{
+			"source": "dnc1994",
+			"target": "mssjtxwd",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "marsrocky",
+			"weight": 1
+		},
+		{
+			"source": "gardongao",
+			"target": "haiyupeter",
+			"weight": 2
+		},
+		{
+			"source": "gardongao",
+			"target": "ioriiod0",
+			"weight": 2
+		},
+		{
+			"source": "bignews",
+			"target": "yzgysjr",
+			"weight": 1
+		},
+		{
+			"source": "bignews",
+			"target": "zzy7896321",
+			"weight": 2
+		},
+		{
+			"source": "jetmuffin",
+			"target": "zcatao",
+			"weight": 1
+		},
+		{
+			"source": "axure",
+			"target": "yzyzsun",
+			"weight": 1
+		},
+		{
+			"source": "yzgysjr",
+			"target": "yzyzsun",
+			"weight": 1
+		},
+		{
+			"source": "azard",
+			"target": "jttoday",
+			"weight": 2
+		},
+		{
+			"source": "gaocegege",
+			"target": "jttoday",
+			"weight": 1
+		},
+		{
+			"source": "alantian",
+			"target": "yshui",
+			"weight": 2
+		},
+		{
+			"source": "shouya",
+			"target": "yshui",
+			"weight": 1
+		},
+		{
+			"source": "wishstudio",
+			"target": "yshui",
+			"weight": 1
+		},
+		{
+			"source": "xiw9",
+			"target": "yshui",
+			"weight": 2
+		},
+		{
+			"source": "akagi201",
+			"target": "jasonleaster",
+			"weight": 1
+		},
+		{
+			"source": "akagi201",
+			"target": "wongsyrone",
+			"weight": 1
+		},
+		{
+			"source": "0dayzh",
+			"target": "akagi201",
+			"weight": 1
+		},
+		{
+			"source": "chchgb",
+			"target": "fuzzing",
+			"weight": 1
+		},
+		{
+			"source": "kemege",
+			"target": "lujiajing1126",
+			"weight": 1
+		},
+		{
+			"source": "dnc1994",
+			"target": "kemege",
+			"weight": 1
+		},
+		{
+			"source": "jackyyf",
+			"target": "kemege",
+			"weight": 1
+		},
+		{
+			"source": "kagami-c",
+			"target": "kemege",
+			"weight": 1
+		},
+		{
+			"source": "dweinstein",
+			"target": "marcograss",
+			"weight": 1
+		},
+		{
+			"source": "at15",
+			"target": "ericahe",
+			"weight": 1
+		},
+		{
+			"source": "feelvoice",
+			"target": "upsuper",
+			"weight": 1
+		},
+		{
+			"source": "astronomicalphenomena",
+			"target": "ci010",
+			"weight": 1
+		},
+		{
+			"source": "astronomicalphenomena",
+			"target": "dingjibang",
+			"weight": 1
+		},
+		{
+			"source": "0xr0ot",
+			"target": "xbalien",
+			"weight": 1
+		},
+		{
+			"source": "dreamacro",
+			"target": "xbalien",
+			"weight": 1
+		},
+		{
+			"source": "fuzzing",
+			"target": "xbalien",
+			"weight": 1
+		},
+		{
+			"source": "nwmonster",
+			"target": "xbalien",
+			"weight": 1
+		},
+		{
+			"source": "spacemeowx2",
+			"target": "xbalien",
+			"weight": 1
+		},
+		{
+			"source": "gnoxia",
+			"target": "ioriiod0",
+			"weight": 3
+		},
+		{
+			"source": "gnoxia",
+			"target": "kingydw",
+			"weight": 3
+		},
+		{
+			"source": "gnoxia",
+			"target": "wuborush",
+			"weight": 3
+		},
+		{
+			"source": "bincker",
+			"target": "subho007",
+			"weight": 1
+		},
+		{
+			"source": "jcarlos7121",
+			"target": "subho007",
+			"weight": 1
+		},
+		{
+			"source": "madhugb",
+			"target": "subho007",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "zhangruichang",
+			"weight": 1
+		},
+		{
+			"source": "acgtyrant",
+			"target": "brickgao",
+			"weight": 5
+		},
+		{
+			"source": "acgtyrant",
+			"target": "cee",
+			"weight": 1
+		},
+		{
+			"source": "acgtyrant",
+			"target": "felixonmars",
+			"weight": 1
+		},
+		{
+			"source": "acgtyrant",
+			"target": "frantic1048",
+			"weight": 1
+		},
+		{
+			"source": "acgtyrant",
+			"target": "innocentim",
+			"weight": 2
+		},
+		{
+			"source": "acgtyrant",
+			"target": "joyneop",
+			"weight": 1
+		},
+		{
+			"source": "acgtyrant",
+			"target": "kunr",
+			"weight": 2
+		},
+		{
+			"source": "acgtyrant",
+			"target": "tioover",
+			"weight": 1
+		},
+		{
+			"source": "acgtyrant",
+			"target": "upsuper",
+			"weight": 2
+		},
+		{
+			"source": "acgtyrant",
+			"target": "yukixz",
+			"weight": 6
+		},
+		{
+			"source": "acgtyrant",
+			"target": "z-shang",
+			"weight": 1
+		},
+		{
+			"source": "blkstone",
+			"target": "qwertylevel3",
+			"weight": 1
+		},
+		{
+			"source": "superbazinga",
+			"target": "wfjsw",
+			"weight": 1
+		},
+		{
+			"source": "ethan-chan",
+			"target": "hacklinshell",
+			"weight": 2
+		},
+		{
+			"source": "ethan-chan",
+			"target": "tonnie17",
+			"weight": 2
+		},
+		{
+			"source": "ethan-chan",
+			"target": "zapline",
+			"weight": 1
+		},
+		{
+			"source": "echofv",
+			"target": "ethan-chan",
+			"weight": 1
+		},
+		{
+			"source": "ironsdu",
+			"target": "jeffchen-",
+			"weight": 2
+		},
+		{
+			"source": "joshoy",
+			"target": "neveraway",
+			"weight": 3
+		},
+		{
+			"source": "joshoy",
+			"target": "shiehshieh",
+			"weight": 2
+		},
+		{
+			"source": "joshoy",
+			"target": "summerwish",
+			"weight": 1
+		},
+		{
+			"source": "joshoy",
+			"target": "tjwudi",
+			"weight": 1
+		},
+		{
+			"source": "blackbbc",
+			"target": "joshoy",
+			"weight": 3
+		},
+		{
+			"source": "h1994st",
+			"target": "joshoy",
+			"weight": 4
+		},
+		{
+			"source": "indigofeather",
+			"target": "nyogjtrc",
+			"weight": 1
+		},
+		{
+			"source": "indigofeather",
+			"target": "pivotlogix",
+			"weight": 1
+		},
+		{
+			"source": "indigofeather",
+			"target": "sdpower",
+			"weight": 1
+		},
+		{
+			"source": "indigofeather",
+			"target": "shoshindes",
+			"weight": 1
+		},
+		{
+			"source": "indigofeather",
+			"target": "supermrji",
+			"weight": 1
+		},
+		{
+			"source": "indigofeather",
+			"target": "suprgyabhushan",
+			"weight": 1
+		},
+		{
+			"source": "indigofeather",
+			"target": "syhlion",
+			"weight": 3
+		},
+		{
+			"source": "binotaliu",
+			"target": "indigofeather",
+			"weight": 1
+		},
+		{
+			"source": "colin1124x",
+			"target": "indigofeather",
+			"weight": 3
+		},
+		{
+			"source": "cswleocsw",
+			"target": "indigofeather",
+			"weight": 4
+		},
+		{
+			"source": "fraina",
+			"target": "indigofeather",
+			"weight": 2
+		},
+		{
+			"source": "gmx",
+			"target": "indigofeather",
+			"weight": 1
+		},
+		{
+			"source": "hehead",
+			"target": "indigofeather",
+			"weight": 1
+		},
+		{
+			"source": "icefish",
+			"target": "indigofeather",
+			"weight": 1
+		},
+		{
+			"source": "iflashlord",
+			"target": "indigofeather",
+			"weight": 1
+		},
+		{
+			"source": "fffonion",
+			"target": "mengskysama",
+			"weight": 1
+		},
+		{
+			"source": "he0119",
+			"target": "rapidhere",
+			"weight": 1
+		},
+		{
+			"source": "kylie77",
+			"target": "quietshu",
+			"weight": 1
+		},
+		{
+			"source": "szszss",
+			"target": "wakkytabbaky",
+			"weight": 1
+		},
+		{
+			"source": "gzdaijie",
+			"target": "orthocenter",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "imwildcat",
+			"weight": 1
+		},
+		{
+			"source": "creatorlanslot",
+			"target": "imwildcat",
+			"weight": 3
+		},
+		{
+			"source": "biergaizi",
+			"target": "cthbleachbit",
+			"weight": 1
+		},
+		{
+			"source": "biergaizi",
+			"target": "dantmnf",
+			"weight": 2
+		},
+		{
+			"source": "biergaizi",
+			"target": "felixonmars",
+			"weight": 1
+		},
+		{
+			"source": "biergaizi",
+			"target": "harry-chen",
+			"weight": 1
+		},
+		{
+			"source": "biergaizi",
+			"target": "kiritoalex",
+			"weight": 1
+		},
+		{
+			"source": "biergaizi",
+			"target": "leosongwei",
+			"weight": 1
+		},
+		{
+			"source": "biergaizi",
+			"target": "lmy441900",
+			"weight": 1
+		},
+		{
+			"source": "biergaizi",
+			"target": "wnereiz",
+			"weight": 1
+		},
+		{
+			"source": "4679",
+			"target": "biergaizi",
+			"weight": 1
+		},
+		{
+			"source": "arthur2e5",
+			"target": "biergaizi",
+			"weight": 1
+		},
+		{
+			"source": "cnphil",
+			"target": "determinant",
+			"weight": 1
+		},
+		{
+			"source": "cnphil",
+			"target": "findslowly",
+			"weight": 1
+		},
+		{
+			"source": "cnphil",
+			"target": "freefcw",
+			"weight": 1
+		},
+		{
+			"source": "cnphil",
+			"target": "gestapolur",
+			"weight": 2
+		},
+		{
+			"source": "cnphil",
+			"target": "larryxiao",
+			"weight": 2
+		},
+		{
+			"source": "cnphil",
+			"target": "mrain",
+			"weight": 1
+		},
+		{
+			"source": "cnphil",
+			"target": "nihiue",
+			"weight": 1
+		},
+		{
+			"source": "cnphil",
+			"target": "shenjiasi",
+			"weight": 1
+		},
+		{
+			"source": "cnphil",
+			"target": "szxie",
+			"weight": 1
+		},
+		{
+			"source": "cnphil",
+			"target": "xiw9",
+			"weight": 2
+		},
+		{
+			"source": "cnphil",
+			"target": "ziliangpeng",
+			"weight": 1
+		},
+		{
+			"source": "cnphil",
+			"target": "ztuowen",
+			"weight": 1
+		},
+		{
+			"source": "44670",
+			"target": "cnphil",
+			"weight": 1
+		},
+		{
+			"source": "a19990200130067",
+			"target": "cnphil",
+			"weight": 1
+		},
+		{
+			"source": "airgetl1",
+			"target": "cnphil",
+			"weight": 1
+		},
+		{
+			"source": "billryan",
+			"target": "cnphil",
+			"weight": 1
+		},
+		{
+			"source": "changlan",
+			"target": "cnphil",
+			"weight": 1
+		},
+		{
+			"source": "metazion",
+			"target": "zapline",
+			"weight": 1
+		},
+		{
+			"source": "hmgle",
+			"target": "metazion",
+			"weight": 1
+		},
+		{
+			"source": "ipfans",
+			"target": "jerryxjtu",
+			"weight": 1
+		},
+		{
+			"source": "ipfans",
+			"target": "mariovilas",
+			"weight": 1
+		},
+		{
+			"source": "ipfans",
+			"target": "mbazaliy",
+			"weight": 2
+		},
+		{
+			"source": "ipfans",
+			"target": "mountainstorm",
+			"weight": 1
+		},
+		{
+			"source": "ipfans",
+			"target": "sh3dow",
+			"weight": 1
+		},
+		{
+			"source": "ipfans",
+			"target": "torta",
+			"weight": 1
+		},
+		{
+			"source": "ipfans",
+			"target": "unixdj",
+			"weight": 1
+		},
+		{
+			"source": "ipfans",
+			"target": "xtxwy",
+			"weight": 1
+		},
+		{
+			"source": "ipfans",
+			"target": "xuda",
+			"weight": 1
+		},
+		{
+			"source": "4lph4",
+			"target": "ipfans",
+			"weight": 1
+		},
+		{
+			"source": "amxku",
+			"target": "ipfans",
+			"weight": 1
+		},
+		{
+			"source": "bincker",
+			"target": "ipfans",
+			"weight": 2
+		},
+		{
+			"source": "cmpxchg8",
+			"target": "ipfans",
+			"weight": 2
+		},
+		{
+			"source": "dweinstein",
+			"target": "ipfans",
+			"weight": 1
+		},
+		{
+			"source": "flyr4nk",
+			"target": "ipfans",
+			"weight": 1
+		},
+		{
+			"source": "galaris",
+			"target": "ipfans",
+			"weight": 1
+		},
+		{
+			"source": "hysia",
+			"target": "ipfans",
+			"weight": 1
+		},
+		{
+			"source": "kingsamchen",
+			"target": "lervard",
+			"weight": 1
+		},
+		{
+			"source": "kingsamchen",
+			"target": "luoqeng",
+			"weight": 1
+		},
+		{
+			"source": "kingsamchen",
+			"target": "lushl9301",
+			"weight": 1
+		},
+		{
+			"source": "kingsamchen",
+			"target": "mrmign",
+			"weight": 1
+		},
+		{
+			"source": "kingsamchen",
+			"target": "quantumbear",
+			"weight": 2
+		},
+		{
+			"source": "kingsamchen",
+			"target": "sundae",
+			"weight": 1
+		},
+		{
+			"source": "kingsamchen",
+			"target": "t-k-",
+			"weight": 1
+		},
+		{
+			"source": "kingsamchen",
+			"target": "taylor840326",
+			"weight": 1
+		},
+		{
+			"source": "kingsamchen",
+			"target": "thecjw",
+			"weight": 2
+		},
+		{
+			"source": "kingsamchen",
+			"target": "verashira",
+			"weight": 1
+		},
+		{
+			"source": "kingsamchen",
+			"target": "whtqh",
+			"weight": 1
+		},
+		{
+			"source": "kingsamchen",
+			"target": "xqq",
+			"weight": 1
+		},
+		{
+			"source": "kingsamchen",
+			"target": "zqhxuyuan",
+			"weight": 1
+		},
+		{
+			"source": "chopinwong01",
+			"target": "kingsamchen",
+			"weight": 1
+		},
+		{
+			"source": "dutor",
+			"target": "kingsamchen",
+			"weight": 1
+		},
+		{
+			"source": "edgarwang",
+			"target": "kingsamchen",
+			"weight": 1
+		},
+		{
+			"source": "fanfuqiang",
+			"target": "kingsamchen",
+			"weight": 2
+		},
+		{
+			"source": "foreverbell",
+			"target": "kingsamchen",
+			"weight": 3
+		},
+		{
+			"source": "functionghw",
+			"target": "kingsamchen",
+			"weight": 3
+		},
+		{
+			"source": "hanwenfang",
+			"target": "kingsamchen",
+			"weight": 1
+		},
+		{
+			"source": "hehead",
+			"target": "kingsamchen",
+			"weight": 1
+		},
+		{
+			"source": "hheedat",
+			"target": "kingsamchen",
+			"weight": 2
+		},
+		{
+			"source": "ir193",
+			"target": "kingsamchen",
+			"weight": 1
+		},
+		{
+			"source": "jacktony",
+			"target": "kingsamchen",
+			"weight": 1
+		},
+		{
+			"source": "jailecoeu",
+			"target": "kingsamchen",
+			"weight": 1
+		},
+		{
+			"source": "joyzh",
+			"target": "kingsamchen",
+			"weight": 1
+		},
+		{
+			"source": "jyuan",
+			"target": "kingsamchen",
+			"weight": 1
+		},
+		{
+			"source": "joyneop",
+			"target": "laosb",
+			"weight": 1
+		},
+		{
+			"source": "joyneop",
+			"target": "mingcongbai",
+			"weight": 3
+		},
+		{
+			"source": "joyneop",
+			"target": "sanddudu",
+			"weight": 1
+		},
+		{
+			"source": "joyneop",
+			"target": "sergiochan",
+			"weight": 1
+		},
+		{
+			"source": "icenowy",
+			"target": "joyneop",
+			"weight": 1
+		},
+		{
+			"source": "ioriiod0",
+			"target": "lkunxyz",
+			"weight": 1
+		},
+		{
+			"source": "dreamacro",
+			"target": "fanhuirong",
+			"weight": 3
+		},
+		{
+			"source": "dreamacro",
+			"target": "jas0ncn",
+			"weight": 1
+		},
+		{
+			"source": "dreamacro",
+			"target": "lizimeow",
+			"weight": 1
+		},
+		{
+			"source": "dreamacro",
+			"target": "okiilemon",
+			"weight": 3
+		},
+		{
+			"source": "chyancheng",
+			"target": "dreamacro",
+			"weight": 3
+		},
+		{
+			"source": "shouya",
+			"target": "z-shang",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "shouya",
+			"weight": 1
+		},
+		{
+			"source": "innocentim",
+			"target": "shouya",
+			"weight": 1
+		},
+		{
+			"source": "magicnat",
+			"target": "shouya",
+			"weight": 1
+		},
+		{
+			"source": "neutronest",
+			"target": "shouya",
+			"weight": 1
+		},
+		{
+			"source": "ettoolong",
+			"target": "shyangs",
+			"weight": 1
+		},
+		{
+			"source": "lixiaoyan",
+			"target": "qwe7002",
+			"weight": 1
+		},
+		{
+			"source": "anthrax1",
+			"target": "opcodesec",
+			"weight": 1
+		},
+		{
+			"source": "nwmonster",
+			"target": "opcodesec",
+			"weight": 1
+		},
+		{
+			"source": "neutronest",
+			"target": "tioover",
+			"weight": 1
+		},
+		{
+			"source": "neutronest",
+			"target": "xen0n",
+			"weight": 1
+		},
+		{
+			"source": "hczhcz",
+			"target": "neutronest",
+			"weight": 2
+		},
+		{
+			"source": "jackbdu",
+			"target": "kennysong",
+			"weight": 1
+		},
+		{
+			"source": "jackbdu",
+			"target": "rlwhuang",
+			"weight": 2
+		},
+		{
+			"source": "bruce55",
+			"target": "jackbdu",
+			"weight": 2
+		},
+		{
+			"source": "blackbbc",
+			"target": "summerwish",
+			"weight": 1
+		},
+		{
+			"source": "nwmonster",
+			"target": "pandazheng",
+			"weight": 1
+		},
+		{
+			"source": "gmpj",
+			"target": "zaoerck",
+			"weight": 1
+		},
+		{
+			"source": "ctiao",
+			"target": "xinzhengzhang",
+			"weight": 1
+		},
+		{
+			"source": "unkeltao",
+			"target": "winterxmq",
+			"weight": 2
+		},
+		{
+			"source": "minejo",
+			"target": "unkeltao",
+			"weight": 2
+		},
+		{
+			"source": "ioriiod0",
+			"target": "shumen",
+			"weight": 1
+		},
+		{
+			"source": "classicoldsong",
+			"target": "infinnie",
+			"weight": 2
+		},
+		{
+			"source": "classicoldsong",
+			"target": "lixiaoyan",
+			"weight": 1
+		},
+		{
+			"source": "gmpj",
+			"target": "jetmuffin",
+			"weight": 1
+		},
+		{
+			"source": "juliapig",
+			"target": "lewischeng-ms",
+			"weight": 1
+		},
+		{
+			"source": "arrowrowe",
+			"target": "juliapig",
+			"weight": 1
+		},
+		{
+			"source": "alantian",
+			"target": "lynx-cpp",
+			"weight": 2
+		},
+		{
+			"source": "alantian",
+			"target": "renchusong",
+			"weight": 2
+		},
+		{
+			"source": "alantian",
+			"target": "wishstudio",
+			"weight": 2
+		},
+		{
+			"source": "alantian",
+			"target": "xiw9",
+			"weight": 3
+		},
+		{
+			"source": "futursolo",
+			"target": "zjgood",
+			"weight": 1
+		},
+		{
+			"source": "arrowrowe",
+			"target": "mingo-x",
+			"weight": 2
+		},
+		{
+			"source": "at15",
+			"target": "mingo-x",
+			"weight": 2
+		},
+		{
+			"source": "c19",
+			"target": "hczhcz",
+			"weight": 1
+		},
+		{
+			"source": "c19",
+			"target": "shiehshieh",
+			"weight": 2
+		},
+		{
+			"source": "c19",
+			"target": "summerwish",
+			"weight": 1
+		},
+		{
+			"source": "c19",
+			"target": "tjwudi",
+			"weight": 1
+		},
+		{
+			"source": "neveraway",
+			"target": "o0lazybear0o",
+			"weight": 4
+		},
+		{
+			"source": "neveraway",
+			"target": "tjwudi",
+			"weight": 1
+		},
+		{
+			"source": "neveraway",
+			"target": "wangxiaoying",
+			"weight": 4
+		},
+		{
+			"source": "neveraway",
+			"target": "xqq",
+			"weight": 1
+		},
+		{
+			"source": "h1994st",
+			"target": "neveraway",
+			"weight": 3
+		},
+		{
+			"source": "binotaliu",
+			"target": "blacklutos",
+			"weight": 1
+		},
+		{
+			"source": "binotaliu",
+			"target": "el-hoshino",
+			"weight": 2
+		},
+		{
+			"source": "binotaliu",
+			"target": "littlekey",
+			"weight": 2
+		},
+		{
+			"source": "binotaliu",
+			"target": "manageryzy",
+			"weight": 1
+		},
+		{
+			"source": "binotaliu",
+			"target": "upsuper",
+			"weight": 1
+		},
+		{
+			"source": "binotaliu",
+			"target": "ws23",
+			"weight": 2
+		},
+		{
+			"source": "22earth",
+			"target": "binotaliu",
+			"weight": 1
+		},
+		{
+			"source": "mycspring",
+			"target": "sfordj",
+			"weight": 4
+		},
+		{
+			"source": "mycspring",
+			"target": "yexiaorain",
+			"weight": 5
+		},
+		{
+			"source": "gaocegege",
+			"target": "mycspring",
+			"weight": 1
+		},
+		{
+			"source": "hczhcz",
+			"target": "mycspring",
+			"weight": 2
+		},
+		{
+			"source": "ioriiod0",
+			"target": "longluo",
+			"weight": 1
+		},
+		{
+			"source": "ioriiod0",
+			"target": "kingydw",
+			"weight": 3
+		},
+		{
+			"source": "ioriiod0",
+			"target": "mount-fish",
+			"weight": 1
+		},
+		{
+			"source": "ioriiod0",
+			"target": "notishell",
+			"weight": 1
+		},
+		{
+			"source": "ioriiod0",
+			"target": "qiaohang",
+			"weight": 1
+		},
+		{
+			"source": "ioriiod0",
+			"target": "ralphjzhang",
+			"weight": 1
+		},
+		{
+			"source": "ioriiod0",
+			"target": "tencrance",
+			"weight": 1
+		},
+		{
+			"source": "ioriiod0",
+			"target": "wuborush",
+			"weight": 3
+		},
+		{
+			"source": "ioriiod0",
+			"target": "wukamm",
+			"weight": 2
+		},
+		{
+			"source": "ioriiod0",
+			"target": "zapline",
+			"weight": 1
+		},
+		{
+			"source": "ioriiod0",
+			"target": "zhouzhenghui",
+			"weight": 1
+		},
+		{
+			"source": "alonegu",
+			"target": "ioriiod0",
+			"weight": 1
+		},
+		{
+			"source": "caohongtao",
+			"target": "ioriiod0",
+			"weight": 2
+		},
+		{
+			"source": "haiyupeter",
+			"target": "ioriiod0",
+			"weight": 2
+		},
+		{
+			"source": "hehead",
+			"target": "ioriiod0",
+			"weight": 1
+		},
+		{
+			"source": "iobee",
+			"target": "ioriiod0",
+			"weight": 1
+		},
+		{
+			"source": "adodo1",
+			"target": "cnbeining",
+			"weight": 1
+		},
+		{
+			"source": "dozer47528",
+			"target": "gaocegege",
+			"weight": 1
+		},
+		{
+			"source": "ctiao",
+			"target": "fanhongwei",
+			"weight": 1
+		},
+		{
+			"source": "ctiao",
+			"target": "foxbai",
+			"weight": 1
+		},
+		{
+			"source": "ctiao",
+			"target": "gdier",
+			"weight": 1
+		},
+		{
+			"source": "ctiao",
+			"target": "jovisayhehe",
+			"weight": 1
+		},
+		{
+			"source": "ctiao",
+			"target": "jununfly",
+			"weight": 1
+		},
+		{
+			"source": "ctiao",
+			"target": "tewilove",
+			"weight": 1
+		},
+		{
+			"source": "ctiao",
+			"target": "zccicy",
+			"weight": 1
+		},
+		{
+			"source": "cropzhuang",
+			"target": "ctiao",
+			"weight": 1
+		},
+		{
+			"source": "faceair",
+			"target": "infinnie",
+			"weight": 2
+		},
+		{
+			"source": "faceair",
+			"target": "lixiaoyan",
+			"weight": 3
+		},
+		{
+			"source": "faceair",
+			"target": "lujiajing1126",
+			"weight": 1
+		},
+		{
+			"source": "faceair",
+			"target": "madimo",
+			"weight": 1
+		},
+		{
+			"source": "faceair",
+			"target": "pranavlathigara",
+			"weight": 1
+		},
+		{
+			"source": "faceair",
+			"target": "quietshu",
+			"weight": 1
+		},
+		{
+			"source": "faceair",
+			"target": "starriv",
+			"weight": 3
+		},
+		{
+			"source": "ma233",
+			"target": "yetone",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "ma233",
+			"weight": 1
+		},
+		{
+			"source": "lastmayday",
+			"target": "ma233",
+			"weight": 2
+		},
+		{
+			"source": "afushuo",
+			"target": "cnbeining",
+			"weight": 1
+		},
+		{
+			"source": "i25ffz",
+			"target": "yuro",
+			"weight": 1
+		},
+		{
+			"source": "haoqixu",
+			"target": "mtunique",
+			"weight": 8
+		},
+		{
+			"source": "haoqixu",
+			"target": "weathfold",
+			"weight": 2
+		},
+		{
+			"source": "dyinnz",
+			"target": "haoqixu",
+			"weight": 8
+		},
+		{
+			"source": "blackgear",
+			"target": "msxcms",
+			"weight": 2
+		},
+		{
+			"source": "cee",
+			"target": "msxcms",
+			"weight": 1
+		},
+		{
+			"source": "futursolo",
+			"target": "msxcms",
+			"weight": 1
+		},
+		{
+			"source": "littledream",
+			"target": "littlekey",
+			"weight": 1
+		},
+		{
+			"source": "hczhcz",
+			"target": "liwenhaosuper",
+			"weight": 1
+		},
+		{
+			"source": "mjc0608",
+			"target": "pandada8",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "mjc0608",
+			"weight": 1
+		},
+		{
+			"source": "foresea",
+			"target": "quietshu",
+			"weight": 1
+		},
+		{
+			"source": "dweinstein",
+			"target": "nullsh0ck",
+			"weight": 1
+		},
+		{
+			"source": "antimoron",
+			"target": "frimin",
+			"weight": 1
+		},
+		{
+			"source": "antimoron",
+			"target": "jacktony",
+			"weight": 1
+		},
+		{
+			"source": "antimoron",
+			"target": "jasonslyvia",
+			"weight": 1
+		},
+		{
+			"source": "antimoron",
+			"target": "liuxuan30",
+			"weight": 1
+		},
+		{
+			"source": "antimoron",
+			"target": "pwq1989",
+			"weight": 2
+		},
+		{
+			"source": "antimoron",
+			"target": "qaqmiao",
+			"weight": 1
+		},
+		{
+			"source": "antimoron",
+			"target": "quant67",
+			"weight": 1
+		},
+		{
+			"source": "antimoron",
+			"target": "zapline",
+			"weight": 1
+		},
+		{
+			"source": "anehta",
+			"target": "antimoron",
+			"weight": 1
+		},
+		{
+			"source": "azard",
+			"target": "gaocegege",
+			"weight": 1
+		},
+		{
+			"source": "azard",
+			"target": "hczhcz",
+			"weight": 2
+		},
+		{
+			"source": "azard",
+			"target": "herlincoder",
+			"weight": 3
+		},
+		{
+			"source": "azard",
+			"target": "larryxiao",
+			"weight": 2
+		},
+		{
+			"source": "azard",
+			"target": "monkeyhou",
+			"weight": 2
+		},
+		{
+			"source": "azard",
+			"target": "silencious",
+			"weight": 4
+		},
+		{
+			"source": "azard",
+			"target": "zackszhu",
+			"weight": 4
+		},
+		{
+			"source": "azard",
+			"target": "zry656565",
+			"weight": 3
+		},
+		{
+			"source": "gssxgss",
+			"target": "scarletsky",
+			"weight": 1
+		},
+		{
+			"source": "cryrivers",
+			"target": "thecjw",
+			"weight": 1
+		},
+		{
+			"source": "galaris",
+			"target": "nwmonster",
+			"weight": 1
+		},
+		{
+			"source": "galaris",
+			"target": "sigma-random",
+			"weight": 1
+		},
+		{
+			"source": "y6yuan",
+			"target": "yifanjiang",
+			"weight": 3
+		},
+		{
+			"source": "y6yuan",
+			"target": "zxdvd",
+			"weight": 3
+		},
+		{
+			"source": "wnereiz",
+			"target": "y6yuan",
+			"weight": 3
+		},
+		{
+			"source": "cdroad",
+			"target": "cnbeining",
+			"weight": 1
+		},
+		{
+			"source": "cdroad",
+			"target": "hamzaelgarrab",
+			"weight": 3
+		},
+		{
+			"source": "cdroad",
+			"target": "milanaryal",
+			"weight": 1
+		},
+		{
+			"source": "cdroad",
+			"target": "netsuileo",
+			"weight": 1
+		},
+		{
+			"source": "cdroad",
+			"target": "popsiclesarecool",
+			"weight": 1
+		},
+		{
+			"source": "cdroad",
+			"target": "sergiochan",
+			"weight": 2
+		},
+		{
+			"source": "starlightme",
+			"target": "stonemoe",
+			"weight": 1
+		},
+		{
+			"source": "starlightme",
+			"target": "wicastchen",
+			"weight": 1
+		},
+		{
+			"source": "ethe",
+			"target": "starlightme",
+			"weight": 1
+		},
+		{
+			"source": "futursolo",
+			"target": "starlightme",
+			"weight": 1
+		},
+		{
+			"source": "messyidea",
+			"target": "starlightme",
+			"weight": 1
+		},
+		{
+			"source": "llluiop",
+			"target": "quietcoolwu",
+			"weight": 1
+		},
+		{
+			"source": "llluiop",
+			"target": "txmszlou",
+			"weight": 1
+		},
+		{
+			"source": "llluiop",
+			"target": "wjcsharp",
+			"weight": 1
+		},
+		{
+			"source": "hacklinshell",
+			"target": "tonnie17",
+			"weight": 2
+		},
+		{
+			"source": "fhoshino",
+			"target": "olingcat",
+			"weight": 2
+		},
+		{
+			"source": "fhoshino",
+			"target": "ykelvis",
+			"weight": 4
+		},
+		{
+			"source": "cee",
+			"target": "fhoshino",
+			"weight": 1
+		},
+		{
+			"source": "chengyuhui",
+			"target": "fhoshino",
+			"weight": 5
+		},
+		{
+			"source": "kirisetsz",
+			"target": "lordfriend",
+			"weight": 3
+		},
+		{
+			"source": "kirisetsz",
+			"target": "optimuske",
+			"weight": 2
+		},
+		{
+			"source": "kirisetsz",
+			"target": "shadowglen",
+			"weight": 2
+		},
+		{
+			"source": "kirisetsz",
+			"target": "yukixz",
+			"weight": 2
+		},
+		{
+			"source": "astroprofundis",
+			"target": "kirisetsz",
+			"weight": 2
+		},
+		{
+			"source": "beta",
+			"target": "kirisetsz",
+			"weight": 3
+		},
+		{
+			"source": "cee",
+			"target": "kirisetsz",
+			"weight": 1
+		},
+		{
+			"source": "chengyuhui",
+			"target": "kirisetsz",
+			"weight": 4
+		},
+		{
+			"source": "miaoxw",
+			"target": "xwang1024",
+			"weight": 2
+		},
+		{
+			"source": "albuszheng",
+			"target": "miaoxw",
+			"weight": 2
+		},
+		{
+			"source": "cee",
+			"target": "miaoxw",
+			"weight": 1
+		},
+		{
+			"source": "dweinstein",
+			"target": "jehoffmann",
+			"weight": 1
+		},
+		{
+			"source": "minilight",
+			"target": "spacemeowx2",
+			"weight": 1
+		},
+		{
+			"source": "jqs7",
+			"target": "wfjsw",
+			"weight": 2
+		},
+		{
+			"source": "frantic1048",
+			"target": "jqs7",
+			"weight": 3
+		},
+		{
+			"source": "jokerqyou",
+			"target": "jqs7",
+			"weight": 3
+		},
+		{
+			"source": "jeticg",
+			"target": "rapidhere",
+			"weight": 2
+		},
+		{
+			"source": "jeticg",
+			"target": "yexiaorain",
+			"weight": 2
+		},
+		{
+			"source": "summerwish",
+			"target": "sxkdz",
+			"weight": 1
+		},
+		{
+			"source": "summerwish",
+			"target": "twd2",
+			"weight": 3
+		},
+		{
+			"source": "summerwish",
+			"target": "wishsummer",
+			"weight": 1
+		},
+		{
+			"source": "44670",
+			"target": "summerwish",
+			"weight": 1
+		},
+		{
+			"source": "bruce55",
+			"target": "summerwish",
+			"weight": 1
+		},
+		{
+			"source": "foreverbell",
+			"target": "summerwish",
+			"weight": 3
+		},
+		{
+			"source": "ihsoh",
+			"target": "summerwish",
+			"weight": 1
+		},
+		{
+			"source": "lukexuan",
+			"target": "summerwish",
+			"weight": 1
+		},
+		{
+			"source": "shiehshieh",
+			"target": "summerwish",
+			"weight": 1
+		},
+		{
+			"source": "colin1124x",
+			"target": "syhlion",
+			"weight": 3
+		},
+		{
+			"source": "cswleocsw",
+			"target": "syhlion",
+			"weight": 3
+		},
+		{
+			"source": "lixiaoyan",
+			"target": "slapaper",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "gclsoft",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "geeeeeeeeek",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "gzc",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "happyjimmy1993",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "herlincoder",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "ifighting",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "indeedplusplus",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "initbar",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "irmowan",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "jasonleaster",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "lemonchar",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "limitw",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "linus-young",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "lucklove",
+			"weight": 2
+		},
+		{
+			"source": "gaocegege",
+			"target": "menooker",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "monkeyhou",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "notebookie",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "pirlck",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "pwwpche",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "pwwpcheng",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "quietcoolwu",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "rccoder",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "rokiyer",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "sasako",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "sfordj",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "sherlockkenan",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "silencious",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "siviltaram",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "stone-sjh",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "tcbbd",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "wangranche",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "water-drop",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "weehowe-z",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "wyfsjtu",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "xiangtianyu",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "xuziyan001",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "yetone",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "yexiaorain",
+			"weight": 1
+		},
+		{
+			"source": "gaocegege",
+			"target": "zackszhu",
+			"weight": 1
+		},
+		{
+			"source": "aicitel",
+			"target": "gaocegege",
+			"weight": 1
+		},
+		{
+			"source": "allenshieh",
+			"target": "gaocegege",
+			"weight": 1
+		},
+		{
+			"source": "arrowrowe",
+			"target": "gaocegege",
+			"weight": 1
+		},
+		{
+			"source": "at15",
+			"target": "gaocegege",
+			"weight": 1
+		},
+		{
+			"source": "babysbreathjj",
+			"target": "gaocegege",
+			"weight": 1
+		},
+		{
+			"source": "billhhh",
+			"target": "gaocegege",
+			"weight": 2
+		},
+		{
+			"source": "brotherjing",
+			"target": "gaocegege",
+			"weight": 1
+		},
+		{
+			"source": "codeworm96",
+			"target": "gaocegege",
+			"weight": 1
+		},
+		{
+			"source": "commouse",
+			"target": "gaocegege",
+			"weight": 1
+		},
+		{
+			"source": "darkness-y",
+			"target": "gaocegege",
+			"weight": 1
+		},
+		{
+			"source": "kunr",
+			"target": "misaka030",
+			"weight": 1
+		},
+		{
+			"source": "moontide",
+			"target": "quininer",
+			"weight": 4
+		},
+		{
+			"source": "moontide",
+			"target": "stevearzh",
+			"weight": 5
+		},
+		{
+			"source": "moontide",
+			"target": "zsrkmyn",
+			"weight": 5
+		},
+		{
+			"source": "condy0919",
+			"target": "moontide",
+			"weight": 5
+		},
+		{
+			"source": "dantmnf",
+			"target": "moontide",
+			"weight": 5
+		},
+		{
+			"source": "pranavlathigara",
+			"target": "soulkun",
+			"weight": 1
+		},
+		{
+			"source": "indeedplusplus",
+			"target": "jackyyf",
+			"weight": 3
+		},
+		{
+			"source": "indeedplusplus",
+			"target": "larryxiao",
+			"weight": 1
+		},
+		{
+			"source": "indeedplusplus",
+			"target": "pa001024",
+			"weight": 1
+		},
+		{
+			"source": "indeedplusplus",
+			"target": "quietshu",
+			"weight": 1
+		},
+		{
+			"source": "indeedplusplus",
+			"target": "voidrank",
+			"weight": 4
+		},
+		{
+			"source": "definiter",
+			"target": "indeedplusplus",
+			"weight": 2
+		},
+		{
+			"source": "dnc1994",
+			"target": "indeedplusplus",
+			"weight": 4
+		},
+		{
+			"source": "dsh0416",
+			"target": "indeedplusplus",
+			"weight": 1
+		},
+		{
+			"source": "endle",
+			"target": "indeedplusplus",
+			"weight": 3
+		},
+		{
+			"source": "illusate",
+			"target": "indeedplusplus",
+			"weight": 2
+		},
+		{
+			"source": "sxkdz",
+			"target": "twd2",
+			"weight": 3
+		},
+		{
+			"source": "66ccff",
+			"target": "sxkdz",
+			"weight": 2
+		},
+		{
+			"source": "910jqk",
+			"target": "netarmy",
+			"weight": 4
+		},
+		{
+			"source": "icenowy",
+			"target": "netarmy",
+			"weight": 2
+		},
+		{
+			"source": "mingcongbai",
+			"target": "netarmy",
+			"weight": 3
+		},
+		{
+			"source": "grzhan",
+			"target": "shunix",
+			"weight": 7
+		},
+		{
+			"source": "lukexuan",
+			"target": "shunix",
+			"weight": 1
+		},
+		{
+			"source": "dweinstein",
+			"target": "nolenfelten",
+			"weight": 1
+		},
+		{
+			"source": "lixiaoyan",
+			"target": "starriv",
+			"weight": 3
+		},
+		{
+			"source": "arrowrowe",
+			"target": "chicolee1",
+			"weight": 2
+		},
+		{
+			"source": "at15",
+			"target": "chicolee1",
+			"weight": 2
+		},
+		{
+			"source": "sorz",
+			"target": "upsuper",
+			"weight": 1
+		},
+		{
+			"source": "aixile",
+			"target": "sorz",
+			"weight": 1
+		},
+		{
+			"source": "ceclinux",
+			"target": "sorz",
+			"weight": 1
+		},
+		{
+			"source": "chenchun",
+			"target": "wssccc",
+			"weight": 1
+		},
+		{
+			"source": "dicato",
+			"target": "dweinstein",
+			"weight": 1
+		},
+		{
+			"source": "dweinstein",
+			"target": "oguzhantopgul",
+			"weight": 1
+		},
+		{
+			"source": "lordfriend",
+			"target": "qixingchen",
+			"weight": 2
+		},
+		{
+			"source": "lordfriend",
+			"target": "wontoncc",
+			"weight": 3
+		},
+		{
+			"source": "cee",
+			"target": "lordfriend",
+			"weight": 1
+		},
+		{
+			"source": "kasuganosora",
+			"target": "lordfriend",
+			"weight": 4
+		},
+		{
+			"source": "dweinstein",
+			"target": "thed00d",
+			"weight": 1
+		},
+		{
+			"source": "dilutedream",
+			"target": "hczhcz",
+			"weight": 1
+		},
+		{
+			"source": "binjo",
+			"target": "secmobi",
+			"weight": 1
+		},
+		{
+			"source": "mssun",
+			"target": "secmobi",
+			"weight": 1
+		},
+		{
+			"source": "jokerqyou",
+			"target": "quininer",
+			"weight": 3
+		},
+		{
+			"source": "jokerqyou",
+			"target": "wfjsw",
+			"weight": 3
+		},
+		{
+			"source": "frantic1048",
+			"target": "jokerqyou",
+			"weight": 2
+		},
+		{
+			"source": "quant67",
+			"target": "razrlele",
+			"weight": 1
+		},
+		{
+			"source": "minejo",
+			"target": "winterxmq",
+			"weight": 2
+		},
+		{
+			"source": "szszss",
+			"target": "winterxmq",
+			"weight": 1
+		},
+		{
+			"source": "cthbleachbit",
+			"target": "icenowy",
+			"weight": 1
+		},
+		{
+			"source": "cthbleachbit",
+			"target": "jcpwfloi",
+			"weight": 1
+		},
+		{
+			"source": "cthbleachbit",
+			"target": "mingcongbai",
+			"weight": 1
+		},
+		{
+			"source": "hneohis",
+			"target": "meimisaki",
+			"weight": 1
+		},
+		{
+			"source": "thecjw",
+			"target": "trojancyborg",
+			"weight": 1
+		},
+		{
+			"source": "thecjw",
+			"target": "yuxiangq",
+			"weight": 1
+		},
+		{
+			"source": "thecjw",
+			"target": "zer0mem",
+			"weight": 1
+		},
+		{
+			"source": "44670",
+			"target": "thecjw",
+			"weight": 2
+		},
+		{
+			"source": "binjo",
+			"target": "thecjw",
+			"weight": 1
+		},
+		{
+			"source": "eahydra",
+			"target": "thecjw",
+			"weight": 1
+		},
+		{
+			"source": "kevinchengshellcode",
+			"target": "thecjw",
+			"weight": 1
+		},
+		{
+			"source": "nwmonster",
+			"target": "thecjw",
+			"weight": 1
+		},
+		{
+			"source": "paintdream",
+			"target": "thecjw",
+			"weight": 1
+		},
+		{
+			"source": "chopinwong01",
+			"target": "functionghw",
+			"weight": 2
+		},
+		{
+			"source": "irmowan",
+			"target": "isawdx",
+			"weight": 4
+		},
+		{
+			"source": "irmowan",
+			"target": "linchuming",
+			"weight": 3
+		},
+		{
+			"source": "irmowan",
+			"target": "orthocenter",
+			"weight": 11
+		},
+		{
+			"source": "irmowan",
+			"target": "perseawe",
+			"weight": 5
+		},
+		{
+			"source": "irmowan",
+			"target": "quietshu",
+			"weight": 2
+		},
+		{
+			"source": "irmowan",
+			"target": "siuto",
+			"weight": 7
+		},
+		{
+			"source": "irmowan",
+			"target": "zxybazh",
+			"weight": 8
+		},
+		{
+			"source": "dnc1994",
+			"target": "irmowan",
+			"weight": 7
+		},
+		{
+			"source": "elnx",
+			"target": "irmowan",
+			"weight": 2
+		},
+		{
+			"source": "erichuang1994",
+			"target": "irmowan",
+			"weight": 5
+		},
+		{
+			"source": "hczhcz",
+			"target": "herlincoder",
+			"weight": 1
+		},
+		{
+			"source": "hczhcz",
+			"target": "jaye14651",
+			"weight": 1
+		},
+		{
+			"source": "hczhcz",
+			"target": "jcpwfloi",
+			"weight": 1
+		},
+		{
+			"source": "hczhcz",
+			"target": "johnnylai",
+			"weight": 1
+		},
+		{
+			"source": "hczhcz",
+			"target": "kdplus",
+			"weight": 3
+		},
+		{
+			"source": "hczhcz",
+			"target": "larryxiao",
+			"weight": 1
+		},
+		{
+			"source": "hczhcz",
+			"target": "linmx0130",
+			"weight": 1
+		},
+		{
+			"source": "hczhcz",
+			"target": "longcmu",
+			"weight": 1
+		},
+		{
+			"source": "hczhcz",
+			"target": "mondaylei",
+			"weight": 1
+		},
+		{
+			"source": "hczhcz",
+			"target": "mrmiywj",
+			"weight": 4
+		},
+		{
+			"source": "hczhcz",
+			"target": "ncnxj5",
+			"weight": 1
+		},
+		{
+			"source": "hczhcz",
+			"target": "notebookie",
+			"weight": 1
+		},
+		{
+			"source": "hczhcz",
+			"target": "quietshu",
+			"weight": 1
+		},
+		{
+			"source": "hczhcz",
+			"target": "rapidhere",
+			"weight": 1
+		},
+		{
+			"source": "hczhcz",
+			"target": "sfordj",
+			"weight": 2
+		},
+		{
+			"source": "hczhcz",
+			"target": "shoshindes",
+			"weight": 1
+		},
+		{
+			"source": "hczhcz",
+			"target": "silencious",
+			"weight": 1
+		},
+		{
+			"source": "hczhcz",
+			"target": "stone-sjh",
+			"weight": 1
+		},
+		{
+			"source": "hczhcz",
+			"target": "xm45",
+			"weight": 1
+		},
+		{
+			"source": "hczhcz",
+			"target": "yexiaorain",
+			"weight": 3
+		},
+		{
+			"source": "hczhcz",
+			"target": "yinyanfr",
+			"weight": 1
+		},
+		{
+			"source": "hczhcz",
+			"target": "zackszhu",
+			"weight": 2
+		},
+		{
+			"source": "hczhcz",
+			"target": "zry656565",
+			"weight": 1
+		},
+		{
+			"source": "allenshieh",
+			"target": "hczhcz",
+			"weight": 3
+		},
+		{
+			"source": "arrowrowe",
+			"target": "hczhcz",
+			"weight": 2
+		},
+		{
+			"source": "at15",
+			"target": "hczhcz",
+			"weight": 1
+		},
+		{
+			"source": "atupal",
+			"target": "hczhcz",
+			"weight": 2
+		},
+		{
+			"source": "codeworm96",
+			"target": "hczhcz",
+			"weight": 1
+		},
+		{
+			"source": "dsh0416",
+			"target": "hczhcz",
+			"weight": 1
+		},
+		{
+			"source": "erichuang1994",
+			"target": "hczhcz",
+			"weight": 1
+		},
+		{
+			"source": "gblym",
+			"target": "hczhcz",
+			"weight": 1
+		},
+		{
+			"source": "gzc",
+			"target": "hczhcz",
+			"weight": 1
+		},
+		{
+			"source": "haio",
+			"target": "hczhcz",
+			"weight": 1
+		},
+		{
+			"source": "maxtan",
+			"target": "zapline",
+			"weight": 1
+		},
+		{
+			"source": "breezen",
+			"target": "dnc1994",
+			"weight": 2
+		},
+		{
+			"source": "breezen",
+			"target": "illusate",
+			"weight": 2
+		},
+		{
+			"source": "breezen",
+			"target": "quietshu",
+			"weight": 1
+		},
+		{
+			"source": "aixile",
+			"target": "breezen",
+			"weight": 3
+		},
+		{
+			"source": "karminski",
+			"target": "mike2718",
+			"weight": 2
+		},
+		{
+			"source": "karminski",
+			"target": "scarletsky",
+			"weight": 2
+		},
+		{
+			"source": "karminski",
+			"target": "wutou",
+			"weight": 4
+		},
+		{
+			"source": "gateswong",
+			"target": "karminski",
+			"weight": 4
+		},
+		{
+			"source": "killvxk",
+			"target": "quietcoolwu",
+			"weight": 1
+		},
+		{
+			"source": "popsiclesarecool",
+			"target": "quietcoolwu",
+			"weight": 1
+		},
+		{
+			"source": "kevin2600",
+			"target": "nwmonster",
+			"weight": 2
+		},
+		{
+			"source": "kevin2600",
+			"target": "ourren",
+			"weight": 1
+		},
+		{
+			"source": "kevin2600",
+			"target": "scateu",
+			"weight": 1
+		},
+		{
+			"source": "futursolo",
+			"target": "messyidea",
+			"weight": 3
+		},
+		{
+			"source": "quininer",
+			"target": "stevearzh",
+			"weight": 12
+		},
+		{
+			"source": "quininer",
+			"target": "wfjsw",
+			"weight": 3
+		},
+		{
+			"source": "quininer",
+			"target": "wicastchen",
+			"weight": 2
+		},
+		{
+			"source": "quininer",
+			"target": "zsrkmyn",
+			"weight": 8
+		},
+		{
+			"source": "quininer",
+			"target": "zwindl",
+			"weight": 2
+		},
+		{
+			"source": "condy0919",
+			"target": "quininer",
+			"weight": 10
+		},
+		{
+			"source": "cuihaoleo",
+			"target": "quininer",
+			"weight": 11
+		},
+		{
+			"source": "dantmnf",
+			"target": "quininer",
+			"weight": 8
+		},
+		{
+			"source": "felixonmars",
+			"target": "quininer",
+			"weight": 1
+		},
+		{
+			"source": "frantic1048",
+			"target": "quininer",
+			"weight": 6
+		},
+		{
+			"source": "fxuz",
+			"target": "quininer",
+			"weight": 4
+		},
+		{
+			"source": "lqymgt",
+			"target": "quininer",
+			"weight": 8
+		},
+		{
+			"source": "notebookie",
+			"target": "quininer",
+			"weight": 1
+		},
+		{
+			"source": "pandada8",
+			"target": "quininer",
+			"weight": 2
+		},
+		{
+			"source": "cswleocsw",
+			"target": "fraina",
+			"weight": 2
+		},
+		{
+			"source": "colin1124x",
+			"target": "cswleocsw",
+			"weight": 4
+		},
+		{
+			"source": "dingjibang",
+			"target": "wdxzs1985",
+			"weight": 1
+		},
+		{
+			"source": "fxzjshm",
+			"target": "szszss",
+			"weight": 1
+		},
+		{
+			"source": "entersteve",
+			"target": "fxzjshm",
+			"weight": 1
+		},
+		{
+			"source": "bxshi",
+			"target": "cnbeining",
+			"weight": 1
+		},
+		{
+			"source": "bxshi",
+			"target": "oakvale",
+			"weight": 1
+		},
+		{
+			"source": "bxshi",
+			"target": "wangyafei3",
+			"weight": 2
+		},
+		{
+			"source": "bxshi",
+			"target": "xzq2002",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "razrlele",
+			"weight": 1
+		},
+		{
+			"source": "fffonion",
+			"target": "xmxjq",
+			"weight": 1
+		},
+		{
+			"source": "futursolo",
+			"target": "gateswong",
+			"weight": 1
+		},
+		{
+			"source": "futursolo",
+			"target": "gynix",
+			"weight": 1
+		},
+		{
+			"source": "futursolo",
+			"target": "ilovedesert001",
+			"weight": 2
+		},
+		{
+			"source": "futursolo",
+			"target": "kochiya-sanae",
+			"weight": 1
+		},
+		{
+			"source": "futursolo",
+			"target": "miyakawa-hikage",
+			"weight": 1
+		},
+		{
+			"source": "futursolo",
+			"target": "miyamuramiyako",
+			"weight": 2
+		},
+		{
+			"source": "futursolo",
+			"target": "septs",
+			"weight": 1
+		},
+		{
+			"source": "futursolo",
+			"target": "solarhell",
+			"weight": 1
+		},
+		{
+			"source": "futursolo",
+			"target": "xdtianyu",
+			"weight": 1
+		},
+		{
+			"source": "351768593",
+			"target": "futursolo",
+			"weight": 1
+		},
+		{
+			"source": "asuna",
+			"target": "futursolo",
+			"weight": 2
+		},
+		{
+			"source": "cnbeining",
+			"target": "futursolo",
+			"weight": 1
+		},
+		{
+			"source": "fatetestarossa",
+			"target": "futursolo",
+			"weight": 1
+		},
+		{
+			"source": "littlekey",
+			"target": "malusama",
+			"weight": 1
+		},
+		{
+			"source": "jackyzy823",
+			"target": "syntuner",
+			"weight": 1
+		},
+		{
+			"source": "kagami-c",
+			"target": "syntuner",
+			"weight": 1
+		},
+		{
+			"source": "pinkwayne",
+			"target": "syntuner",
+			"weight": 2
+		},
+		{
+			"source": "billgateshxk",
+			"target": "el-hoshino",
+			"weight": 1
+		},
+		{
+			"source": "billgateshxk",
+			"target": "mike2718",
+			"weight": 1
+		},
+		{
+			"source": "aquarhead",
+			"target": "billgateshxk",
+			"weight": 1
+		},
+		{
+			"source": "hitomi",
+			"target": "kunr",
+			"weight": 3
+		},
+		{
+			"source": "hitomi",
+			"target": "orzfly",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "hitomi",
+			"weight": 1
+		},
+		{
+			"source": "dweinstein",
+			"target": "vf-ukumar",
+			"weight": 1
+		},
+		{
+			"source": "quietshu",
+			"target": "sapjax",
+			"weight": 1
+		},
+		{
+			"source": "mike2718",
+			"target": "wicastchen",
+			"weight": 1
+		},
+		{
+			"source": "mike2718",
+			"target": "wutou",
+			"weight": 1
+		},
+		{
+			"source": "mike2718",
+			"target": "wxt2005",
+			"weight": 1
+		},
+		{
+			"source": "astroprofundis",
+			"target": "mike2718",
+			"weight": 1
+		},
+		{
+			"source": "asuna",
+			"target": "mike2718",
+			"weight": 1
+		},
+		{
+			"source": "chengyuhui",
+			"target": "mike2718",
+			"weight": 2
+		},
+		{
+			"source": "himemeizhi",
+			"target": "mike2718",
+			"weight": 1
+		},
+		{
+			"source": "oubeichen",
+			"target": "slfmessi",
+			"weight": 1
+		},
+		{
+			"source": "bincker",
+			"target": "bludge0n",
+			"weight": 1
+		},
+		{
+			"source": "garzon",
+			"target": "gugugupan",
+			"weight": 2
+		},
+		{
+			"source": "garzon",
+			"target": "kaiqiangsong",
+			"weight": 1
+		},
+		{
+			"source": "garzon",
+			"target": "liyingwei",
+			"weight": 1
+		},
+		{
+			"source": "garzon",
+			"target": "orthocenter",
+			"weight": 4
+		},
+		{
+			"source": "garzon",
+			"target": "tenstep",
+			"weight": 3
+		},
+		{
+			"source": "garzon",
+			"target": "zhouxinan",
+			"weight": 4
+		},
+		{
+			"source": "edwardchor",
+			"target": "garzon",
+			"weight": 3
+		},
+		{
+			"source": "elnx",
+			"target": "garzon",
+			"weight": 2
+		},
+		{
+			"source": "meimisaki",
+			"target": "nitrop",
+			"weight": 1
+		},
+		{
+			"source": "billhhh",
+			"target": "popsiclesarecool",
+			"weight": 1
+		},
+		{
+			"source": "jasonzhong",
+			"target": "whuthj",
+			"weight": 1
+		},
+		{
+			"source": "cnbeining",
+			"target": "oubeichen",
+			"weight": 1
+		},
+		{
+			"source": "itanch",
+			"target": "oubeichen",
+			"weight": 2
+		},
+		{
+			"source": "nxf17",
+			"target": "oubeichen",
+			"weight": 2
+		},
+		{
+			"source": "cmpxchg8",
+			"target": "mariovilas",
+			"weight": 1
+		},
+		{
+			"source": "cmpxchg8",
+			"target": "pyq881120",
+			"weight": 2
+		},
+		{
+			"source": "cmpxchg8",
+			"target": "simpsonpt",
+			"weight": 1
+		},
+		{
+			"source": "cmpxchg8",
+			"target": "wjcsharp",
+			"weight": 1
+		},
+		{
+			"source": "ruthy0930",
+			"target": "swaylq",
+			"weight": 1
+		},
+		{
+			"source": "infinnie",
+			"target": "laosb",
+			"weight": 2
+		},
+		{
+			"source": "infinnie",
+			"target": "lixiaoyan",
+			"weight": 4
+		},
+		{
+			"source": "infinnie",
+			"target": "orzfly",
+			"weight": 1
+		},
+		{
+			"source": "chengyuhui",
+			"target": "infinnie",
+			"weight": 1
+		},
+		{
+			"source": "bbcallen",
+			"target": "kwenpong",
+			"weight": 1
+		},
+		{
+			"source": "jovisayhehe",
+			"target": "kwenpong",
+			"weight": 2
+		},
+		{
+			"source": "nicball",
+			"target": "rivsen",
+			"weight": 1
+		},
+		{
+			"source": "dantmnf",
+			"target": "nicball",
+			"weight": 3
+		},
+		{
+			"source": "mingcongbai",
+			"target": "nicball",
+			"weight": 2
+		},
+		{
+			"source": "q513902026",
+			"target": "szszss",
+			"weight": 1
+		},
+		{
+			"source": "q513902026",
+			"target": "tsfreddie",
+			"weight": 1
+		},
+		{
+			"source": "istobran",
+			"target": "q513902026",
+			"weight": 1
+		},
+		{
+			"source": "kskun",
+			"target": "q513902026",
+			"weight": 1
+		},
+		{
+			"source": "darkyoooooo",
+			"target": "dorajdj",
+			"weight": 2
+		},
+		{
+			"source": "darkyoooooo",
+			"target": "manageryzy",
+			"weight": 4
+		},
+		{
+			"source": "darkyoooooo",
+			"target": "riontenwait",
+			"weight": 1
+		},
+		{
+			"source": "darkyoooooo",
+			"target": "szszss",
+			"weight": 4
+		},
+		{
+			"source": "darkyoooooo",
+			"target": "zhouyiran2",
+			"weight": 3
+		},
+		{
+			"source": "brainbush",
+			"target": "darkyoooooo",
+			"weight": 4
+		},
+		{
+			"source": "ci010",
+			"target": "darkyoooooo",
+			"weight": 1
+		},
+		{
+			"source": "hehead",
+			"target": "mynameisny",
+			"weight": 1
+		},
+		{
+			"source": "determinant",
+			"target": "hehead",
+			"weight": 1
+		},
+		{
+			"source": "fanhongwei",
+			"target": "hehead",
+			"weight": 1
+		},
+		{
+			"source": "gnaggnoyil",
+			"target": "hehead",
+			"weight": 1
+		},
+		{
+			"source": "arr2036",
+			"target": "linnaea",
+			"weight": 1
+		},
+		{
+			"source": "cnbeining",
+			"target": "linnaea",
+			"weight": 1
+		},
+		{
+			"source": "0xr0ot",
+			"target": "bincker",
+			"weight": 1
+		},
+		{
+			"source": "0xr0ot",
+			"target": "blkstone",
+			"weight": 1
+		},
+		{
+			"source": "sunzhongwei",
+			"target": "terry-mao",
+			"weight": 1
+		},
+		{
+			"source": "bbcallen",
+			"target": "sunzhongwei",
+			"weight": 1
+		},
+		{
+			"source": "cnbeining",
+			"target": "sanniu",
+			"weight": 1
+		},
+		{
+			"source": "olingcat",
+			"target": "wongsyrone",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "olingcat",
+			"weight": 1
+		},
+		{
+			"source": "chengyuhui",
+			"target": "olingcat",
+			"weight": 3
+		},
+		{
+			"source": "bruce55",
+			"target": "rlwhuang",
+			"weight": 2
+		},
+		{
+			"source": "cofrost",
+			"target": "myly10",
+			"weight": 2
+		},
+		{
+			"source": "cofrost",
+			"target": "rapidhere",
+			"weight": 2
+		},
+		{
+			"source": "chiyahoho",
+			"target": "cofrost",
+			"weight": 2
+		},
+		{
+			"source": "foreverbell",
+			"target": "zrz1996",
+			"weight": 2
+		},
+		{
+			"source": "gdier",
+			"target": "rainbownight",
+			"weight": 2
+		},
+		{
+			"source": "liruqi",
+			"target": "rainbownight",
+			"weight": 1
+		},
+		{
+			"source": "unluckyninja",
+			"target": "wiseclock",
+			"weight": 2
+		},
+		{
+			"source": "jackyyf",
+			"target": "unluckyninja",
+			"weight": 1
+		},
+		{
+			"source": "sunny00123",
+			"target": "unluckyninja",
+			"weight": 3
+		},
+		{
+			"source": "wjcsharp",
+			"target": "xh2006",
+			"weight": 1
+		},
+		{
+			"source": "atrino",
+			"target": "cnbeining",
+			"weight": 1
+		},
+		{
+			"source": "atrino",
+			"target": "jsliang",
+			"weight": 1
+		},
+		{
+			"source": "xqq",
+			"target": "zapline",
+			"weight": 1
+		},
+		{
+			"source": "xqq",
+			"target": "zccicy",
+			"weight": 1
+		},
+		{
+			"source": "44670",
+			"target": "xqq",
+			"weight": 1
+		},
+		{
+			"source": "66ccff",
+			"target": "xqq",
+			"weight": 1
+		},
+		{
+			"source": "arrowrowe",
+			"target": "xqq",
+			"weight": 3
+		},
+		{
+			"source": "bruce55",
+			"target": "xqq",
+			"weight": 2
+		},
+		{
+			"source": "calvinneo",
+			"target": "xqq",
+			"weight": 1
+		},
+		{
+			"source": "cnbeining",
+			"target": "xqq",
+			"weight": 1
+		},
+		{
+			"source": "foreverbell",
+			"target": "xqq",
+			"weight": 4
+		},
+		{
+			"source": "ihsoh",
+			"target": "xqq",
+			"weight": 1
+		},
+		{
+			"source": "jackyyf",
+			"target": "xqq",
+			"weight": 1
+		},
+		{
+			"source": "lixiaoyan",
+			"target": "xqq",
+			"weight": 3
+		},
+		{
+			"source": "lizeqiangd",
+			"target": "xqq",
+			"weight": 1
+		},
+		{
+			"source": "spacemeowx2",
+			"target": "xqq",
+			"weight": 1
+		},
+		{
+			"source": "stonemoe",
+			"target": "xqq",
+			"weight": 2
+		},
+		{
+			"source": "twd2",
+			"target": "xqq",
+			"weight": 2
+		},
+		{
+			"source": "vizee",
+			"target": "xqq",
+			"weight": 2
+		},
+		{
+			"source": "wssccc",
+			"target": "xqq",
+			"weight": 1
+		},
+		{
+			"source": "dweinstein",
+			"target": "rickycodes",
+			"weight": 1
+		},
+		{
+			"source": "sunqinzheng",
+			"target": "zxybazh",
+			"weight": 3
+		},
+		{
+			"source": "dnc1994",
+			"target": "sunqinzheng",
+			"weight": 4
+		},
+		{
+			"source": "orthocenter",
+			"target": "sunqinzheng",
+			"weight": 4
+		},
+		{
+			"source": "perseawe",
+			"target": "sunqinzheng",
+			"weight": 3
+		},
+		{
+			"source": "cnbeining",
+			"target": "sg4dylan",
+			"weight": 1
+		},
+		{
+			"source": "dingjibang",
+			"target": "jsuisen",
+			"weight": 1
+		},
+		{
+			"source": "viennadd",
+			"target": "whitefirer",
+			"weight": 4
+		},
+		{
+			"source": "44670",
+			"target": "viennadd",
+			"weight": 5
+		},
+		{
+			"source": "foreverbell",
+			"target": "viennadd",
+			"weight": 5
+		},
+		{
+			"source": "twd2",
+			"target": "viennadd",
+			"weight": 4
+		},
+		{
+			"source": "bruce55",
+			"target": "lixiaoyan",
+			"weight": 1
+		},
+		{
+			"source": "astroprofundis",
+			"target": "marguerite",
+			"weight": 1
+		},
+		{
+			"source": "dantmnf",
+			"target": "marguerite",
+			"weight": 1
+		},
+		{
+			"source": "dweinstein",
+			"target": "simpsonpt",
+			"weight": 1
+		},
+		{
+			"source": "dewott",
+			"target": "dingjibang",
+			"weight": 1
+		},
+		{
+			"source": "lukexuan",
+			"target": "owen8877",
+			"weight": 1
+		},
+		{
+			"source": "freemanhsu",
+			"target": "rokiyer",
+			"weight": 2
+		},
+		{
+			"source": "wishstudio",
+			"target": "xiw9",
+			"weight": 2
+		},
+		{
+			"source": "wishstudio",
+			"target": "xuelianghan",
+			"weight": 1
+		},
+		{
+			"source": "wishstudio",
+			"target": "zhujiaye",
+			"weight": 1
+		},
+		{
+			"source": "66ccff",
+			"target": "wishstudio",
+			"weight": 1
+		},
+		{
+			"source": "antinomyra",
+			"target": "wishstudio",
+			"weight": 1
+		},
+		{
+			"source": "ecsark",
+			"target": "wishstudio",
+			"weight": 1
+		},
+		{
+			"source": "foreverbell",
+			"target": "wishstudio",
+			"weight": 1
+		},
+		{
+			"source": "gugugupan",
+			"target": "wishstudio",
+			"weight": 1
+		},
+		{
+			"source": "hanjun-dai",
+			"target": "wishstudio",
+			"weight": 1
+		},
+		{
+			"source": "kaiqiangsong",
+			"target": "wishstudio",
+			"weight": 1
+		},
+		{
+			"source": "lazychild",
+			"target": "wishstudio",
+			"weight": 1
+		},
+		{
+			"source": "lsdefine",
+			"target": "wishstudio",
+			"weight": 1
+		},
+		{
+			"source": "lychees",
+			"target": "wishstudio",
+			"weight": 1
+		},
+		{
+			"source": "lynx-cpp",
+			"target": "wishstudio",
+			"weight": 1
+		},
+		{
+			"source": "moinheart",
+			"target": "wishstudio",
+			"weight": 1
+		},
+		{
+			"source": "nrzipher",
+			"target": "wishstudio",
+			"weight": 1
+		},
+		{
+			"source": "raysmond",
+			"target": "wishstudio",
+			"weight": 1
+		},
+		{
+			"source": "renchusong",
+			"target": "wishstudio",
+			"weight": 1
+		},
+		{
+			"source": "cnbeining",
+			"target": "zhangn1985",
+			"weight": 1
+		},
+		{
+			"source": "jasonleaster",
+			"target": "mrmiywj",
+			"weight": 1
+		},
+		{
+			"source": "yzgysjr",
+			"target": "zzy7896321",
+			"weight": 2
+		},
+		{
+			"source": "huangqundl",
+			"target": "mssun",
+			"weight": 1
+		},
+		{
+			"source": "laosb",
+			"target": "lixiaoyan",
+			"weight": 1
+		},
+		{
+			"source": "laosb",
+			"target": "twd2",
+			"weight": 1
+		},
+		{
+			"source": "h1994st",
+			"target": "wangxiaoying",
+			"weight": 4
+		},
+		{
+			"source": "o0lazybear0o",
+			"target": "wangxiaoying",
+			"weight": 6
+		},
+		{
+			"source": "shiehshieh",
+			"target": "wangxiaoying",
+			"weight": 2
+		},
+		{
+			"source": "tjwudi",
+			"target": "wangxiaoying",
+			"weight": 1
+		},
+		{
+			"source": "riontenwait",
+			"target": "tsuteto",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "chengyuhui",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "chilledheart",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "creamidea",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "creatorlanslot",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "giumo",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "guangwong",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "himemeizhi",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "icodesign",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "ikeraiza",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "jingliuvic",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "kunr",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "kxxoling",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "legendtang",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "lichenbo",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "lightory",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "madimo",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "midasfree",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "molinxx",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "mzule",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "nyankosama",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "optimuske",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "popo233",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "qixingchen",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "rwalle",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "s3c0nd",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "samwanng",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "sanddudu",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "scarletsky",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "sharuru",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "silverwei",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "slixurd",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "stuarch",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "tengattack",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "tzzcl",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "viztor",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "whtsky",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "wicastchen",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "xwang1024",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "ykelvis",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "ym",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "yukixz",
+			"weight": 1
+		},
+		{
+			"source": "cee",
+			"target": "zld",
+			"weight": 1
+		},
+		{
+			"source": "66ccff",
+			"target": "cee",
+			"weight": 1
+		},
+		{
+			"source": "albuszheng",
+			"target": "cee",
+			"weight": 1
+		},
+		{
+			"source": "aquarhead",
+			"target": "cee",
+			"weight": 1
+		},
+		{
+			"source": "astroprofundis",
+			"target": "cee",
+			"weight": 2
+		},
+		{
+			"source": "austinchou",
+			"target": "cee",
+			"weight": 1
+		},
+		{
+			"source": "beta",
+			"target": "cee",
+			"weight": 1
+		},
+		{
+			"source": "blackgear",
+			"target": "cee",
+			"weight": 1
+		},
+		{
+			"source": "dnc1994",
+			"target": "dragonly",
+			"weight": 2
+		},
+		{
+			"source": "dnc1994",
+			"target": "endle",
+			"weight": 3
+		},
+		{
+			"source": "dnc1994",
+			"target": "erichuang1994",
+			"weight": 6
+		},
+		{
+			"source": "dnc1994",
+			"target": "foreverbell",
+			"weight": 9
+		},
+		{
+			"source": "dnc1994",
+			"target": "kjkszpj",
+			"weight": 4
+		},
+		{
+			"source": "dnc1994",
+			"target": "liyilonggithub",
+			"weight": 3
+		},
+		{
+			"source": "dnc1994",
+			"target": "lyqspace",
+			"weight": 3
+		},
+		{
+			"source": "dnc1994",
+			"target": "orthocenter",
+			"weight": 14
+		},
+		{
+			"source": "dnc1994",
+			"target": "perseawe",
+			"weight": 10
+		},
+		{
+			"source": "dnc1994",
+			"target": "potaty",
+			"weight": 2
+		},
+		{
+			"source": "dnc1994",
+			"target": "quillblue",
+			"weight": 3
+		},
+		{
+			"source": "dnc1994",
+			"target": "richorw",
+			"weight": 2
+		},
+		{
+			"source": "dnc1994",
+			"target": "siuto",
+			"weight": 6
+		},
+		{
+			"source": "dnc1994",
+			"target": "suhang1994",
+			"weight": 3
+		},
+		{
+			"source": "dnc1994",
+			"target": "tinylic",
+			"weight": 4
+		},
+		{
+			"source": "dnc1994",
+			"target": "voidrank",
+			"weight": 6
+		},
+		{
+			"source": "dnc1994",
+			"target": "wwwwodddd",
+			"weight": 2
+		},
+		{
+			"source": "dnc1994",
+			"target": "wxt2005",
+			"weight": 1
+		},
+		{
+			"source": "dnc1994",
+			"target": "zxybazh",
+			"weight": 9
+		},
+		{
+			"source": "aixile",
+			"target": "dnc1994",
+			"weight": 6
+		},
+		{
+			"source": "ca72",
+			"target": "dnc1994",
+			"weight": 5
+		},
+		{
+			"source": "chiyahoho",
+			"target": "dnc1994",
+			"weight": 1
+		},
+		{
+			"source": "codingyue",
+			"target": "dnc1994",
+			"weight": 1
+		},
+		{
+			"source": "determinant",
+			"target": "dnc1994",
+			"weight": 1
+		},
+		{
+			"source": "pa001024",
+			"target": "sunny00123",
+			"weight": 1
+		},
+		{
+			"source": "mingcongbai",
+			"target": "z-shang",
+			"weight": 1
+		},
+		{
+			"source": "mortal123",
+			"target": "were",
+			"weight": 3
+		},
+		{
+			"source": "mortal123",
+			"target": "yzgysjr",
+			"weight": 2
+		},
+		{
+			"source": "louyiwen",
+			"target": "mortal123",
+			"weight": 3
+		},
+		{
+			"source": "chubbymaggie",
+			"target": "dweinstein",
+			"weight": 1
+		},
+		{
+			"source": "elnx",
+			"target": "foreverbell",
+			"weight": 2
+		},
+		{
+			"source": "elnx",
+			"target": "myly10",
+			"weight": 2
+		},
+		{
+			"source": "elnx",
+			"target": "perseawe",
+			"weight": 3
+		},
+		{
+			"source": "elnx",
+			"target": "zeling",
+			"weight": 1
+		},
+		{
+			"source": "elnx",
+			"target": "zhouxinan",
+			"weight": 3
+		},
+		{
+			"source": "tonghuix",
+			"target": "wnereiz",
+			"weight": 3
+		},
+		{
+			"source": "fallacy321",
+			"target": "tonghuix",
+			"weight": 2
+		},
+		{
+			"source": "liruqi",
+			"target": "tonghuix",
+			"weight": 1
+		},
+		{
+			"source": "kilnyy",
+			"target": "meimisaki",
+			"weight": 3
+		},
+		{
+			"source": "kilnyy",
+			"target": "xukaiqiang",
+			"weight": 3
+		},
+		{
+			"source": "boleynsu",
+			"target": "kilnyy",
+			"weight": 3
+		},
+		{
+			"source": "foreverbell",
+			"target": "tinylic",
+			"weight": 4
+		},
+		{
+			"source": "orthocenter",
+			"target": "tinylic",
+			"weight": 4
+		},
+		{
+			"source": "tenstep",
+			"target": "zxybazh",
+			"weight": 3
+		},
+		{
+			"source": "chiyahoho",
+			"target": "tenstep",
+			"weight": 1
+		},
+		{
+			"source": "orthocenter",
+			"target": "tenstep",
+			"weight": 5
+		},
+		{
+			"source": "perseawe",
+			"target": "tenstep",
+			"weight": 2
+		},
+		{
+			"source": "bmaca-viaforensics",
+			"target": "chrisallenlane",
+			"weight": 1
+		},
+		{
+			"source": "bmaca-viaforensics",
+			"target": "dweinstein",
+			"weight": 1
+		},
+		{
+			"source": "scarletsky",
+			"target": "wutou",
+			"weight": 2
+		},
+		{
+			"source": "astroprofundis",
+			"target": "scarletsky",
+			"weight": 2
+		},
+		{
+			"source": "chengyuhui",
+			"target": "scarletsky",
+			"weight": 2
+		},
+		{
+			"source": "explorare",
+			"target": "scarletsky",
+			"weight": 1
+		},
+		{
+			"source": "gateswong",
+			"target": "scarletsky",
+			"weight": 1
+		},
+		{
+			"source": "jasonzzz",
+			"target": "scarletsky",
+			"weight": 1
+		},
+		{
+			"source": "arrowrowe",
+			"target": "cqffffff",
+			"weight": 1
+		},
+		{
+			"source": "dweinstein",
+			"target": "focusaurus",
+			"weight": 1
+		},
+		{
+			"source": "arrowrowe",
+			"target": "spacemeowx2",
+			"weight": 2
+		},
+		{
+			"source": "yifanjiang",
+			"target": "zxdvd",
+			"weight": 5
+		},
+		{
+			"source": "wnereiz",
+			"target": "yifanjiang",
+			"weight": 4
+		},
+		{
+			"source": "xjingitty",
+			"target": "yifanjiang",
+			"weight": 3
+		},
+		{
+			"source": "hxuhack",
+			"target": "mssun",
+			"weight": 1
+		},
+		{
+			"source": "anthrax1",
+			"target": "mariovilas",
+			"weight": 1
+		},
+		{
+			"source": "anthrax1",
+			"target": "nwmonster",
+			"weight": 3
+		},
+		{
+			"source": "anthrax1",
+			"target": "x0day",
+			"weight": 1
+		},
+		{
+			"source": "kirbykirby",
+			"target": "szszss",
+			"weight": 1
+		},
+		{
+			"source": "cnbeining",
+			"target": "soulkun",
+			"weight": 1
+		},
+		{
+			"source": "markzhai",
+			"target": "soulkun",
+			"weight": 1
+		},
+		{
+			"source": "gogozs",
+			"target": "quietshu",
+			"weight": 1
+		},
+		{
+			"source": "msg7086",
+			"target": "xingrz",
+			"weight": 1
+		},
+		{
+			"source": "cnbeining",
+			"target": "msg7086",
+			"weight": 2
+		},
+		{
+			"source": "gnaggnoyil",
+			"target": "msg7086",
+			"weight": 1
+		},
+		{
+			"source": "mawen1250",
+			"target": "msg7086",
+			"weight": 2
+		},
+		{
+			"source": "jixunmoe",
+			"target": "ywzhaiqi",
+			"weight": 1
+		},
+		{
+			"source": "shyangs",
+			"target": "ywzhaiqi",
+			"weight": 1
+		},
+		{
+			"source": "lichenbo",
+			"target": "tjwudi",
+			"weight": 1
+		},
+		{
+			"source": "accelerator00",
+			"target": "littlekey",
+			"weight": 1
+		},
+		{
+			"source": "0dayzh",
+			"target": "zhangtaopy",
+			"weight": 1
+		},
+		{
+			"source": "nicai1900",
+			"target": "zhangtaopy",
+			"weight": 1
+		},
+		{
+			"source": "zapline",
+			"target": "zhangtaopy",
+			"weight": 1
+		},
+		{
+			"source": "axure",
+			"target": "maylava",
+			"weight": 1
+		},
+		{
+			"source": "axure",
+			"target": "quietshu",
+			"weight": 1
+		},
+		{
+			"source": "axure",
+			"target": "secondwtq",
+			"weight": 1
+		},
+		{
+			"source": "mingcongbai",
+			"target": "pandada8",
+			"weight": 1
+		},
+		{
+			"source": "mingcongbai",
+			"target": "sergiochan",
+			"weight": 1
+		},
+		{
+			"source": "910jqk",
+			"target": "mingcongbai",
+			"weight": 3
+		},
+		{
+			"source": "arthur2e5",
+			"target": "mingcongbai",
+			"weight": 1
+		},
+		{
+			"source": "felixonmars",
+			"target": "mingcongbai",
+			"weight": 1
+		},
+		{
+			"source": "lmy441900",
+			"target": "mingcongbai",
+			"weight": 3
+		},
+		{
+			"source": "maxiee",
+			"target": "mingcongbai",
+			"weight": 1
+		},
+		{
+			"source": "optimuske",
+			"target": "sergiochan",
+			"weight": 1
+		},
+		{
+			"source": "crazyboycjr",
+			"target": "perseawe",
+			"weight": 1
+		},
+		{
+			"source": "bigfool",
+			"target": "nwmonster",
+			"weight": 1
+		},
+		{
+			"source": "jetmuffin",
+			"target": "sunzequn",
+			"weight": 1
+		},
+		{
+			"source": "chyancheng",
+			"target": "okiilemon",
+			"weight": 4
+		},
+		{
+			"source": "fanhuirong",
+			"target": "okiilemon",
+			"weight": 5
+		},
+		{
+			"source": "brainbush",
+			"target": "kuludu",
+			"weight": 1
+		},
+		{
+			"source": "larryxiao",
+			"target": "water-drop",
+			"weight": 1
+		},
+		{
+			"source": "akirayu101",
+			"target": "ironsdu",
+			"weight": 2
+		},
+		{
+			"source": "septs",
+			"target": "wfjsw",
+			"weight": 1
+		},
+		{
+			"source": "dantmnf",
+			"target": "septs",
+			"weight": 1
+		},
+		{
+			"source": "madimo",
+			"target": "whtsky",
+			"weight": 2
+		},
+		{
+			"source": "arrowrowe",
+			"target": "at15",
+			"weight": 8
+		},
+		{
+			"source": "arrowrowe",
+			"target": "calvinneo",
+			"weight": 2
+		},
+		{
+			"source": "arrowrowe",
+			"target": "commouse",
+			"weight": 4
+		},
+		{
+			"source": "arrowrowe",
+			"target": "courage17340",
+			"weight": 2
+		},
+		{
+			"source": "arrowrowe",
+			"target": "foreverbell",
+			"weight": 3
+		},
+		{
+			"source": "arrowrowe",
+			"target": "lishuaiqing",
+			"weight": 1
+		},
+		{
+			"source": "arrowrowe",
+			"target": "lukexuan",
+			"weight": 3
+		},
+		{
+			"source": "arrowrowe",
+			"target": "peachwang",
+			"weight": 2
+		},
+		{
+			"source": "arrowrowe",
+			"target": "swaylq",
+			"weight": 5
+		},
+		{
+			"source": "arrowrowe",
+			"target": "xsfour",
+			"weight": 3
+		},
+		{
+			"source": "arrowrowe",
+			"target": "yzgysjr",
+			"weight": 2
+		},
+		{
+			"source": "arkfang",
+			"target": "upsuper",
+			"weight": 1
+		},
+		{
+			"source": "lightory",
+			"target": "mzule",
+			"weight": 2
+		},
+		{
+			"source": "atupal",
+			"target": "fanhongwei",
+			"weight": 1
+		},
+		{
+			"source": "atupal",
+			"target": "lastmayday",
+			"weight": 1
+		},
+		{
+			"source": "dingjibang",
+			"target": "forblackking",
+			"weight": 1
+		},
+		{
+			"source": "sparkmorry",
+			"target": "tewilove",
+			"weight": 1
+		},
+		{
+			"source": "ifighting",
+			"target": "sparkmorry",
+			"weight": 2
+		},
+		{
+			"source": "hamzaelgarrab",
+			"target": "milanaryal",
+			"weight": 1
+		},
+		{
+			"source": "illusate",
+			"target": "liyilonggithub",
+			"weight": 2
+		},
+		{
+			"source": "illusate",
+			"target": "perseawe",
+			"weight": 2
+		},
+		{
+			"source": "illusate",
+			"target": "quietshu",
+			"weight": 1
+		},
+		{
+			"source": "illusate",
+			"target": "richorw",
+			"weight": 2
+		},
+		{
+			"source": "illusate",
+			"target": "thonatos",
+			"weight": 3
+		},
+		{
+			"source": "dragonly",
+			"target": "illusate",
+			"weight": 2
+		},
+		{
+			"source": "dochang",
+			"target": "nsdown",
+			"weight": 1
+		},
+		{
+			"source": "dochang",
+			"target": "shoshindes",
+			"weight": 1
+		},
+		{
+			"source": "kskun",
+			"target": "viztor",
+			"weight": 2
+		},
+		{
+			"source": "kunr",
+			"target": "viztor",
+			"weight": 4
+		},
+		{
+			"source": "lixiaoyan",
+			"target": "viztor",
+			"weight": 2
+		},
+		{
+			"source": "quietshu",
+			"target": "richorw",
+			"weight": 1
+		},
+		{
+			"source": "quillblue",
+			"target": "richorw",
+			"weight": 3
+		},
+		{
+			"source": "cnbeining",
+			"target": "ijk123",
+			"weight": 1
+		},
+		{
+			"source": "felixonmars",
+			"target": "freefcw",
+			"weight": 1
+		},
+		{
+			"source": "felixonmars",
+			"target": "fxuz",
+			"weight": 1
+		},
+		{
+			"source": "felixonmars",
+			"target": "himemeizhi",
+			"weight": 1
+		},
+		{
+			"source": "felixonmars",
+			"target": "icenowy",
+			"weight": 1
+		},
+		{
+			"source": "felixonmars",
+			"target": "jahiy",
+			"weight": 2
+		},
+		{
+			"source": "felixonmars",
+			"target": "lqymgt",
+			"weight": 1
+		},
+		{
+			"source": "felixonmars",
+			"target": "stevearzh",
+			"weight": 1
+		},
+		{
+			"source": "felixonmars",
+			"target": "yukixz",
+			"weight": 1
+		},
+		{
+			"source": "felixonmars",
+			"target": "zsrkmyn",
+			"weight": 1
+		},
+		{
+			"source": "astroprofundis",
+			"target": "felixonmars",
+			"weight": 1
+		},
+		{
+			"source": "asuna",
+			"target": "felixonmars",
+			"weight": 1
+		},
+		{
+			"source": "chengyuhui",
+			"target": "felixonmars",
+			"weight": 1
+		},
+		{
+			"source": "dantmnf",
+			"target": "felixonmars",
+			"weight": 1
+		},
+		{
+			"source": "endle",
+			"target": "felixonmars",
+			"weight": 1
+		},
+		{
+			"source": "sunny00123",
+			"target": "szszss",
+			"weight": 1
+		},
+		{
+			"source": "sunny00123",
+			"target": "wiseclock",
+			"weight": 2
+		},
+		{
+			"source": "jackyyf",
+			"target": "sunny00123",
+			"weight": 1
+		},
+		{
+			"source": "kdplus",
+			"target": "mrmiywj",
+			"weight": 3
+		},
+		{
+			"source": "kdplus",
+			"target": "weimingtom",
+			"weight": 1
+		},
+		{
+			"source": "allenshieh",
+			"target": "kdplus",
+			"weight": 3
+		},
+		{
+			"source": "manageryzy",
+			"target": "szszss",
+			"weight": 3
+		},
+		{
+			"source": "manageryzy",
+			"target": "zhouyiran2",
+			"weight": 3
+		},
+		{
+			"source": "brainbush",
+			"target": "manageryzy",
+			"weight": 4
+		},
+		{
+			"source": "calvinneo",
+			"target": "manageryzy",
+			"weight": 1
+		},
+		{
+			"source": "cnbeining",
+			"target": "mawen1250",
+			"weight": 1
+		},
+		{
+			"source": "a-circle-zhang",
+			"target": "sceext2",
+			"weight": 1
+		},
+		{
+			"source": "cnbeining",
+			"target": "sceext2",
+			"weight": 1
+		},
+		{
+			"source": "jackyzy823",
+			"target": "sceext2",
+			"weight": 2
+		},
+		{
+			"source": "sceext",
+			"target": "sceext2",
+			"weight": 1
+		},
+		{
+			"source": "lams2135",
+			"target": "lxdyran",
+			"weight": 3
+		},
+		{
+			"source": "lams2135",
+			"target": "naeioi",
+			"weight": 2
+		},
+		{
+			"source": "lams2135",
+			"target": "voidrank",
+			"weight": 5
+		},
+		{
+			"source": "moyicat",
+			"target": "quietshu",
+			"weight": 1
+		},
+		{
+			"source": "ironsdu",
+			"target": "zapline",
+			"weight": 1
+		},
+		{
+			"source": "brainbush",
+			"target": "zhouyiran2",
+			"weight": 3
+		},
+		{
+			"source": "gdier",
+			"target": "terry-mao",
+			"weight": 1
+		},
+		{
+			"source": "kunr",
+			"target": "lixiaoyan",
+			"weight": 2
+		},
+		{
+			"source": "creatorlanslot",
+			"target": "kunr",
+			"weight": 2
+		},
+		{
+			"source": "kinosang",
+			"target": "kunr",
+			"weight": 2
+		},
+		{
+			"source": "kskun",
+			"target": "kunr",
+			"weight": 3
+		},
+		{
+			"source": "44670",
+			"target": "whitefirer",
+			"weight": 4
+		},
+		{
+			"source": "foreverbell",
+			"target": "whitefirer",
+			"weight": 6
+		},
+		{
+			"source": "ihsoh",
+			"target": "whitefirer",
+			"weight": 3
+		},
+		{
+			"source": "vizee",
+			"target": "whitefirer",
+			"weight": 3
+		},
+		{
+			"source": "dweinstein",
+			"target": "steelcode",
+			"weight": 1
+		},
+		{
+			"source": "midasfree",
+			"target": "wicastchen",
+			"weight": 2
+		},
+		{
+			"source": "amxku",
+			"target": "flyr4nk",
+			"weight": 3
+		},
+		{
+			"source": "amxku",
+			"target": "hysia",
+			"weight": 5
+		},
+		{
+			"source": "creamidea",
+			"target": "t-k-",
+			"weight": 1
+		},
+		{
+			"source": "astroprofundis",
+			"target": "creamidea",
+			"weight": 2
+		},
+		{
+			"source": "chengyuhui",
+			"target": "creamidea",
+			"weight": 3
+		},
+		{
+			"source": "pyq881120",
+			"target": "wjcsharp",
+			"weight": 1
+		},
+		{
+			"source": "kasuganosora",
+			"target": "shadowglen",
+			"weight": 2
+		},
+		{
+			"source": "kasuganosora",
+			"target": "wontoncc",
+			"weight": 4
+		},
+		{
+			"source": "kasuganosora",
+			"target": "yukixz",
+			"weight": 3
+		},
+		{
+			"source": "a3616001",
+			"target": "orpine",
+			"weight": 2
+		},
+		{
+			"source": "huzecong",
+			"target": "orpine",
+			"weight": 2
+		},
+		{
+			"source": "meimisaki",
+			"target": "orpine",
+			"weight": 3
+		},
+		{
+			"source": "meimisaki",
+			"target": "slrxxx",
+			"weight": 1
+		},
+		{
+			"source": "66ccff",
+			"target": "cloud-han",
+			"weight": 1
+		},
+		{
+			"source": "66ccff",
+			"target": "foreverbell",
+			"weight": 4
+		},
+		{
+			"source": "66ccff",
+			"target": "hiprince",
+			"weight": 1
+		},
+		{
+			"source": "66ccff",
+			"target": "meimisaki",
+			"weight": 1
+		},
+		{
+			"source": "66ccff",
+			"target": "twd2",
+			"weight": 4
+		},
+		{
+			"source": "morriswmz",
+			"target": "quietshu",
+			"weight": 1
+		},
+		{
+			"source": "morriswmz",
+			"target": "quillblue",
+			"weight": 3
+		},
+		{
+			"source": "morriswmz",
+			"target": "renchusong",
+			"weight": 1
+		},
+		{
+			"source": "liyilonggithub",
+			"target": "morriswmz",
+			"weight": 3
+		},
+		{
+			"source": "louyiwen",
+			"target": "were",
+			"weight": 3
+		},
+		{
+			"source": "louyiwen",
+			"target": "yzgysjr",
+			"weight": 2
+		},
+		{
+			"source": "adoo23",
+			"target": "louyiwen",
+			"weight": 1
+		},
+		{
+			"source": "courage17340",
+			"target": "louyiwen",
+			"weight": 2
+		},
+		{
+			"source": "jackyyf",
+			"target": "louyiwen",
+			"weight": 1
+		},
+		{
+			"source": "condy0919",
+			"target": "cuihaoleo",
+			"weight": 5
+		},
+		{
+			"source": "condy0919",
+			"target": "dantmnf",
+			"weight": 7
+		},
+		{
+			"source": "condy0919",
+			"target": "lqymgt",
+			"weight": 7
+		},
+		{
+			"source": "condy0919",
+			"target": "stevearzh",
+			"weight": 10
+		},
+		{
+			"source": "condy0919",
+			"target": "zsrkmyn",
+			"weight": 7
+		},
+		{
+			"source": "910jqk",
+			"target": "condy0919",
+			"weight": 3
+		},
+		{
+			"source": "godspeed1989",
+			"target": "wjcsharp",
+			"weight": 1
+		},
+		{
+			"source": "orzfly",
+			"target": "ykelvis",
+			"weight": 1
+		},
+		{
+			"source": "sharuru",
+			"target": "ykelvis",
+			"weight": 3
+		},
+		{
+			"source": "slixurd",
+			"target": "ykelvis",
+			"weight": 2
+		},
+		{
+			"source": "wicastchen",
+			"target": "ykelvis",
+			"weight": 3
+		},
+		{
+			"source": "musicman-ji",
+			"target": "orthocenter",
+			"weight": 4
+		},
+		{
+			"source": "musicman-ji",
+			"target": "quietshu",
+			"weight": 2
+		},
+		{
+			"source": "layumi",
+			"target": "musicman-ji",
+			"weight": 2
+		},
+		{
+			"source": "maylava",
+			"target": "theloverz",
+			"weight": 4
+		},
+		{
+			"source": "maylava",
+			"target": "upsuper",
+			"weight": 1
+		},
+		{
+			"source": "gateswong",
+			"target": "maylava",
+			"weight": 1
+		},
+		{
+			"source": "910jqk",
+			"target": "dantmnf",
+			"weight": 5
+		},
+		{
+			"source": "910jqk",
+			"target": "fxuz",
+			"weight": 2
+		},
+		{
+			"source": "910jqk",
+			"target": "icenowy",
+			"weight": 3
+		},
+		{
+			"source": "910jqk",
+			"target": "lqymgt",
+			"weight": 3
+		},
+		{
+			"source": "910jqk",
+			"target": "wfjsw",
+			"weight": 1
+		},
+		{
+			"source": "foreverbell",
+			"target": "iceboy-sjtu",
+			"weight": 1
+		},
+		{
+			"source": "foreverbell",
+			"target": "ihsoh",
+			"weight": 6
+		},
+		{
+			"source": "foreverbell",
+			"target": "kjkszpj",
+			"weight": 4
+		},
+		{
+			"source": "foreverbell",
+			"target": "lukexuan",
+			"weight": 3
+		},
+		{
+			"source": "foreverbell",
+			"target": "orthocenter",
+			"weight": 9
+		},
+		{
+			"source": "foreverbell",
+			"target": "perseawe",
+			"weight": 8
+		},
+		{
+			"source": "foreverbell",
+			"target": "quietshu",
+			"weight": 2
+		},
+		{
+			"source": "foreverbell",
+			"target": "seiarotg",
+			"weight": 3
+		},
+		{
+			"source": "foreverbell",
+			"target": "twd2",
+			"weight": 10
+		},
+		{
+			"source": "foreverbell",
+			"target": "v1zze",
+			"weight": 2
+		},
+		{
+			"source": "foreverbell",
+			"target": "vizee",
+			"weight": 4
+		},
+		{
+			"source": "foreverbell",
+			"target": "voidrank",
+			"weight": 4
+		},
+		{
+			"source": "foreverbell",
+			"target": "wssccc",
+			"weight": 3
+		},
+		{
+			"source": "44670",
+			"target": "foreverbell",
+			"weight": 8
+		},
+		{
+			"source": "antinomyra",
+			"target": "foreverbell",
+			"weight": 2
+		},
+		{
+			"source": "bin-y",
+			"target": "foreverbell",
+			"weight": 2
+		},
+		{
+			"source": "ca72",
+			"target": "foreverbell",
+			"weight": 5
+		},
+		{
+			"source": "czy941030",
+			"target": "foreverbell",
+			"weight": 3
+		},
+		{
+			"source": "erichuang1994",
+			"target": "foreverbell",
+			"weight": 3
+		},
+		{
+			"source": "starkwang",
+			"target": "voidrank",
+			"weight": 3
+		},
+		{
+			"source": "geeeeeeeeek",
+			"target": "starkwang",
+			"weight": 1
+		},
+		{
+			"source": "quietshu",
+			"target": "starkwang",
+			"weight": 1
+		},
+		{
+			"source": "passengerxlt",
+			"target": "wjcsharp",
+			"weight": 1
+		},
+		{
+			"source": "jackyzy823",
+			"target": "onlyswan",
+			"weight": 1
+		},
+		{
+			"source": "lynx-cpp",
+			"target": "tengattack",
+			"weight": 1
+		},
+		{
+			"source": "cnbeining",
+			"target": "sofronio",
+			"weight": 1
+		},
+		{
+			"source": "theloverz",
+			"target": "upsuper",
+			"weight": 1
+		},
+		{
+			"source": "edgarwang",
+			"target": "theloverz",
+			"weight": 2
+		},
+		{
+			"source": "mrahmiao",
+			"target": "theloverz",
+			"weight": 3
+		},
+		{
+			"source": "mrain",
+			"target": "theloverz",
+			"weight": 5
+		},
+		{
+			"source": "fatea",
+			"target": "zeling",
+			"weight": 3
+		},
+		{
+			"source": "linmx0130",
+			"target": "zeling",
+			"weight": 1
+		},
+		{
+			"source": "molikto",
+			"target": "txmszlou",
+			"weight": 2
+		},
+		{
+			"source": "jackyyf",
+			"target": "taring",
+			"weight": 1
+		},
+		{
+			"source": "yexiaorain",
+			"target": "zackszhu",
+			"weight": 3
+		},
+		{
+			"source": "allen3",
+			"target": "yexiaorain",
+			"weight": 2
+		},
+		{
+			"source": "codeworm96",
+			"target": "yexiaorain",
+			"weight": 3
+		},
+		{
+			"source": "notebookie",
+			"target": "yexiaorain",
+			"weight": 3
+		},
+		{
+			"source": "rapidhere",
+			"target": "yexiaorain",
+			"weight": 4
+		},
+		{
+			"source": "sasako",
+			"target": "yexiaorain",
+			"weight": 2
+		},
+		{
+			"source": "sfordj",
+			"target": "yexiaorain",
+			"weight": 4
+		},
+		{
+			"source": "ccloli",
+			"target": "legendtang",
+			"weight": 1
+		},
+		{
+			"source": "fanfuqiang",
+			"target": "xiaohanyu",
+			"weight": 1
+		},
+		{
+			"source": "astroprofundis",
+			"target": "yukixz",
+			"weight": 5
+		},
+		{
+			"source": "el-hoshino",
+			"target": "yukixz",
+			"weight": 1
+		},
+		{
+			"source": "shadowglen",
+			"target": "yukixz",
+			"weight": 6
+		},
+		{
+			"source": "tioover",
+			"target": "yukixz",
+			"weight": 2
+		},
+		{
+			"source": "upsuper",
+			"target": "yukixz",
+			"weight": 2
+		},
+		{
+			"source": "wontoncc",
+			"target": "yukixz",
+			"weight": 4
+		},
+		{
+			"source": "yukiexe",
+			"target": "yukixz",
+			"weight": 2
+		},
+		{
+			"source": "rapidhere",
+			"target": "woodcutknife",
+			"weight": 2
+		},
+		{
+			"source": "rapidhere",
+			"target": "zcwwzdjn",
+			"weight": 3
+		},
+		{
+			"source": "rapidhere",
+			"target": "zhouxinan",
+			"weight": 3
+		},
+		{
+			"source": "allen3",
+			"target": "rapidhere",
+			"weight": 2
+		},
+		{
+			"source": "awcrr",
+			"target": "rapidhere",
+			"weight": 1
+		},
+		{
+			"source": "csimstu",
+			"target": "rapidhere",
+			"weight": 2
+		},
+		{
+			"source": "htc550605125",
+			"target": "rapidhere",
+			"weight": 4
+		},
+		{
+			"source": "jackyyf",
+			"target": "rapidhere",
+			"weight": 2
+		},
+		{
+			"source": "littletobby",
+			"target": "rapidhere",
+			"weight": 1
+		},
+		{
+			"source": "myly10",
+			"target": "rapidhere",
+			"weight": 4
+		},
+		{
+			"source": "mzeri",
+			"target": "syc728",
+			"weight": 2
+		},
+		{
+			"source": "mzeri",
+			"target": "szszss",
+			"weight": 2
+		},
+		{
+			"source": "sergiochan",
+			"target": "zld",
+			"weight": 1
+		},
+		{
+			"source": "milanaryal",
+			"target": "sergiochan",
+			"weight": 1
+		},
+		{
+			"source": "samwanng",
+			"target": "sergiochan",
+			"weight": 1
+		},
+		{
+			"source": "myd7349",
+			"target": "stevearzh",
+			"weight": 1
+		},
+		{
+			"source": "myd7349",
+			"target": "wssccc",
+			"weight": 1
+		},
+		{
+			"source": "fxuz",
+			"target": "myd7349",
+			"weight": 1
+		},
+		{
+			"source": "allen3",
+			"target": "jacktony",
+			"weight": 1
+		},
+		{
+			"source": "sym233",
+			"target": "voidrank",
+			"weight": 1
+		},
+		{
+			"source": "ichenq",
+			"target": "zapline",
+			"weight": 1
+		},
+		{
+			"source": "angrypowman",
+			"target": "ichenq",
+			"weight": 2
+		},
+		{
+			"source": "mtunique",
+			"target": "quietshu",
+			"weight": 1
+		},
+		{
+			"source": "mtunique",
+			"target": "xen0n",
+			"weight": 2
+		},
+		{
+			"source": "dyinnz",
+			"target": "mtunique",
+			"weight": 7
+		},
+		{
+			"source": "eairpeter",
+			"target": "mtunique",
+			"weight": 2
+		},
+		{
+			"source": "fanhongwei",
+			"target": "mtunique",
+			"weight": 1
+		},
+		{
+			"source": "lastmayday",
+			"target": "mtunique",
+			"weight": 1
+		},
+		{
+			"source": "killbug2004",
+			"target": "wjcsharp",
+			"weight": 1
+		},
+		{
+			"source": "kjkszpj",
+			"target": "orthocenter",
+			"weight": 5
+		},
+		{
+			"source": "kjkszpj",
+			"target": "quietshu",
+			"weight": 1
+		},
+		{
+			"source": "kjkszpj",
+			"target": "siuto",
+			"weight": 3
+		},
+		{
+			"source": "lastmayday",
+			"target": "weilan55",
+			"weight": 4
+		},
+		{
+			"source": "weathfold",
+			"target": "weilan55",
+			"weight": 1
+		},
+		{
+			"source": "mrmiywj",
+			"target": "weehowe-z",
+			"weight": 1
+		},
+		{
+			"source": "mrmiywj",
+			"target": "zackszhu",
+			"weight": 2
+		},
+		{
+			"source": "allenshieh",
+			"target": "mrmiywj",
+			"weight": 3
+		},
+		{
+			"source": "geeeeeeeeek",
+			"target": "mrmiywj",
+			"weight": 1
+		},
+		{
+			"source": "fuzzing",
+			"target": "h0g3rian",
+			"weight": 1
+		},
+		{
+			"source": "marionette-curtain",
+			"target": "szszss",
+			"weight": 1
+		},
+		{
+			"source": "foxbai",
+			"target": "jovisayhehe",
+			"weight": 3
+		},
+		{
+			"source": "foxbai",
+			"target": "tewilove",
+			"weight": 3
+		},
+		{
+			"source": "linmx0130",
+			"target": "magicae",
+			"weight": 1
+		},
+		{
+			"source": "linmx0130",
+			"target": "upsuper",
+			"weight": 1
+		},
+		{
+			"source": "linmx0130",
+			"target": "voidrank",
+			"weight": 1
+		},
+		{
+			"source": "liyilonggithub",
+			"target": "quietshu",
+			"weight": 1
+		},
+		{
+			"source": "liyilonggithub",
+			"target": "quillblue",
+			"weight": 5
+		},
+		{
+			"source": "aixile",
+			"target": "liyilonggithub",
+			"weight": 3
+		},
+		{
+			"source": "jackyyf",
+			"target": "liyilonggithub",
+			"weight": 1
+		},
+		{
+			"source": "were",
+			"target": "yzgysjr",
+			"weight": 2
+		},
+		{
+			"source": "dweinstein",
+			"target": "forprevious",
+			"weight": 1
+		},
+		{
+			"source": "aixile",
+			"target": "erichuang1994",
+			"weight": 2
+		},
+		{
+			"source": "aixile",
+			"target": "quietshu",
+			"weight": 1
+		},
+		{
+			"source": "aixile",
+			"target": "wwwwodddd",
+			"weight": 3
+		},
+		{
+			"source": "dilaroga",
+			"target": "upsuper",
+			"weight": 1
+		},
+		{
+			"source": "frantic1048",
+			"target": "giumo",
+			"weight": 1
+		},
+		{
+			"source": "frantic1048",
+			"target": "himemeizhi",
+			"weight": 1
+		},
+		{
+			"source": "chengyuhui",
+			"target": "frantic1048",
+			"weight": 2
+		},
+		{
+			"source": "cuihaoleo",
+			"target": "frantic1048",
+			"weight": 3
+		},
+		{
+			"source": "farseerfc",
+			"target": "frantic1048",
+			"weight": 4
+		},
+		{
+			"source": "peachwang",
+			"target": "yujiabao",
+			"weight": 1
+		},
+		{
+			"source": "ca72",
+			"target": "jackyyf",
+			"weight": 2
+		},
+		{
+			"source": "ca72",
+			"target": "perseawe",
+			"weight": 6
+		},
+		{
+			"source": "ca72",
+			"target": "quietshu",
+			"weight": 1
+		},
+		{
+			"source": "ca72",
+			"target": "zxybazh",
+			"weight": 4
+		},
+		{
+			"source": "lqymgt",
+			"target": "stevearzh",
+			"weight": 7
+		},
+		{
+			"source": "lqymgt",
+			"target": "zsrkmyn",
+			"weight": 7
+		},
+		{
+			"source": "dantmnf",
+			"target": "lqymgt",
+			"weight": 7
+		},
+		{
+			"source": "farseerfc",
+			"target": "lqymgt",
+			"weight": 1
+		},
+		{
+			"source": "courage17340",
+			"target": "gilbertheywood",
+			"weight": 2
+		},
+		{
+			"source": "courage17340",
+			"target": "yzgysjr",
+			"weight": 2
+		},
+		{
+			"source": "dantmnf",
+			"target": "zsrkmyn",
+			"weight": 8
+		},
+		{
+			"source": "fxuz",
+			"target": "zsrkmyn",
+			"weight": 6
+		},
+		{
+			"source": "stevearzh",
+			"target": "zsrkmyn",
+			"weight": 9
+		},
+		{
+			"source": "icenowy",
+			"target": "lmy441900",
+			"weight": 1
+		},
+		{
+			"source": "arthur2e5",
+			"target": "icenowy",
+			"weight": 2
+		},
+		{
+			"source": "cnbeining",
+			"target": "icenowy",
+			"weight": 1
+		},
+		{
+			"source": "cyberhermit",
+			"target": "icenowy",
+			"weight": 1
+		},
+		{
+			"source": "harry-chen",
+			"target": "icenowy",
+			"weight": 1
+		},
+		{
+			"source": "h1994st",
+			"target": "o0lazybear0o",
+			"weight": 3
+		},
+		{
+			"source": "h1994st",
+			"target": "wishsummer",
+			"weight": 1
+		},
+		{
+			"source": "caihuan",
+			"target": "songyingxinok",
+			"weight": 1
+		},
+		{
+			"source": "caihuan",
+			"target": "zapline",
+			"weight": 1
+		},
+		{
+			"source": "jixunmoe",
+			"target": "pandada8",
+			"weight": 1
+		},
+		{
+			"source": "jixunmoe",
+			"target": "penguinliong",
+			"weight": 2
+		},
+		{
+			"source": "jixunmoe",
+			"target": "stonemoe",
+			"weight": 1
+		},
+		{
+			"source": "hanyunxu",
+			"target": "yzgysjr",
+			"weight": 1
+		},
+		{
+			"source": "dweinstein",
+			"target": "sathishxcode",
+			"weight": 1
+		},
+		{
+			"source": "jovisayhehe",
+			"target": "tewilove",
+			"weight": 6
+		},
+		{
+			"source": "jovisayhehe",
+			"target": "yll",
+			"weight": 1
+		},
+		{
+			"source": "44670",
+			"target": "jovisayhehe",
+			"weight": 2
+		},
+		{
+			"source": "bbcallen",
+			"target": "jovisayhehe",
+			"weight": 1
+		},
+		{
+			"source": "cropzhuang",
+			"target": "jovisayhehe",
+			"weight": 3
+		},
+		{
+			"source": "gdier",
+			"target": "jovisayhehe",
+			"weight": 4
+		},
+		{
+			"source": "dweinstein",
+			"target": "ignasi",
+			"weight": 1
+		},
+		{
+			"source": "bbcallen",
+			"target": "jununfly",
+			"weight": 1
+		},
+		{
+			"source": "gdier",
+			"target": "jununfly",
+			"weight": 3
+		},
+		{
+			"source": "hjc4869",
+			"target": "wfjsw",
+			"weight": 1
+		},
+		{
+			"source": "dantmnf",
+			"target": "hjc4869",
+			"weight": 2
+		},
+		{
+			"source": "tioover",
+			"target": "wxt2005",
+			"weight": 1
+		},
+		{
+			"source": "fanrangjun",
+			"target": "gatlas",
+			"weight": 2
+		},
+		{
+			"source": "beta",
+			"target": "yetone",
+			"weight": 1
+		},
+		{
+			"source": "angrypowman",
+			"target": "kingwl",
+			"weight": 3
+		},
+		{
+			"source": "angrypowman",
+			"target": "penguinliong",
+			"weight": 1
+		},
+		{
+			"source": "angrypowman",
+			"target": "shoshindes",
+			"weight": 1
+		},
+		{
+			"source": "angrypowman",
+			"target": "zapline",
+			"weight": 2
+		},
+		{
+			"source": "a3616001",
+			"target": "meimisaki",
+			"weight": 2
+		},
+		{
+			"source": "dweinstein",
+			"target": "galagie",
+			"weight": 1
+		},
+		{
+			"source": "calvinneo",
+			"target": "innerac",
+			"weight": 2
+		},
+		{
+			"source": "calvinneo",
+			"target": "liuhanlcj",
+			"weight": 1
+		},
+		{
+			"source": "blkstone",
+			"target": "calvinneo",
+			"weight": 2
+		},
+		{
+			"source": "quietshu",
+			"target": "technommy",
+			"weight": 1
+		},
+		{
+			"source": "maxiee",
+			"target": "yl790",
+			"weight": 1
+		},
+		{
+			"source": "cnbeining",
+			"target": "maxiee",
+			"weight": 1
+		},
+		{
+			"source": "leosongwei",
+			"target": "maxiee",
+			"weight": 1
+		},
+		{
+			"source": "dweinstein",
+			"target": "emifixthis",
+			"weight": 1
+		},
+		{
+			"source": "cropzhuang",
+			"target": "djs66256",
+			"weight": 1
+		},
+		{
+			"source": "cropzhuang",
+			"target": "zccicy",
+			"weight": 3
+		},
+		{
+			"source": "bbcallen",
+			"target": "cropzhuang",
+			"weight": 1
+		},
+		{
+			"source": "bbcallen",
+			"target": "cotaku",
+			"weight": 1
+		},
+		{
+			"source": "bbcallen",
+			"target": "gdier",
+			"weight": 1
+		},
+		{
+			"source": "bbcallen",
+			"target": "lvning",
+			"weight": 1
+		},
+		{
+			"source": "bbcallen",
+			"target": "magicbear",
+			"weight": 1
+		},
+		{
+			"source": "bbcallen",
+			"target": "tewilove",
+			"weight": 1
+		},
+		{
+			"source": "bbcallen",
+			"target": "yuvesy",
+			"weight": 1
+		},
+		{
+			"source": "bbcallen",
+			"target": "zccicy",
+			"weight": 1
+		},
+		{
+			"source": "dweinstein",
+			"target": "n30d0n3",
+			"weight": 1
+		},
+		{
+			"source": "antinomyra",
+			"target": "renchusong",
+			"weight": 2
+		},
+		{
+			"source": "hanjun-dai",
+			"target": "renchusong",
+			"weight": 5
+		},
+		{
+			"source": "raysmond",
+			"target": "renchusong",
+			"weight": 5
+		},
+		{
+			"source": "dweinstein",
+			"target": "idaifish",
+			"weight": 1
+		},
+		{
+			"source": "endle",
+			"target": "zxybazh",
+			"weight": 3
+		},
+		{
+			"source": "isawdx",
+			"target": "zxybazh",
+			"weight": 4
+		},
+		{
+			"source": "jackyyf",
+			"target": "zxybazh",
+			"weight": 3
+		},
+		{
+			"source": "linchuming",
+			"target": "zxybazh",
+			"weight": 3
+		},
+		{
+			"source": "orthocenter",
+			"target": "zxybazh",
+			"weight": 11
+		},
+		{
+			"source": "siuto",
+			"target": "zxybazh",
+			"weight": 5
+		},
+		{
+			"source": "freemanhsu",
+			"target": "yyypasserby",
+			"weight": 2
+		},
+		{
+			"source": "peachwang",
+			"target": "yyypasserby",
+			"weight": 1
+		},
+		{
+			"source": "weimingtom",
+			"target": "yinyanfr",
+			"weight": 1
+		},
+		{
+			"source": "endle",
+			"target": "jackyyf",
+			"weight": 1
+		},
+		{
+			"source": "davidcai1993",
+			"target": "geeeeeeeeek",
+			"weight": 4
+		},
+		{
+			"source": "dweinstein",
+			"target": "jonitrythall",
+			"weight": 1
+		},
+		{
+			"source": "fxuz",
+			"target": "stevearzh",
+			"weight": 6
+		},
+		{
+			"source": "arthur2e5",
+			"target": "fxuz",
+			"weight": 1
+		},
+		{
+			"source": "dantmnf",
+			"target": "fxuz",
+			"weight": 6
+		},
+		{
+			"source": "lukexuan",
+			"target": "vacancy",
+			"weight": 1
+		},
+		{
+			"source": "dorajdj",
+			"target": "szszss",
+			"weight": 2
+		},
+		{
+			"source": "15cm",
+			"target": "myzwillmake",
+			"weight": 1
+		},
+		{
+			"source": "chibaheit",
+			"target": "myzwillmake",
+			"weight": 4
+		},
+		{
+			"source": "magicae",
+			"target": "myzwillmake",
+			"weight": 3
+		},
+		{
+			"source": "hoshizora",
+			"target": "nwmonster",
+			"weight": 1
+		},
+		{
+			"source": "alphashawn",
+			"target": "commouse",
+			"weight": 1
+		},
+		{
+			"source": "erichuang1994",
+			"target": "fatea",
+			"weight": 1
+		},
+		{
+			"source": "erichuang1994",
+			"target": "orthocenter",
+			"weight": 7
+		},
+		{
+			"source": "erichuang1994",
+			"target": "siuto",
+			"weight": 4
+		},
+		{
+			"source": "daice",
+			"target": "erichuang1994",
+			"weight": 1
+		},
+		{
+			"source": "acgmohu",
+			"target": "bincker",
+			"weight": 1
+		},
+		{
+			"source": "acgmohu",
+			"target": "setekhid",
+			"weight": 1
+		},
+		{
+			"source": "acgmohu",
+			"target": "strazzere",
+			"weight": 1
+		},
+		{
+			"source": "dweinstein",
+			"target": "wzr",
+			"weight": 1
+		},
+		{
+			"source": "nerddan",
+			"target": "quietshu",
+			"weight": 1
+		},
+		{
+			"source": "jasonzzz",
+			"target": "tingleshao",
+			"weight": 4
+		},
+		{
+			"source": "madimo",
+			"target": "s3c0nd",
+			"weight": 2
+		},
+		{
+			"source": "dingjibang",
+			"target": "weimingtom",
+			"weight": 1
+		},
+		{
+			"source": "milanaryal",
+			"target": "weimingtom",
+			"weight": 1
+		},
+		{
+			"source": "ilovedesert001",
+			"target": "miyamuramiyako",
+			"weight": 2
+		},
+		{
+			"source": "hpcslag",
+			"target": "shoshindes",
+			"weight": 1
+		},
+		{
+			"source": "fffonion",
+			"target": "hpcslag",
+			"weight": 1
+		},
+		{
+			"source": "cnbeining",
+			"target": "crazym",
+			"weight": 1
+		},
+		{
+			"source": "aprileelcich",
+			"target": "dweinstein",
+			"weight": 1
+		},
+		{
+			"source": "niconiconi",
+			"target": "volzkzg",
+			"weight": 2
+		},
+		{
+			"source": "niconiconi",
+			"target": "yzgysjr",
+			"weight": 1
+		},
+		{
+			"source": "proudlily",
+			"target": "wnereiz",
+			"weight": 1
+		},
+		{
+			"source": "fanfuqiang",
+			"target": "quantumbear",
+			"weight": 3
+		},
+		{
+			"source": "1u4nx",
+			"target": "ourren",
+			"weight": 1
+		},
+		{
+			"source": "layumi",
+			"target": "orthocenter",
+			"weight": 2
+		},
+		{
+			"source": "hmgle",
+			"target": "ir193",
+			"weight": 1
+		},
+		{
+			"source": "jackyyf",
+			"target": "lukeyyang",
+			"weight": 1
+		},
+		{
+			"source": "jackyyf",
+			"target": "lyqspace",
+			"weight": 2
+		},
+		{
+			"source": "jackyyf",
+			"target": "orthocenter",
+			"weight": 4
+		},
+		{
+			"source": "jackyyf",
+			"target": "perseawe",
+			"weight": 5
+		},
+		{
+			"source": "jackyyf",
+			"target": "quillblue",
+			"weight": 1
+		},
+		{
+			"source": "jackyyf",
+			"target": "voidrank",
+			"weight": 3
+		},
+		{
+			"source": "jackyyf",
+			"target": "woodcutknife",
+			"weight": 1
+		},
+		{
+			"source": "jackyyf",
+			"target": "zcwwzdjn",
+			"weight": 1
+		},
+		{
+			"source": "chiyahoho",
+			"target": "jackyyf",
+			"weight": 1
+		},
+		{
+			"source": "determinant",
+			"target": "jackyyf",
+			"weight": 1
+		},
+		{
+			"source": "hobozhang",
+			"target": "jackyyf",
+			"weight": 1
+		},
+		{
+			"source": "htc550605125",
+			"target": "jackyyf",
+			"weight": 1
+		},
+		{
+			"source": "chrisallenlane",
+			"target": "fuzion24",
+			"weight": 1
+		},
+		{
+			"source": "i25ffz",
+			"target": "rysle",
+			"weight": 1
+		},
+		{
+			"source": "cnbeining",
+			"target": "dongdongcpk",
+			"weight": 1
+		},
+		{
+			"source": "blkstone",
+			"target": "jetmuffin",
+			"weight": 2
+		},
+		{
+			"source": "innerac",
+			"target": "jetmuffin",
+			"weight": 2
+		},
+		{
+			"source": "lxdyran",
+			"target": "voidrank",
+			"weight": 3
+		},
+		{
+			"source": "quietshu",
+			"target": "xen0n",
+			"weight": 1
+		},
+		{
+			"source": "hysia",
+			"target": "pushpan",
+			"weight": 1
+		},
+		{
+			"source": "linchuming",
+			"target": "orthocenter",
+			"weight": 3
+		},
+		{
+			"source": "blkstone",
+			"target": "innerac",
+			"weight": 3
+		},
+		{
+			"source": "cloud-han",
+			"target": "timfeirg",
+			"weight": 1
+		},
+		{
+			"source": "fatea",
+			"target": "quietshu",
+			"weight": 1
+		},
+		{
+			"source": "fuzzing",
+			"target": "retme7",
+			"weight": 1
+		},
+		{
+			"source": "alexblanda",
+			"target": "fuzzing",
+			"weight": 1
+		},
+		{
+			"source": "dweinstein",
+			"target": "fuzzing",
+			"weight": 1
+		},
+		{
+			"source": "kinosang",
+			"target": "sanddudu",
+			"weight": 3
+		},
+		{
+			"source": "lixiaoyan",
+			"target": "sanddudu",
+			"weight": 2
+		},
+		{
+			"source": "orzfly",
+			"target": "sanddudu",
+			"weight": 2
+		},
+		{
+			"source": "naeioi",
+			"target": "voidrank",
+			"weight": 2
+		},
+		{
+			"source": "chengyuhui",
+			"target": "wutou",
+			"weight": 4
+		},
+		{
+			"source": "dweinstein",
+			"target": "tjordan73",
+			"weight": 1
+		},
+		{
+			"source": "liyingwei",
+			"target": "quietshu",
+			"weight": 1
+		},
+		{
+			"source": "liyingwei",
+			"target": "voidrank",
+			"weight": 3
+		},
+		{
+			"source": "himemeizhi",
+			"target": "lychees",
+			"weight": 1
+		},
+		{
+			"source": "himemeizhi",
+			"target": "tioover",
+			"weight": 1
+		},
+		{
+			"source": "brickgao",
+			"target": "himemeizhi",
+			"weight": 2
+		},
+		{
+			"source": "chengyuhui",
+			"target": "himemeizhi",
+			"weight": 7
+		},
+		{
+			"source": "farseerfc",
+			"target": "himemeizhi",
+			"weight": 4
+		},
+		{
+			"source": "gnaggnoyil",
+			"target": "himemeizhi",
+			"weight": 1
+		},
+		{
+			"source": "dweinstein",
+			"target": "revskills",
+			"weight": 1
+		},
+		{
+			"source": "aicitel",
+			"target": "notebookie",
+			"weight": 2
+		},
+		{
+			"source": "kxxoling",
+			"target": "slixurd",
+			"weight": 4
+		},
+		{
+			"source": "chengyuhui",
+			"target": "farseerfc",
+			"weight": 4
+		},
+		{
+			"source": "chengyuhui",
+			"target": "wontoncc",
+			"weight": 2
+		},
+		{
+			"source": "gugugupan",
+			"target": "hanjun-dai",
+			"weight": 3
+		},
+		{
+			"source": "ainopara",
+			"target": "cnbeining",
+			"weight": 1
+		},
+		{
+			"source": "niangaotuantuan",
+			"target": "quillblue",
+			"weight": 1
+		},
+		{
+			"source": "quietshu",
+			"target": "quillblue",
+			"weight": 1
+		},
+		{
+			"source": "perseawe",
+			"target": "quietshu",
+			"weight": 2
+		},
+		{
+			"source": "perseawe",
+			"target": "suhang1994",
+			"weight": 4
+		},
+		{
+			"source": "perseawe",
+			"target": "voidrank",
+			"weight": 5
+		},
+		{
+			"source": "edwardchor",
+			"target": "perseawe",
+			"weight": 3
+		},
+		{
+			"source": "instr3",
+			"target": "perseawe",
+			"weight": 1
+		},
+		{
+			"source": "lyqspace",
+			"target": "perseawe",
+			"weight": 5
+		},
+		{
+			"source": "orthocenter",
+			"target": "perseawe",
+			"weight": 12
+		},
+		{
+			"source": "dingjibang",
+			"target": "sola1989",
+			"weight": 1
+		},
+		{
+			"source": "boleynsu",
+			"target": "xukaiqiang",
+			"weight": 3
+		},
+		{
+			"source": "meimisaki",
+			"target": "xukaiqiang",
+			"weight": 3
+		},
+		{
+			"source": "jahiy",
+			"target": "rivsen",
+			"weight": 1
+		},
+		{
+			"source": "jahiy",
+			"target": "upsuper",
+			"weight": 1
+		},
+		{
+			"source": "orzfly",
+			"target": "wfjsw",
+			"weight": 1
+		},
+		{
+			"source": "kinosang",
+			"target": "orzfly",
+			"weight": 1
+		},
+		{
+			"source": "wnereiz",
+			"target": "xjingitty",
+			"weight": 3
+		},
+		{
+			"source": "wnereiz",
+			"target": "zxdvd",
+			"weight": 4
+		},
+		{
+			"source": "cnbeining",
+			"target": "wnereiz",
+			"weight": 1
+		},
+		{
+			"source": "cuihaoleo",
+			"target": "wnereiz",
+			"weight": 1
+		},
+		{
+			"source": "fallacy321",
+			"target": "wnereiz",
+			"weight": 2
+		},
+		{
+			"source": "liruqi",
+			"target": "wnereiz",
+			"weight": 1
+		},
+		{
+			"source": "cnbeining",
+			"target": "dantmnf",
+			"weight": 1
+		},
+		{
+			"source": "cnbeining",
+			"target": "dwayneten",
+			"weight": 1
+		},
+		{
+			"source": "cnbeining",
+			"target": "fffonion",
+			"weight": 1
+		},
+		{
+			"source": "cnbeining",
+			"target": "jackyzy823",
+			"weight": 2
+		},
+		{
+			"source": "cnbeining",
+			"target": "moefun",
+			"weight": 1
+		},
+		{
+			"source": "cnbeining",
+			"target": "nsdown",
+			"weight": 1
+		},
+		{
+			"source": "cnbeining",
+			"target": "shyangs",
+			"weight": 1
+		},
+		{
+			"source": "cnbeining",
+			"target": "tsuki",
+			"weight": 1
+		},
+		{
+			"source": "cnbeining",
+			"target": "txmszlou",
+			"weight": 1
+		},
+		{
+			"source": "872517414",
+			"target": "cnbeining",
+			"weight": 1
+		},
+		{
+			"source": "asuna",
+			"target": "cnbeining",
+			"weight": 2
+		},
+		{
+			"source": "dweinstein",
+			"target": "mbazaliy",
+			"weight": 1
+		},
+		{
+			"source": "edwardchor",
+			"target": "rabbitcdn",
+			"weight": 1
+		},
+		{
+			"source": "grzhan",
+			"target": "rabbitcdn",
+			"weight": 1
+		},
+		{
+			"source": "kitkom",
+			"target": "lixiaoyan",
+			"weight": 1
+		},
+		{
+			"source": "astroprofundis",
+			"target": "everpcpc",
+			"weight": 2
+		},
+		{
+			"source": "chyancheng",
+			"target": "fanhuirong",
+			"weight": 4
+		},
+		{
+			"source": "dyinnz",
+			"target": "eairpeter",
+			"weight": 7
+		},
+		{
+			"source": "dyinnz",
+			"target": "weathfold",
+			"weight": 3
+		},
+		{
+			"source": "hysia",
+			"target": "x0day",
+			"weight": 1
+		},
+		{
+			"source": "flyr4nk",
+			"target": "hysia",
+			"weight": 4
+		},
+		{
+			"source": "lixiaoyan",
+			"target": "stonemoe",
+			"weight": 1
+		},
+		{
+			"source": "lixiaoyan",
+			"target": "vilic",
+			"weight": 1
+		},
+		{
+			"source": "determinant",
+			"target": "lixiaoyan",
+			"weight": 1
+		},
+		{
+			"source": "grzhan",
+			"target": "lixiaoyan",
+			"weight": 1
+		},
+		{
+			"source": "kinosang",
+			"target": "lixiaoyan",
+			"weight": 2
+		},
+		{
+			"source": "el-hoshino",
+			"target": "zodiacg",
+			"weight": 1
+		},
+		{
+			"source": "csimstu",
+			"target": "zcwwzdjn",
+			"weight": 2
+		},
+		{
+			"source": "nwmonster",
+			"target": "qoobee",
+			"weight": 1
+		},
+		{
+			"source": "gestapolur",
+			"target": "xiw9",
+			"weight": 2
+		},
+		{
+			"source": "eairpeter",
+			"target": "kskun",
+			"weight": 2
+		},
+		{
+			"source": "eairpeter",
+			"target": "weathfold",
+			"weight": 2
+		},
+		{
+			"source": "kingwl",
+			"target": "qaqmiao",
+			"weight": 2
+		},
+		{
+			"source": "kingwl",
+			"target": "zapline",
+			"weight": 1
+		},
+		{
+			"source": "edgarwang",
+			"target": "mrahmiao",
+			"weight": 2
+		},
+		{
+			"source": "hobozhang",
+			"target": "woodcutknife",
+			"weight": 2
+		},
+		{
+			"source": "determinant",
+			"target": "hobozhang",
+			"weight": 2
+		},
+		{
+			"source": "fffonion",
+			"target": "greendamtan",
+			"weight": 1
+		},
+		{
+			"source": "fffonion",
+			"target": "lastmayday",
+			"weight": 1
+		},
+		{
+			"source": "fffonion",
+			"target": "pinkwayne",
+			"weight": 1
+		},
+		{
+			"source": "fffonion",
+			"target": "yuealves",
+			"weight": 1
+		},
+		{
+			"source": "fffonion",
+			"target": "zuohaocheng",
+			"weight": 1
+		},
+		{
+			"source": "ccxuy",
+			"target": "fffonion",
+			"weight": 1
+		},
+		{
+			"source": "voidrank",
+			"target": "yuealves",
+			"weight": 3
+		},
+		{
+			"source": "amyxie96",
+			"target": "voidrank",
+			"weight": 1
+		},
+		{
+			"source": "dragonly",
+			"target": "voidrank",
+			"weight": 4
+		},
+		{
+			"source": "infiniteze",
+			"target": "voidrank",
+			"weight": 1
+		},
+		{
+			"source": "liujunyi-sjtu",
+			"target": "voidrank",
+			"weight": 1
+		},
+		{
+			"source": "luoxuemelody",
+			"target": "voidrank",
+			"weight": 1
+		},
+		{
+			"source": "quietshu",
+			"target": "voidrank",
+			"weight": 1
+		},
+		{
+			"source": "snlia",
+			"target": "voidrank",
+			"weight": 1
+		},
+		{
+			"source": "at15",
+			"target": "commouse",
+			"weight": 4
+		},
+		{
+			"source": "at15",
+			"target": "lukexuan",
+			"weight": 2
+		},
+		{
+			"source": "at15",
+			"target": "mingzz",
+			"weight": 1
+		},
+		{
+			"source": "at15",
+			"target": "swaylq",
+			"weight": 4
+		},
+		{
+			"source": "at15",
+			"target": "xsfour",
+			"weight": 3
+		},
+		{
+			"source": "herefjr",
+			"target": "stonemoe",
+			"weight": 1
+		},
+		{
+			"source": "astroprofundis",
+			"target": "gateswong",
+			"weight": 3
+		},
+		{
+			"source": "swaylq",
+			"target": "xsfour",
+			"weight": 3
+		},
+		{
+			"source": "commouse",
+			"target": "swaylq",
+			"weight": 3
+		},
+		{
+			"source": "peachwang",
+			"target": "swaylq",
+			"weight": 2
+		},
+		{
+			"source": "giumo",
+			"target": "kinosang",
+			"weight": 1
+		},
+		{
+			"source": "dsh0416",
+			"target": "lucklove",
+			"weight": 1
+		},
+		{
+			"source": "determinant",
+			"target": "yzgysjr",
+			"weight": 1
+		},
+		{
+			"source": "flyer103",
+			"target": "mssun",
+			"weight": 1
+		},
+		{
+			"source": "kelwin",
+			"target": "nwmonster",
+			"weight": 1
+		},
+		{
+			"source": "ci010",
+			"target": "dozono",
+			"weight": 1
+		},
+		{
+			"source": "vizee",
+			"target": "zapline",
+			"weight": 2
+		},
+		{
+			"source": "whuthj",
+			"target": "zapline",
+			"weight": 1
+		},
+		{
+			"source": "wjcsharp",
+			"target": "zapline",
+			"weight": 1
+		},
+		{
+			"source": "kingydw",
+			"target": "wuborush",
+			"weight": 3
+		},
+		{
+			"source": "littlekey",
+			"target": "tsuki",
+			"weight": 1
+		},
+		{
+			"source": "liji322",
+			"target": "wjcsharp",
+			"weight": 1
+		},
+		{
+			"source": "hanjun-dai",
+			"target": "raysmond",
+			"weight": 5
+		},
+		{
+			"source": "hanjun-dai",
+			"target": "xiw9",
+			"weight": 3
+		},
+		{
+			"source": "tsuki",
+			"target": "xiaowan3",
+			"weight": 1
+		},
+		{
+			"source": "gnaggnoyil",
+			"target": "tsuki",
+			"weight": 1
+		},
+		{
+			"source": "brainbush",
+			"target": "wfjsw",
+			"weight": 2
+		},
+		{
+			"source": "cuihaoleo",
+			"target": "wfjsw",
+			"weight": 3
+		},
+		{
+			"source": "farseerfc",
+			"target": "wfjsw",
+			"weight": 2
+		},
+		{
+			"source": "szszss",
+			"target": "wfjsw",
+			"weight": 2
+		},
+		{
+			"source": "codingyue",
+			"target": "potaty",
+			"weight": 2
+		},
+		{
+			"source": "quietshu",
+			"target": "thonatos",
+			"weight": 1
+		},
+		{
+			"source": "wjcsharp",
+			"target": "yunlingzi",
+			"weight": 1
+		},
+		{
+			"source": "imhugy",
+			"target": "wjcsharp",
+			"weight": 1
+		},
+		{
+			"source": "killvxk",
+			"target": "wjcsharp",
+			"weight": 1
+		},
+		{
+			"source": "sh3dow",
+			"target": "wjcsharp",
+			"weight": 1
+		},
+		{
+			"source": "nwmonster",
+			"target": "sigma-random",
+			"weight": 2
+		},
+		{
+			"source": "shoshindes",
+			"target": "sigma-random",
+			"weight": 1
+		},
+		{
+			"source": "lychees",
+			"target": "wwwwodddd",
+			"weight": 1
+		},
+		{
+			"source": "fuzion24",
+			"target": "timtadh",
+			"weight": 1
+		},
+		{
+			"source": "o0lazybear0o",
+			"target": "tjwudi",
+			"weight": 1
+		},
+		{
+			"source": "doskey",
+			"target": "gdier",
+			"weight": 1
+		},
+		{
+			"source": "asuna",
+			"target": "mooooooon",
+			"weight": 1
+		},
+		{
+			"source": "hiprince",
+			"target": "mizuchi",
+			"weight": 1
+		},
+		{
+			"source": "htc550605125",
+			"target": "zhouxinan",
+			"weight": 4
+		},
+		{
+			"source": "jackyzy823",
+			"target": "zhouxinan",
+			"weight": 1
+		},
+		{
+			"source": "myly10",
+			"target": "zhouxinan",
+			"weight": 6
+		},
+		{
+			"source": "quietshu",
+			"target": "zhouxinan",
+			"weight": 2
+		},
+		{
+			"source": "cccssw",
+			"target": "wssccc",
+			"weight": 2
+		},
+		{
+			"source": "xjingitty",
+			"target": "zxdvd",
+			"weight": 3
+		},
+		{
+			"source": "bin-y",
+			"target": "fxmy",
+			"weight": 1
+		},
+		{
+			"source": "dweinstein",
+			"target": "zzgambol",
+			"weight": 1
+		},
+		{
+			"source": "ci010",
+			"target": "ustc-zzzz",
+			"weight": 1
+		},
+		{
+			"source": "44670",
+			"target": "retme7",
+			"weight": 1
+		},
+		{
+			"source": "orthocenter",
+			"target": "suhang1994",
+			"weight": 4
+		},
+		{
+			"source": "quietshu",
+			"target": "suhang1994",
+			"weight": 1
+		},
+		{
+			"source": "caohongtao",
+			"target": "wukamm",
+			"weight": 2
+		},
+		{
+			"source": "freemanhsu",
+			"target": "peachwang",
+			"weight": 2
+		},
+		{
+			"source": "kuranyukie",
+			"target": "peachwang",
+			"weight": 1
+		},
+		{
+			"source": "orthocenter",
+			"target": "quietshu",
+			"weight": 4
+		},
+		{
+			"source": "orthocenter",
+			"target": "siuto",
+			"weight": 8
+		},
+		{
+			"source": "edwardchor",
+			"target": "orthocenter",
+			"weight": 5
+		},
+		{
+			"source": "isawdx",
+			"target": "orthocenter",
+			"weight": 4
+		},
+		{
+			"source": "lyqspace",
+			"target": "orthocenter",
+			"weight": 5
+		},
+		{
+			"source": "dragonly",
+			"target": "quietshu",
+			"weight": 1
+		},
+		{
+			"source": "dragonly",
+			"target": "yuealves",
+			"weight": 3
+		},
+		{
+			"source": "isawdx",
+			"target": "siuto",
+			"weight": 4
+		},
+		{
+			"source": "44670",
+			"target": "wssccc",
+			"weight": 3
+		},
+		{
+			"source": "dingjibang",
+			"target": "huizhangsama",
+			"weight": 1
+		},
+		{
+			"source": "dingjibang",
+			"target": "szszss",
+			"weight": 1
+		},
+		{
+			"source": "twd2",
+			"target": "wangrunji0408",
+			"weight": 1
+		},
+		{
+			"source": "mssun",
+			"target": "rayslxu",
+			"weight": 2
+		},
+		{
+			"source": "bincker",
+			"target": "mssun",
+			"weight": 1
+		},
+		{
+			"source": "kccai",
+			"target": "mssun",
+			"weight": 2
+		},
+		{
+			"source": "mindmac",
+			"target": "mssun",
+			"weight": 1
+		},
+		{
+			"source": "constaline",
+			"target": "dantmnf",
+			"weight": 1
+		},
+		{
+			"source": "felix021",
+			"target": "upsuper",
+			"weight": 1
+		},
+		{
+			"source": "itanch",
+			"target": "nxf17",
+			"weight": 3
+		},
+		{
+			"source": "huzecong",
+			"target": "meimisaki",
+			"weight": 2
+		},
+		{
+			"source": "cuihaoleo",
+			"target": "farseerfc",
+			"weight": 3
+		},
+		{
+			"source": "15cm",
+			"target": "el-hoshino",
+			"weight": 1
+		},
+		{
+			"source": "innocentim",
+			"target": "upsuper",
+			"weight": 2
+		},
+		{
+			"source": "legendtang",
+			"target": "wicastchen",
+			"weight": 3
+		},
+		{
+			"source": "brickgao",
+			"target": "legendtang",
+			"weight": 4
+		},
+		{
+			"source": "magicae",
+			"target": "potaty",
+			"weight": 2
+		},
+		{
+			"source": "chibaheit",
+			"target": "magicae",
+			"weight": 9
+		},
+		{
+			"source": "taiyangc",
+			"target": "upsuper",
+			"weight": 1
+		},
+		{
+			"source": "dantmnf",
+			"target": "txmszlou",
+			"weight": 2
+		},
+		{
+			"source": "htc550605125",
+			"target": "myly10",
+			"weight": 4
+		},
+		{
+			"source": "cuihaoleo",
+			"target": "pandada8",
+			"weight": 2
+		},
+		{
+			"source": "shoshindes",
+			"target": "yl790",
+			"weight": 1
+		},
+		{
+			"source": "ifighting",
+			"target": "shoshindes",
+			"weight": 1
+		},
+		{
+			"source": "initbar",
+			"target": "shoshindes",
+			"weight": 1
+		},
+		{
+			"source": "layzie",
+			"target": "shoshindes",
+			"weight": 1
+		},
+		{
+			"source": "rivsen",
+			"target": "shoshindes",
+			"weight": 1
+		},
+		{
+			"source": "dweinstein",
+			"target": "layzie",
+			"weight": 1
+		},
+		{
+			"source": "syc728",
+			"target": "szszss",
+			"weight": 2
+		},
+		{
+			"source": "abrahamhokuto",
+			"target": "weathfold",
+			"weight": 1
+		},
+		{
+			"source": "bung87",
+			"target": "ikeraiza",
+			"weight": 2
+		},
+		{
+			"source": "tioover",
+			"target": "wontoncc",
+			"weight": 1
+		},
+		{
+			"source": "astroprofundis",
+			"target": "tioover",
+			"weight": 1
+		},
+		{
+			"source": "brickgao",
+			"target": "tioover",
+			"weight": 2
+		},
+		{
+			"source": "ir193",
+			"target": "tioover",
+			"weight": 1
+		},
+		{
+			"source": "meimisaki",
+			"target": "tioover",
+			"weight": 1
+		},
+		{
+			"source": "daice",
+			"target": "quietshu",
+			"weight": 1
+		},
+		{
+			"source": "sapherise",
+			"target": "vizee",
+			"weight": 1
+		},
+		{
+			"source": "changlingliu",
+			"target": "meimisaki",
+			"weight": 1
+		},
+		{
+			"source": "599316527",
+			"target": "tjwudi",
+			"weight": 1
+		},
+		{
+			"source": "0dayzh",
+			"target": "gdier",
+			"weight": 1
+		},
+		{
+			"source": "nwmonster",
+			"target": "ourren",
+			"weight": 2
+		},
+		{
+			"source": "nwmonster",
+			"target": "sainxiii",
+			"weight": 1
+		},
+		{
+			"source": "nwmonster",
+			"target": "x0day",
+			"weight": 1
+		},
+		{
+			"source": "nwmonster",
+			"target": "xosdy",
+			"weight": 1
+		},
+		{
+			"source": "ababook",
+			"target": "nwmonster",
+			"weight": 1
+		},
+		{
+			"source": "ir193",
+			"target": "nwmonster",
+			"weight": 1
+		},
+		{
+			"source": "patwonder",
+			"target": "shyangs",
+			"weight": 1
+		},
+		{
+			"source": "409915016",
+			"target": "stonemoe",
+			"weight": 1
+		},
+		{
+			"source": "dantmnf",
+			"target": "rivsen",
+			"weight": 1
+		},
+		{
+			"source": "bung87",
+			"target": "stonemoe",
+			"weight": 1
+		},
+		{
+			"source": "ethe",
+			"target": "stonemoe",
+			"weight": 2
+		},
+		{
+			"source": "meimisaki",
+			"target": "zszyellow",
+			"weight": 1
+		},
+		{
+			"source": "boleynsu",
+			"target": "meimisaki",
+			"weight": 3
+		},
+		{
+			"source": "quietshu",
+			"target": "serenaqinggg",
+			"weight": 1
+		},
+		{
+			"source": "quietshu",
+			"target": "seterplus",
+			"weight": 1
+		},
+		{
+			"source": "quietshu",
+			"target": "wwwwodddd",
+			"weight": 1
+		},
+		{
+			"source": "quietshu",
+			"target": "yuealves",
+			"weight": 1
+		},
+		{
+			"source": "czy941030",
+			"target": "quietshu",
+			"weight": 1
+		},
+		{
+			"source": "definiter",
+			"target": "quietshu",
+			"weight": 1
+		},
+		{
+			"source": "edwardchor",
+			"target": "quietshu",
+			"weight": 2
+		},
+		{
+			"source": "lyqspace",
+			"target": "quietshu",
+			"weight": 1
+		},
+		{
+			"source": "billhhh",
+			"target": "lucklove",
+			"weight": 2
+		},
+		{
+			"source": "szszss",
+			"target": "weathfold",
+			"weight": 1
+		},
+		{
+			"source": "brainbush",
+			"target": "szszss",
+			"weight": 4
+		},
+		{
+			"source": "larryxiao",
+			"target": "lewischeng-ms",
+			"weight": 1
+		},
+		{
+			"source": "billryan",
+			"target": "larryxiao",
+			"weight": 1
+		},
+		{
+			"source": "silencious",
+			"target": "zackszhu",
+			"weight": 4
+		},
+		{
+			"source": "ihsoh",
+			"target": "twd2",
+			"weight": 5
+		},
+		{
+			"source": "giumo",
+			"target": "wicastchen",
+			"weight": 4
+		},
+		{
+			"source": "upsuper",
+			"target": "wjsjwr",
+			"weight": 1
+		},
+		{
+			"source": "accreator",
+			"target": "yzgysjr",
+			"weight": 1
+		},
+		{
+			"source": "chinahackers",
+			"target": "killvxk",
+			"weight": 1
+		},
+		{
+			"source": "44670",
+			"target": "twd2",
+			"weight": 6
+		},
+		{
+			"source": "benpigchu",
+			"target": "twd2",
+			"weight": 1
+		},
+		{
+			"source": "seiarotg",
+			"target": "twd2",
+			"weight": 3
+		},
+		{
+			"source": "magicnat",
+			"target": "weathfold",
+			"weight": 1
+		},
+		{
+			"source": "brickgao",
+			"target": "upsuper",
+			"weight": 2
+		},
+		{
+			"source": "kccai",
+			"target": "rayslxu",
+			"weight": 2
+		},
+		{
+			"source": "gdier",
+			"target": "liruqi",
+			"weight": 2
+		},
+		{
+			"source": "gdier",
+			"target": "tewilove",
+			"weight": 4
+		},
+		{
+			"source": "gdier",
+			"target": "zccicy",
+			"weight": 3
+		},
+		{
+			"source": "bincker",
+			"target": "i25ffz",
+			"weight": 1
+		},
+		{
+			"source": "dweinstein",
+			"target": "dwsyoyo",
+			"weight": 1
+		},
+		{
+			"source": "dweinstein",
+			"target": "inaaekim",
+			"weight": 1
+		},
+		{
+			"source": "dweinstein",
+			"target": "lsuper",
+			"weight": 1
+		},
+		{
+			"source": "dweinstein",
+			"target": "scateu",
+			"weight": 1
+		},
+		{
+			"source": "dweinstein",
+			"target": "suyashsjadhav",
+			"weight": 1
+		},
+		{
+			"source": "bincker",
+			"target": "dweinstein",
+			"weight": 1
+		},
+		{
+			"source": "bracken-dev",
+			"target": "dweinstein",
+			"weight": 1
+		},
+		{
+			"source": "44670",
+			"target": "tewilove",
+			"weight": 2
+		},
+		{
+			"source": "upsuper",
+			"target": "yukiexe",
+			"weight": 1
+		},
+		{
+			"source": "upsuper",
+			"target": "zhouqt",
+			"weight": 1
+		},
+		{
+			"source": "599316527",
+			"target": "upsuper",
+			"weight": 1
+		},
+		{
+			"source": "mrahmiao",
+			"target": "upsuper",
+			"weight": 1
+		},
+		{
+			"source": "mrain",
+			"target": "upsuper",
+			"weight": 1
+		},
+		{
+			"source": "shadowglen",
+			"target": "upsuper",
+			"weight": 1
+		},
+		{
+			"source": "dantmnf",
+			"target": "zwindl",
+			"weight": 3
+		},
+		{
+			"source": "stevearzh",
+			"target": "zwindl",
+			"weight": 3
+		},
+		{
+			"source": "astroprofundis",
+			"target": "shadowglen",
+			"weight": 3
+		},
+		{
+			"source": "aquarhead",
+			"target": "astroprofundis",
+			"weight": 2
+		},
+		{
+			"source": "gilbertheywood",
+			"target": "jungyhuk",
+			"weight": 2
+		},
+		{
+			"source": "gilbertheywood",
+			"target": "yzgysjr",
+			"weight": 3
+		},
+		{
+			"source": "jungyhuk",
+			"target": "yzgysjr",
+			"weight": 1
+		},
+		{
+			"source": "chibaheit",
+			"target": "potaty",
+			"weight": 4
+		},
+		{
+			"source": "dantmnf",
+			"target": "stevearzh",
+			"weight": 9
+		},
+		{
+			"source": "ourren",
+			"target": "secondwtq",
+			"weight": 1
+		},
+		{
+			"source": "bracken-dev",
+			"target": "fuzion24",
+			"weight": 1
+		},
+		{
+			"source": "edwardchor",
+			"target": "lujiajing1126",
+			"weight": 1
+		},
+		{
+			"source": "freefcw",
+			"target": "liruqi",
+			"weight": 1
+		},
+		{
+			"source": "bincker",
+			"target": "fuzion24",
+			"weight": 1
+		},
+		{
+			"source": "volzkzg",
+			"target": "yzgysjr",
+			"weight": 1
+		},
+		{
+			"source": "potaty",
+			"target": "yzgysjr",
+			"weight": 1
+		}
+	]
+}
